@@ -1,0 +1,33 @@
+import ts from 'typescript';
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+const catalogText=fs.readFileSync('src/catalog.ts','utf8');
+const js=ts.transpileModule(catalogText,{compilerOptions:{module:ts.ModuleKind.ES2022,target:ts.ScriptTarget.ES2022}}).outputText;
+const {modules,categories,kinds,featuredIds}=await import('data:text/javascript;base64,'+Buffer.from(js).toString('base64'));
+const sourceJs=ts.transpileModule(fs.readFileSync('src/sources.ts','utf8'),{compilerOptions:{module:ts.ModuleKind.ES2022}}).outputText;
+const {sources}=await import('data:text/javascript;base64,'+Buffer.from(sourceJs).toString('base64'));
+assert.equal(new Set(modules.map(m=>m.id)).size,modules.length,'IDs must be unique');
+for(const m of modules){assert(categories.some(c=>c.id===m.category));assert(sources[m.source],`Missing source ${m.title}`);assert(kinds[m.kind],`Missing kind ${m.title}`);for(const key of ['title','summary','pitfall','example','demo'])assert(m[key]?.length>0,`Empty ${key}: ${m.id}`);assert(m.rules.length>=2,`Insufficient rules: ${m.id}`);assert(m.rules.every(r=>r.trim().length>0));}
+assert(featuredIds.every(id=>modules.some(m=>m.id===id)));
+const summary=categories.map(c=>({category:c.title,count:modules.filter(m=>m.category===c.id).length}));
+fs.writeFileSync('public/catalog.json',JSON.stringify({version:1,method:'Авторские объяснения и учебные сценарии. Источники — нормативная опора или дополнительное чтение. Каталог не претендует на конечный список всех правил.',categories,modules,sources},null,2));
+const quote=x=>'"'+String(x).replaceAll('"','""')+'"';
+const rows=[['ID','Название','Раздел','Тип','Смысл','Правила','Ограничение','Пример','Источник'],...modules.map(m=>[m.id,m.title,categories.find(c=>c.id===m.category).title,kinds[m.kind],m.summary,m.rules.join(' • '),m.pitfall,m.example,sources[m.source].url])];
+fs.writeFileSync('public/catalog.csv','\uFEFF'+rows.map(row=>row.map(quote).join(';')).join('\n')+'\n');
+console.log(JSON.stringify({modules:modules.length,categories:categories.length,sourceCount:Object.keys(sources).length,uniqueIds:'pass',contentFields:'pass',sources:'pass',summary},null,2));
+// Validate personal imports without touching a browser's real localStorage.
+const defaultConfig={accent:'#6959c7',radius:16,spacing:16,duration:400,easing:'cubic-bezier(.2,.8,.2,1)',platform:'ios',reduced:false};
+let storageJs=ts.transpileModule(fs.readFileSync('src/storage.ts','utf8'),{compilerOptions:{module:ts.ModuleKind.ES2022,target:ts.ScriptTarget.ES2022}}).outputText.replace(/^import .+;\s*$/gm,'');
+storageJs=`const _modules=${JSON.stringify(modules.map(m=>({id:m.id,rules:m.rules})))}; const getModule=id=>_modules.find(m=>m.id===id); const defaultConfig=${JSON.stringify(defaultConfig)};\n`+storageJs;
+const {validateData}=await import('data:text/javascript;base64,'+Buffer.from(storageJs).toString('base64'));
+assert.throws(()=>validateData(null));
+assert.throws(()=>validateData({version:2,favorites:[]}));
+assert.throws(()=>validateData({version:1,favorites:'bad'}));
+const safe=validateData({version:1,favorites:['composition-1','composition-1','unknown',2],notes:{'composition-1':'x'.repeat(5010),'unknown':'ignore'},checked:{'composition-1':[0,0,1,999,-1,'1']},config:{accent:'url(secret)',radius:-1,spacing:999,duration:null,easing:'invalid',platform:'unsupported',reduced:true}});
+assert.deepEqual(safe.favorites,['composition-1']);
+assert.equal(safe.notes['composition-1'].length,5000);
+assert.equal(safe.notes.unknown,undefined);
+assert.deepEqual(safe.checked['composition-1'],[0,1]);
+assert.deepEqual(safe.config,{...defaultConfig,reduced:true});
+assert.deepEqual(validateData(safe),safe,'Round-trip preserves valid personal data');
+console.log('Personal data: schema rejection, unknown IDs, deduplication, note length, checklist bounds, config defaults and round-trip PASS.');
