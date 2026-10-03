@@ -1,0 +1,1 @@
+import Example from '../../../../public/components/animate-ui-radix-dropdown-menu/files/NextExample';import '../../../../public/components/animate-ui-radix-dropdown-menu/files/demo.css';export default function Page(){return <div style={{height:'100vh'}}><Example/></div>}

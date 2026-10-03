@@ -1,0 +1,55 @@
+{
+  "id": "uiverse-nawsome-short-dolphin-98",
+  "revision": "adbd2adde0a299a3956ea288fb444ec01891ca41",
+  "bundleHash": "233674f74e7bc3d8be3e37f4953d839d0587faf8894f26555d7112998fe6111c",
+  "sourceUrl": "https://uiverse.io/Nawsome/short-dolphin-98",
+  "license": "MIT",
+  "entry": "Toggle-switches/Nawsome_short-dolphin-98.html",
+  "sourceEntry": "Toggle-switches/Nawsome_short-dolphin-98.html",
+  "author": "Nawsome",
+  "dependencies": {},
+  "files": [
+    {
+      "path": "Toggle-switches/Nawsome_short-dolphin-98.html",
+      "url": "/components/uiverse-nawsome-short-dolphin-98/files/Toggle-switches/Nawsome_short-dolphin-98.html",
+      "sha256": "415e0b2b546e83169ce179296acacba5bb3d3417cd74ba5a193a1c9c73f12ca9",
+      "bytes": 3750,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/uiverse-nawsome-short-dolphin-98/files/LICENSE.txt",
+      "sha256": "7feadcd7a611d37a4546c99f63a162bdf65656137828ebcba92e57dccfa368a4",
+      "bytes": 1067,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/uiverse-nawsome-short-dolphin-98/files/README.md",
+      "sha256": "753067f6599a156a5c68661119e403f3286e17ab7b56938efa712d5d2edbd106",
+      "bytes": 1209,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/uiverse-nawsome-short-dolphin-98/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/uiverse-nawsome-short-dolphin-98/files/tsconfig.paths.json",
+      "sha256": "113c9d3a7de4f46f7015d3e43fe190b854f93d6ad66bf0bccd2da5de4c9f246b",
+      "bytes": 66,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/uiverse-nawsome-short-dolphin-98/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    }
+  ]
+}

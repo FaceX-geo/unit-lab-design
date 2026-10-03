@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/registry/components/buttons/button": [
+        "./runtime/components/animate-ui/components/buttons/button.jsx"
+      ],
+      "@/registry/primitives/buttons/button": [
+        "./runtime/components/animate-ui/primitives/buttons/button.jsx"
+      ],
+      "@/registry/primitives/animate/slot": [
+        "./runtime/components/animate-ui/primitives/animate/slot.jsx"
+      ],
+      "@workspace/ui/lib/utils": [
+        "./runtime/workspace-ui/lib/utils.js"
+      ],
+      "@/registry/components/community/motion-carousel": [
+        "./runtime/components/animate-ui/components/community/motion-carousel.jsx"
+      ]
+    }
+  }
+}

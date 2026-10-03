@@ -1,0 +1,141 @@
+{
+  "id": "animate-ui-community-radial-menu",
+  "revision": "efeb96ffd7a3b7a4868667e4ac3c346620fb3044",
+  "bundleHash": "e9305604209d66ba05035f171e0aa654bed4f061c9b46da1c6bee383732179f6",
+  "sourceUrl": "https://github.com/imskyleen/animate-ui/blob/efeb96ffd7a3b7a4868667e4ac3c346620fb3044/apps/www/registry/components/community/radial-menu/index.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/animate-ui/components/community/radial-menu.tsx",
+  "runtimeEntry": "runtime/components/animate-ui/components/community/radial-menu.jsx",
+  "author": "Skyleen and contributors",
+  "dependencies": {
+    "@base-ui-components/react": "npm:@base-ui/react@1.8.0",
+    "clsx": "2.1.1",
+    "lucide-react": "0.577.0",
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/animate-ui/components/community/radial-menu.tsx",
+      "url": "/components/animate-ui-community-radial-menu/files/components/animate-ui/components/community/radial-menu.tsx",
+      "sha256": "7089b4688cc5d838cf36197aca4a55f5e2d7e7408f15b64436d38a35bd7bac9b",
+      "bytes": 9512,
+      "original": true
+    },
+    {
+      "path": "workspace-ui/lib/utils.ts",
+      "url": "/components/animate-ui-community-radial-menu/files/workspace-ui/lib/utils.ts",
+      "sha256": "7c8c3dfc0cdd370d44932828eb067ef771c8fe7996693221d5d4b90af6d54f2d",
+      "bytes": 166,
+      "original": true
+    },
+    {
+      "path": "registry/demo/components/community/radial-menu/index.tsx",
+      "url": "/components/animate-ui-community-radial-menu/files/registry/demo/components/community/radial-menu/index.tsx",
+      "sha256": "492b5d3cbcbf296cf8d2b79b371ea62db9308b8078c70ae5231159e6a9bc2696",
+      "bytes": 842,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/animate-ui-community-radial-menu/files/LICENSE.txt",
+      "sha256": "bb145c4b692008a88e8e565953d1ca258f2f9ea25190afaa86877a9e9de1c040",
+      "bytes": 1292,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/animate-ui-community-radial-menu/files/README.md",
+      "sha256": "2e2110de1dffe2d1ee49d7189bcb566a9559fb6201da42d623db14ff352b0be6",
+      "bytes": 2194,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/animate-ui-community-radial-menu/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/animate-ui-community-radial-menu/files/tsconfig.paths.json",
+      "sha256": "7f1c826b96118727df60f4794862055def2f0075be360173619021f488981b23",
+      "bytes": 303,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/animate-ui-community-radial-menu/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/animate-ui/components/community/radial-menu.jsx",
+      "url": "/components/animate-ui-community-radial-menu/files/runtime/components/animate-ui/components/community/radial-menu.jsx",
+      "sha256": "3e8646cf1886dfa92824f57554946fcd43233a4ac4a08a2716311e2db69d4841",
+      "bytes": 6755,
+      "original": false
+    },
+    {
+      "path": "runtime/components/animate-ui/components/community/radial-menu.d.ts",
+      "url": "/components/animate-ui-community-radial-menu/files/runtime/components/animate-ui/components/community/radial-menu.d.ts",
+      "sha256": "569bb95c81424a9440e684590b3a693b71741a928a1517cad3d6b06c2398993b",
+      "bytes": 609,
+      "original": false
+    },
+    {
+      "path": "runtime/workspace-ui/lib/utils.js",
+      "url": "/components/animate-ui-community-radial-menu/files/runtime/workspace-ui/lib/utils.js",
+      "sha256": "3ed9a6b9bbfd7777c835f14ea89f45614483f1c40eeffcacaa49766125a3df10",
+      "bytes": 139,
+      "original": false
+    },
+    {
+      "path": "runtime/workspace-ui/lib/utils.d.ts",
+      "url": "/components/animate-ui-community-radial-menu/files/runtime/workspace-ui/lib/utils.d.ts",
+      "sha256": "512960c0e955a2324b34354dac25e3e4d431a1af4cd33077935eda5e95c8b7e1",
+      "bytes": 101,
+      "original": false
+    },
+    {
+      "path": "runtime/registry/demo/components/community/radial-menu/index.jsx",
+      "url": "/components/animate-ui-community-radial-menu/files/runtime/registry/demo/components/community/radial-menu/index.jsx",
+      "sha256": "e07c11578e1e2051dcd075c1d6df05413c6082b430935d70f165fbbaefa75bd6",
+      "bytes": 828,
+      "original": false
+    },
+    {
+      "path": "runtime/registry/demo/components/community/radial-menu/index.d.ts",
+      "url": "/components/animate-ui-community-radial-menu/files/runtime/registry/demo/components/community/radial-menu/index.d.ts",
+      "sha256": "a4054d03960f03648af111a2667ceb49b70c84437caca434c41c9eb341e110c7",
+      "bytes": 94,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/animate-ui-community-radial-menu/files/Example.tsx",
+      "sha256": "22b36939a7868bc59a52960307737a2c06abe04e525076a98fcbb5180039248f",
+      "bytes": 771,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/animate-ui-community-radial-menu/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/animate-ui-community-radial-menu/files/vite.config.fragment.mjs",
+      "sha256": "64971de7d9d2784eb0d166c5bedf5239ee894c949217fc49a9d38e903e28d76f",
+      "bytes": 475,
+      "original": false
+    }
+  ]
+}

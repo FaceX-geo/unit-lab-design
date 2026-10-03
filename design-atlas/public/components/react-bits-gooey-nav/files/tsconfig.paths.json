@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "./GooeyNav.css": [
+        "./runtime/components/react-bits/GooeyNav/GooeyNav.css"
+      ]
+    }
+  }
+}

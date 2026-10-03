@@ -1,0 +1,96 @@
+{
+  "id": "react-bits-silk",
+  "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+  "bundleHash": "dfc4a907d4ad309901e67db334c5de7256663370fa4bde44cc60f7c1e0f31c5d",
+  "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Backgrounds/Silk/Silk.tsx",
+  "license": "MIT + Commons Clause",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/react-bits/Silk/Silk.tsx",
+  "runtimeEntry": "runtime/components/react-bits/Silk/Silk.jsx",
+  "author": "David Haz",
+  "dependencies": {
+    "@react-three/fiber": "9.8.1",
+    "react": "19.3.0",
+    "three": "0.186.1",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/react-bits/Silk/Silk.tsx",
+      "url": "/components/react-bits-silk/files/components/react-bits/Silk/Silk.tsx",
+      "sha256": "e96f9aab008d2d01655ccfeb0657a6684766b69eac34d21507641c51f2ce2028",
+      "bytes": 5216,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/react-bits-silk/files/LICENSE.txt",
+      "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+      "bytes": 1303,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/react-bits-silk/files/README.md",
+      "sha256": "18a12c1ca1595d39c875c592262545843f41901dce2fa176c0252995dc080ff8",
+      "bytes": 2055,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/react-bits-silk/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/react-bits-silk/files/tsconfig.paths.json",
+      "sha256": "113c9d3a7de4f46f7015d3e43fe190b854f93d6ad66bf0bccd2da5de4c9f246b",
+      "bytes": 66,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/react-bits-silk/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/Silk/Silk.jsx",
+      "url": "/components/react-bits-silk/files/runtime/components/react-bits/Silk/Silk.jsx",
+      "sha256": "3bec767c62346cf70a8c176a7fca0b2d68060480e2d0585a578169546d20619f",
+      "bytes": 4337,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/Silk/Silk.d.ts",
+      "url": "/components/react-bits-silk/files/runtime/components/react-bits/Silk/Silk.d.ts",
+      "sha256": "0703bd02b3392eb5139674420fc5d9823b2d3ac28d6904debd8d5e22425fc523",
+      "bytes": 257,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/react-bits-silk/files/Example.tsx",
+      "sha256": "c22d6cd011f4390e855d3543446960dff8fb2ad75b7733ade13214b3f3d45b1f",
+      "bytes": 838,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/react-bits-silk/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/react-bits-silk/files/vite.config.fragment.mjs",
+      "sha256": "5d2907e5931b21667b1e984b7311670f9d05e67a26f5b50a901b94dda9cababa",
+      "bytes": 299,
+      "original": false
+    }
+  ]
+}

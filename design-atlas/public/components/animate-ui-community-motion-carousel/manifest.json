@@ -1,0 +1,206 @@
+{
+  "id": "animate-ui-community-motion-carousel",
+  "revision": "efeb96ffd7a3b7a4868667e4ac3c346620fb3044",
+  "bundleHash": "9a444918f40437936f637dcee677fb156363361ad73b8121e21c513e4e2503bd",
+  "sourceUrl": "https://github.com/imskyleen/animate-ui/blob/efeb96ffd7a3b7a4868667e4ac3c346620fb3044/apps/www/registry/components/community/motion-carousel/index.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/animate-ui/components/community/motion-carousel.tsx",
+  "runtimeEntry": "runtime/components/animate-ui/components/community/motion-carousel.jsx",
+  "author": "Skyleen and contributors",
+  "dependencies": {
+    "class-variance-authority": "0.7.1",
+    "clsx": "2.1.1",
+    "embla-carousel": "8.6.0",
+    "embla-carousel-react": "8.6.0",
+    "lucide-react": "0.577.0",
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/animate-ui/components/community/motion-carousel.tsx",
+      "url": "/components/animate-ui-community-motion-carousel/files/components/animate-ui/components/community/motion-carousel.tsx",
+      "sha256": "b1d15514fc18da0441865587a4ffdec4431e90ad3adf68fd6395b1d3d4482233",
+      "bytes": 5242,
+      "original": true
+    },
+    {
+      "path": "components/animate-ui/components/buttons/button.tsx",
+      "url": "/components/animate-ui-community-motion-carousel/files/components/animate-ui/components/buttons/button.tsx",
+      "sha256": "ce7b9c14ccf2ec9bb7af93ff537396411ec4f0ae6a9a3af0ca4130e5cd865700",
+      "bytes": 2430,
+      "original": true
+    },
+    {
+      "path": "components/animate-ui/primitives/buttons/button.tsx",
+      "url": "/components/animate-ui-community-motion-carousel/files/components/animate-ui/primitives/buttons/button.tsx",
+      "sha256": "cd300bc42b8111f81b911b113a56607601c187038e8d16a9a44f2e288348b5de",
+      "bytes": 639,
+      "original": true
+    },
+    {
+      "path": "components/animate-ui/primitives/animate/slot.tsx",
+      "url": "/components/animate-ui-community-motion-carousel/files/components/animate-ui/primitives/animate/slot.tsx",
+      "sha256": "71ab5d88b89e0766d69bb5b4fd3918a263c14ed01f5745fc0323ed25a9cb87c8",
+      "bytes": 2363,
+      "original": true
+    },
+    {
+      "path": "workspace-ui/lib/utils.ts",
+      "url": "/components/animate-ui-community-motion-carousel/files/workspace-ui/lib/utils.ts",
+      "sha256": "7c8c3dfc0cdd370d44932828eb067ef771c8fe7996693221d5d4b90af6d54f2d",
+      "bytes": 166,
+      "original": true
+    },
+    {
+      "path": "registry/demo/components/community/motion-carousel/index.tsx",
+      "url": "/components/animate-ui-community-motion-carousel/files/registry/demo/components/community/motion-carousel/index.tsx",
+      "sha256": "b3a8a6922de515ca9371830c684680ade8f97c6274a227241942bb996836ae55",
+      "bytes": 423,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/animate-ui-community-motion-carousel/files/LICENSE.txt",
+      "sha256": "bb145c4b692008a88e8e565953d1ca258f2f9ea25190afaa86877a9e9de1c040",
+      "bytes": 1292,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/animate-ui-community-motion-carousel/files/README.md",
+      "sha256": "263c15378fcbebd2f9f57709a39cdc4f75366290d377c0e49000de985c63402c",
+      "bytes": 2213,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/animate-ui-community-motion-carousel/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/animate-ui-community-motion-carousel/files/tsconfig.paths.json",
+      "sha256": "6134d0da9d8bed6b8eaa282305f4875674f0c14e2e811c6ca4823e924c0bf313",
+      "bytes": 694,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/animate-ui-community-motion-carousel/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/animate-ui/components/community/motion-carousel.jsx",
+      "url": "/components/animate-ui-community-motion-carousel/files/runtime/components/animate-ui/components/community/motion-carousel.jsx",
+      "sha256": "391d3219eaec19bdc87edea381e202ae447ee6813cb4255a4c884927b5c2e71b",
+      "bytes": 4344,
+      "original": false
+    },
+    {
+      "path": "runtime/components/animate-ui/components/community/motion-carousel.d.ts",
+      "url": "/components/animate-ui-community-motion-carousel/files/runtime/components/animate-ui/components/community/motion-carousel.d.ts",
+      "sha256": "d21eb57022a94ae9f33750a784c1cadc83026a04c211e926e1e6f9895f03bb3d",
+      "bytes": 254,
+      "original": false
+    },
+    {
+      "path": "runtime/components/animate-ui/components/buttons/button.jsx",
+      "url": "/components/animate-ui-community-motion-carousel/files/runtime/components/animate-ui/components/buttons/button.jsx",
+      "sha256": "a427a8efaeaa9bc94972d038746f05bb6585e3a498a4a5c09a13ba1229762cf5",
+      "bytes": 2231,
+      "original": false
+    },
+    {
+      "path": "runtime/components/animate-ui/components/buttons/button.d.ts",
+      "url": "/components/animate-ui-community-motion-carousel/files/runtime/components/animate-ui/components/buttons/button.d.ts",
+      "sha256": "4899cebc35b2dcad0a6ddf864e37298fa9b304fff562346c41e89c891916b062",
+      "bytes": 694,
+      "original": false
+    },
+    {
+      "path": "runtime/components/animate-ui/primitives/buttons/button.jsx",
+      "url": "/components/animate-ui-community-motion-carousel/files/runtime/components/animate-ui/primitives/buttons/button.jsx",
+      "sha256": "fac3631c4394b8ab86407f44308785b5af5c7aa428a53ff3ba3e64a46def2d31",
+      "bytes": 408,
+      "original": false
+    },
+    {
+      "path": "runtime/components/animate-ui/primitives/buttons/button.d.ts",
+      "url": "/components/animate-ui-community-motion-carousel/files/runtime/components/animate-ui/primitives/buttons/button.d.ts",
+      "sha256": "d0baf1071717430d627523e656137bdd4576d89596eca2e9b1ca1f1fe9539dd9",
+      "bytes": 408,
+      "original": false
+    },
+    {
+      "path": "runtime/components/animate-ui/primitives/animate/slot.jsx",
+      "url": "/components/animate-ui-community-motion-carousel/files/runtime/components/animate-ui/primitives/animate/slot.jsx",
+      "sha256": "3d4e2f33769b6e4fa740f9a2304f1dbd4a148117fa60c74715738ffafd937e17",
+      "bytes": 1470,
+      "original": false
+    },
+    {
+      "path": "runtime/components/animate-ui/primitives/animate/slot.d.ts",
+      "url": "/components/animate-ui-community-motion-carousel/files/runtime/components/animate-ui/primitives/animate/slot.d.ts",
+      "sha256": "4885a607fbcb0ee06e75c6e2a24fcfda2c23f2f1d1d1fabd36a6d6e367662c52",
+      "bytes": 738,
+      "original": false
+    },
+    {
+      "path": "runtime/workspace-ui/lib/utils.js",
+      "url": "/components/animate-ui-community-motion-carousel/files/runtime/workspace-ui/lib/utils.js",
+      "sha256": "3ed9a6b9bbfd7777c835f14ea89f45614483f1c40eeffcacaa49766125a3df10",
+      "bytes": 139,
+      "original": false
+    },
+    {
+      "path": "runtime/workspace-ui/lib/utils.d.ts",
+      "url": "/components/animate-ui-community-motion-carousel/files/runtime/workspace-ui/lib/utils.d.ts",
+      "sha256": "512960c0e955a2324b34354dac25e3e4d431a1af4cd33077935eda5e95c8b7e1",
+      "bytes": 101,
+      "original": false
+    },
+    {
+      "path": "runtime/registry/demo/components/community/motion-carousel/index.jsx",
+      "url": "/components/animate-ui-community-motion-carousel/files/runtime/registry/demo/components/community/motion-carousel/index.jsx",
+      "sha256": "9fd191a0c56150b076d9384c5d0de855543ca194e2b79babfbd3c9c7874eb6f7",
+      "bytes": 358,
+      "original": false
+    },
+    {
+      "path": "runtime/registry/demo/components/community/motion-carousel/index.d.ts",
+      "url": "/components/animate-ui-community-motion-carousel/files/runtime/registry/demo/components/community/motion-carousel/index.d.ts",
+      "sha256": "159207b2815460491ec1efb37d31aa5155c7a2b8a4ed574552fa0dd09f87e5c7",
+      "bytes": 98,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/animate-ui-community-motion-carousel/files/Example.tsx",
+      "sha256": "7ed5aacbc150fc8d247690d3542daa2f1e7cc98d4cd153f79b8f88687bd603dc",
+      "bytes": 779,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/animate-ui-community-motion-carousel/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/animate-ui-community-motion-carousel/files/vite.config.fragment.mjs",
+      "sha256": "9e32467b5949ab31889f46573f02a46979c9f7524a8588d6daf9ee55505208af",
+      "bytes": 782,
+      "original": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "./CircularGallery.css": [
+        "./runtime/components/react-bits/CircularGallery/CircularGallery.css"
+      ]
+    }
+  }
+}

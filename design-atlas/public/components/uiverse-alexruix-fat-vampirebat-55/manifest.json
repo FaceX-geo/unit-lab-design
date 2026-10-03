@@ -1,0 +1,55 @@
+{
+  "id": "uiverse-alexruix-fat-vampirebat-55",
+  "revision": "adbd2adde0a299a3956ea288fb444ec01891ca41",
+  "bundleHash": "3407ed5a3f855009c279c92540afd57ad4bd3e2b032e88e3d6530b0c9b50b5da",
+  "sourceUrl": "https://uiverse.io/alexruix/fat-vampirebat-55",
+  "license": "MIT",
+  "entry": "Inputs/alexruix_fat-vampirebat-55.html",
+  "sourceEntry": "Inputs/alexruix_fat-vampirebat-55.html",
+  "author": "alexruix",
+  "dependencies": {},
+  "files": [
+    {
+      "path": "Inputs/alexruix_fat-vampirebat-55.html",
+      "url": "/components/uiverse-alexruix-fat-vampirebat-55/files/Inputs/alexruix_fat-vampirebat-55.html",
+      "sha256": "195f3f295b11769c900843105672872bdb5b0d971a4d107cbd342453ac24ef86",
+      "bytes": 631,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/uiverse-alexruix-fat-vampirebat-55/files/LICENSE.txt",
+      "sha256": "7feadcd7a611d37a4546c99f63a162bdf65656137828ebcba92e57dccfa368a4",
+      "bytes": 1067,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/uiverse-alexruix-fat-vampirebat-55/files/README.md",
+      "sha256": "3baadc27852aff95363dcbf60068fa846c062aafb9c8c8a8fa2f8c7a228c5cce",
+      "bytes": 1193,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/uiverse-alexruix-fat-vampirebat-55/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/uiverse-alexruix-fat-vampirebat-55/files/tsconfig.paths.json",
+      "sha256": "113c9d3a7de4f46f7015d3e43fe190b854f93d6ad66bf0bccd2da5de4c9f246b",
+      "bytes": 66,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/uiverse-alexruix-fat-vampirebat-55/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    }
+  ]
+}

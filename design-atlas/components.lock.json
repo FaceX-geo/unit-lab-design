@@ -1,0 +1,22 @@
+{
+  "react-bits": {
+    "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+    "repo": "DavidHDev/react-bits"
+  },
+  "magic-ui": {
+    "revision": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
+    "repo": "magicuidesign/magicui"
+  },
+  "animate-ui": {
+    "revision": "efeb96ffd7a3b7a4868667e4ac3c346620fb3044",
+    "repo": "imskyleen/animate-ui"
+  },
+  "motion-primitives": {
+    "revision": "120f64f6ca60348e251f929e9c81f11ccbe45eda",
+    "repo": "ibelick/motion-primitives"
+  },
+  "uiverse": {
+    "revision": "adbd2adde0a299a3956ea288fb444ec01891ca41",
+    "repo": "uiverse-io/galaxy"
+  }
+}

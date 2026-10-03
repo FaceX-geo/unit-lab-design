@@ -1,0 +1,185 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "./ScrollReveal.css": [
+        "../../public/components/react-bits-scroll-reveal/files/runtime/components/react-bits/ScrollReveal/ScrollReveal.css"
+      ],
+      "./RotatingText.css": [
+        "../../public/components/react-bits-rotating-text/files/runtime/components/react-bits/RotatingText/RotatingText.css"
+      ],
+      "./Aurora.css": [
+        "../../public/components/react-bits-aurora/files/runtime/components/react-bits/Aurora/Aurora.css"
+      ],
+      "./Iridescence.css": [
+        "../../public/components/react-bits-iridescence/files/runtime/components/react-bits/Iridescence/Iridescence.css"
+      ],
+      "./Hyperspeed.css": [
+        "../../public/components/react-bits-hyperspeed/files/runtime/components/react-bits/Hyperspeed/Hyperspeed.css"
+      ],
+      "./LiquidEther.css": [
+        "../../public/components/react-bits-liquid-ether/files/runtime/components/react-bits/LiquidEther/LiquidEther.css"
+      ],
+      "./SpotlightCard.css": [
+        "../../public/components/react-bits-spotlight-card/files/runtime/components/react-bits/SpotlightCard/SpotlightCard.css"
+      ],
+      "./TiltedCard.css": [
+        "../../public/components/react-bits-tilted-card/files/runtime/components/react-bits/TiltedCard/TiltedCard.css"
+      ],
+      "./PixelTransition.css": [
+        "../../public/components/react-bits-pixel-transition/files/runtime/components/react-bits/PixelTransition/PixelTransition.css"
+      ],
+      "./CircularGallery.css": [
+        "../../public/components/react-bits-circular-gallery/files/runtime/components/react-bits/CircularGallery/CircularGallery.css"
+      ],
+      "./GooeyNav.css": [
+        "../../public/components/react-bits-gooey-nav/files/runtime/components/react-bits/GooeyNav/GooeyNav.css"
+      ],
+      "./ElasticSlider.css": [
+        "../../public/components/react-bits-elastic-slider/files/runtime/components/react-bits/ElasticSlider/ElasticSlider.css"
+      ],
+      "./HoldButton.css": [
+        "../../public/components/react-bits-hold-button/files/runtime/components/react-bits/HoldButton/HoldButton.css"
+      ],
+      "./SwipeRow.css": [
+        "../../public/components/react-bits-swipe-row/files/runtime/components/react-bits/SwipeRow/SwipeRow.css"
+      ],
+      "./SquishSwitch.css": [
+        "../../public/components/react-bits-squish-switch/files/runtime/components/react-bits/SquishSwitch/SquishSwitch.css"
+      ],
+      "@/lib/utils": [
+        "../../public/components/magic-ui-marquee/files/runtime/lib/utils.js"
+      ],
+      "@/config/site": [
+        "../../public/components/magic-ui-marquee/files/runtime/config/site.js"
+      ],
+      "@/components/ui/button": [
+        "../../public/components/magic-ui-confetti/files/runtime/components/ui/button.jsx"
+      ],
+      "@/registry/primitives/radix/accordion": [
+        "../../public/components/animate-ui-radix-accordion/files/runtime/components/animate-ui/primitives/radix/accordion.jsx"
+      ],
+      "@/registry/hooks/use-controlled-state": [
+        "../../public/components/animate-ui-radix-accordion/files/runtime/registry/hooks/use-controlled-state/index.jsx"
+      ],
+      "@/registry/lib/get-strict-context": [
+        "../../public/components/animate-ui-radix-accordion/files/runtime/registry/lib/get-strict-context/index.jsx"
+      ],
+      "@workspace/ui/lib/utils": [
+        "../../public/components/animate-ui-radix-accordion/files/runtime/workspace-ui/lib/utils.js"
+      ],
+      "@/registry/components/radix/accordion": [
+        "../../public/components/animate-ui-radix-accordion/files/runtime/components/animate-ui/components/radix/accordion.jsx"
+      ],
+      "@/registry/primitives/radix/dialog": [
+        "../../public/components/animate-ui-radix-dialog/files/runtime/components/animate-ui/primitives/radix/dialog.jsx"
+      ],
+      "@workspace/ui/components/ui/button": [
+        "../../public/components/animate-ui-radix-dialog/files/runtime/workspace-ui/components/ui/button.jsx"
+      ],
+      "@/registry/components/radix/dialog": [
+        "../../public/components/animate-ui-radix-dialog/files/runtime/components/animate-ui/components/radix/dialog.jsx"
+      ],
+      "@workspace/ui/components/ui/label": [
+        "../../public/components/animate-ui-radix-dialog/files/runtime/workspace-ui/components/ui/label.jsx"
+      ],
+      "@workspace/ui/components/ui/input": [
+        "../../public/components/animate-ui-radix-dialog/files/runtime/workspace-ui/components/ui/input.jsx"
+      ],
+      "@/registry/primitives/radix/dropdown-menu": [
+        "../../public/components/animate-ui-radix-dropdown-menu/files/runtime/components/animate-ui/primitives/radix/dropdown-menu.jsx"
+      ],
+      "@/registry/primitives/effects/highlight": [
+        "../../public/components/animate-ui-radix-dropdown-menu/files/runtime/components/animate-ui/primitives/effects/highlight.jsx"
+      ],
+      "@/registry/hooks/use-data-state": [
+        "../../public/components/animate-ui-radix-dropdown-menu/files/runtime/registry/hooks/use-data-state/index.jsx"
+      ],
+      "@/registry/components/radix/dropdown-menu": [
+        "../../public/components/animate-ui-radix-dropdown-menu/files/runtime/components/animate-ui/components/radix/dropdown-menu.jsx"
+      ],
+      "@/registry/primitives/radix/sheet": [
+        "../../public/components/animate-ui-radix-sheet/files/runtime/components/animate-ui/primitives/radix/sheet.jsx"
+      ],
+      "@/registry/components/radix/sheet": [
+        "../../public/components/animate-ui-radix-sheet/files/runtime/components/animate-ui/components/radix/sheet.jsx"
+      ],
+      "@/registry/primitives/radix/switch": [
+        "../../public/components/animate-ui-radix-switch/files/runtime/components/animate-ui/primitives/radix/switch.jsx"
+      ],
+      "@/registry/components/radix/switch": [
+        "../../public/components/animate-ui-radix-switch/files/runtime/components/animate-ui/components/radix/switch.jsx"
+      ],
+      "@/registry/primitives/animate/tabs": [
+        "../../public/components/animate-ui-animate-tabs/files/runtime/components/animate-ui/primitives/animate/tabs.jsx"
+      ],
+      "@/registry/primitives/animate/slot": [
+        "../../public/components/animate-ui-animate-tabs/files/runtime/components/animate-ui/primitives/animate/slot.jsx"
+      ],
+      "@/registry/components/animate/tabs": [
+        "../../public/components/animate-ui-animate-tabs/files/runtime/components/animate-ui/components/animate/tabs.jsx"
+      ],
+      "@workspace/ui/components/ui/card": [
+        "../../public/components/animate-ui-animate-tabs/files/runtime/workspace-ui/components/ui/card.jsx"
+      ],
+      "@/registry/primitives/animate/tooltip": [
+        "../../public/components/animate-ui-animate-tooltip/files/runtime/components/animate-ui/primitives/animate/tooltip.jsx"
+      ],
+      "@/registry/components/animate/tooltip": [
+        "../../public/components/animate-ui-animate-tooltip/files/runtime/components/animate-ui/components/animate/tooltip.jsx"
+      ],
+      "@/registry/primitives/buttons/liquid": [
+        "../../public/components/animate-ui-buttons-liquid/files/runtime/components/animate-ui/primitives/buttons/liquid.jsx"
+      ],
+      "@/registry/components/buttons/liquid": [
+        "../../public/components/animate-ui-buttons-liquid/files/runtime/components/animate-ui/components/buttons/liquid.jsx"
+      ],
+      "@/registry/components/buttons/button": [
+        "../../public/components/animate-ui-community-motion-carousel/files/runtime/components/animate-ui/components/buttons/button.jsx"
+      ],
+      "@/registry/primitives/buttons/button": [
+        "../../public/components/animate-ui-community-motion-carousel/files/runtime/components/animate-ui/primitives/buttons/button.jsx"
+      ],
+      "@/registry/components/community/motion-carousel": [
+        "../../public/components/animate-ui-community-motion-carousel/files/runtime/components/animate-ui/components/community/motion-carousel.jsx"
+      ],
+      "@/registry/components/community/radial-menu": [
+        "../../public/components/animate-ui-community-radial-menu/files/runtime/components/animate-ui/components/community/radial-menu.jsx"
+      ],
+      "@/hooks/useClickOutside": [
+        "../../public/components/motion-primitives-morphing-dialog/files/runtime/hooks/useClickOutside.jsx"
+      ]
+    },
+    "target": "ES2022",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "react-jsx",
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "incremental": true
+  },
+  "include": [
+    "next-env.d.ts",
+    "app/**/*.tsx",
+    ".next/types/**/*.ts",
+    ".next/dev/types/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

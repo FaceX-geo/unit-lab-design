@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "./PixelTransition.css": [
+        "./runtime/components/react-bits/PixelTransition/PixelTransition.css"
+      ]
+    }
+  }
+}

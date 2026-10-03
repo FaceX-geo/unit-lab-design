@@ -1,0 +1,109 @@
+{
+  "id": "react-bits-pixel-transition",
+  "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+  "bundleHash": "df62428fb4cbe7b82b329d9590bd7b19f371fb4a2858f2f9cda2859116ce0752",
+  "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Animations/PixelTransition/PixelTransition.tsx",
+  "license": "MIT + Commons Clause",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/react-bits/PixelTransition/PixelTransition.tsx",
+  "runtimeEntry": "runtime/components/react-bits/PixelTransition/PixelTransition.jsx",
+  "author": "David Haz",
+  "dependencies": {
+    "gsap": "3.15.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/react-bits/PixelTransition/PixelTransition.tsx",
+      "url": "/components/react-bits-pixel-transition/files/components/react-bits/PixelTransition/PixelTransition.tsx",
+      "sha256": "d5738fe6c2b8ae74827bbafdc3d69d0ced1506d3afde1cdaec5eae300c3575c7",
+      "bytes": 4131,
+      "original": true
+    },
+    {
+      "path": "components/react-bits/PixelTransition/PixelTransition.css",
+      "url": "/components/react-bits-pixel-transition/files/components/react-bits/PixelTransition/PixelTransition.css",
+      "sha256": "59346fb59640fd2a66fba3268ccaf417415e7eccda004a8b14b8951766495d1a",
+      "bytes": 686,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/react-bits-pixel-transition/files/LICENSE.txt",
+      "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+      "bytes": 1303,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/react-bits-pixel-transition/files/README.md",
+      "sha256": "d48a011d3311a55731d41695fb575c9823c1be07f3b6b99960e21794fa731db5",
+      "bytes": 2094,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/react-bits-pixel-transition/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/react-bits-pixel-transition/files/tsconfig.paths.json",
+      "sha256": "b370debfb1451e424ccdc1c64d29ae500451774defecbc607e4362e48631e657",
+      "bytes": 190,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/react-bits-pixel-transition/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/PixelTransition/PixelTransition.jsx",
+      "url": "/components/react-bits-pixel-transition/files/runtime/components/react-bits/PixelTransition/PixelTransition.jsx",
+      "sha256": "96e4514f9d2037a7fe68a87000b64d794cb3e2fedb66d292474ea2c193f428b0",
+      "bytes": 3944,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/PixelTransition/PixelTransition.d.ts",
+      "url": "/components/react-bits-pixel-transition/files/runtime/components/react-bits/PixelTransition/PixelTransition.d.ts",
+      "sha256": "42532de4ca9d5545ada1040c33e8c0700e8a728938a742330ab793b6660e0757",
+      "bytes": 483,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/PixelTransition/PixelTransition.css",
+      "url": "/components/react-bits-pixel-transition/files/runtime/components/react-bits/PixelTransition/PixelTransition.css",
+      "sha256": "59346fb59640fd2a66fba3268ccaf417415e7eccda004a8b14b8951766495d1a",
+      "bytes": 686,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/react-bits-pixel-transition/files/Example.tsx",
+      "sha256": "f7f57188d11a69a06dd50c57a95e94e9abc58470b1346007a0a8b4d301084b9d",
+      "bytes": 958,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/react-bits-pixel-transition/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/react-bits-pixel-transition/files/vite.config.fragment.mjs",
+      "sha256": "9c06659dd0dbfc5ab060d7ff702124ae8a017dd3923e35d6d2b8139b10313aa8",
+      "bytes": 390,
+      "original": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+import React, { type ReactNode } from 'react';
+import './HoldButton.css';
+export type HoldButtonSize = 'sm' | 'md' | 'lg';
+export type HoldButtonDirection = 'right' | 'up';
+export interface HoldButtonProps {
+    children?: ReactNode;
+    doneLabel?: ReactNode;
+    icon?: ReactNode;
+    doneIcon?: ReactNode;
+    backgroundColor?: string;
+    fillColor?: string;
+    textColor?: string;
+    fillTextColor?: string;
+    size?: HoldButtonSize;
+    radius?: number;
+    fillDirection?: HoldButtonDirection;
+    holdTime?: number;
+    releaseTime?: number;
+    pressScale?: number;
+    wave?: boolean;
+    waveAmplitude?: number;
+    glow?: boolean;
+    resetAfter?: number;
+    disabled?: boolean;
+    onHold?: () => void;
+    onTap?: () => void;
+    className?: string;
+}
+declare const HoldButton: React.FC<HoldButtonProps>;
+export default HoldButton;

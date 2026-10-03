@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "./SwipeRow.css": [
+        "./runtime/components/react-bits/SwipeRow/SwipeRow.css"
+      ]
+    }
+  }
+}

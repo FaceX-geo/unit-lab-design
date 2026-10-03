@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "./SquishSwitch.css": [
+        "./runtime/components/react-bits/SquishSwitch/SquishSwitch.css"
+      ]
+    }
+  }
+}

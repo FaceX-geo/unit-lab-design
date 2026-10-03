@@ -1,0 +1,109 @@
+{
+  "id": "react-bits-rotating-text",
+  "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+  "bundleHash": "59e6dc6d31c6924c117fa4e657ed13e4034ffdef5125f3fa5421b62200ad2209",
+  "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/TextAnimations/RotatingText/RotatingText.tsx",
+  "license": "MIT + Commons Clause",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/react-bits/RotatingText/RotatingText.tsx",
+  "runtimeEntry": "runtime/components/react-bits/RotatingText/RotatingText.jsx",
+  "author": "David Haz",
+  "dependencies": {
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/react-bits/RotatingText/RotatingText.tsx",
+      "url": "/components/react-bits-rotating-text/files/components/react-bits/RotatingText/RotatingText.tsx",
+      "sha256": "6b9cf873072e220c15a4dee5fdc5a3c2b9d7a0d717241302c67e22c94be5aa73",
+      "bytes": 7193,
+      "original": true
+    },
+    {
+      "path": "components/react-bits/RotatingText/RotatingText.css",
+      "url": "/components/react-bits-rotating-text/files/components/react-bits/RotatingText/RotatingText.css",
+      "sha256": "9a6757dfd090eac2991a64d9fa7833dc13c1ef01f174a026730c205185e39f76",
+      "bytes": 513,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/react-bits-rotating-text/files/LICENSE.txt",
+      "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+      "bytes": 1303,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/react-bits-rotating-text/files/README.md",
+      "sha256": "c9490b7555861534938d5ef75f1c430553ee88676c7ab7307af7384a4821d66a",
+      "bytes": 2070,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/react-bits-rotating-text/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/react-bits-rotating-text/files/tsconfig.paths.json",
+      "sha256": "2ea8eb0c7d3514b4237e7adffd1f430bf130b03a4ef0171f917cc704d6e35ea8",
+      "bytes": 181,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/react-bits-rotating-text/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/RotatingText/RotatingText.jsx",
+      "url": "/components/react-bits-rotating-text/files/runtime/components/react-bits/RotatingText/RotatingText.jsx",
+      "sha256": "d4bc9ca16e1ada3d180ed93319a1f7e02477252c30b2b16e5ba2c55b5bc8a85d",
+      "bytes": 5942,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/RotatingText/RotatingText.d.ts",
+      "url": "/components/react-bits-rotating-text/files/runtime/components/react-bits/RotatingText/RotatingText.d.ts",
+      "sha256": "1af7c042e5264957e1948eb6f36e8a9029370d504b63a7475336d26ec9b036a4",
+      "bytes": 1229,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/RotatingText/RotatingText.css",
+      "url": "/components/react-bits-rotating-text/files/runtime/components/react-bits/RotatingText/RotatingText.css",
+      "sha256": "9a6757dfd090eac2991a64d9fa7833dc13c1ef01f174a026730c205185e39f76",
+      "bytes": 513,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/react-bits-rotating-text/files/Example.tsx",
+      "sha256": "c5bf5e6e30a52b8e3e60e11fa552e6846dc7c3240a0a13c43d47f176a356cb26",
+      "bytes": 894,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/react-bits-rotating-text/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/react-bits-rotating-text/files/vite.config.fragment.mjs",
+      "sha256": "f53682683d61aa1fc1b88233db06f48a0660fdfae848ea376d6b6bdff3054082",
+      "bytes": 381,
+      "original": false
+    }
+  ]
+}

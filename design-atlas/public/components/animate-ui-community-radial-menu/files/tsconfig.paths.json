@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@workspace/ui/lib/utils": [
+        "./runtime/workspace-ui/lib/utils.js"
+      ],
+      "@/registry/components/community/radial-menu": [
+        "./runtime/components/animate-ui/components/community/radial-menu.jsx"
+      ]
+    }
+  }
+}

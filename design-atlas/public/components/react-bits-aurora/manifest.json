@@ -1,0 +1,109 @@
+{
+  "id": "react-bits-aurora",
+  "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+  "bundleHash": "ec2dc0a527a781ae774827e9faa7c60ddd354ba4c6d4f35dd8f6bb5a393e44bc",
+  "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Backgrounds/Aurora/Aurora.tsx",
+  "license": "MIT + Commons Clause",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/react-bits/Aurora/Aurora.tsx",
+  "runtimeEntry": "runtime/components/react-bits/Aurora/Aurora.jsx",
+  "author": "David Haz",
+  "dependencies": {
+    "ogl": "1.0.11",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/react-bits/Aurora/Aurora.tsx",
+      "url": "/components/react-bits-aurora/files/components/react-bits/Aurora/Aurora.tsx",
+      "sha256": "412b290bbe7cdc6f5b2eb5096c707aa3b86d2c34eee36fa32a2c3288ced187fb",
+      "bytes": 6487,
+      "original": true
+    },
+    {
+      "path": "components/react-bits/Aurora/Aurora.css",
+      "url": "/components/react-bits-aurora/files/components/react-bits/Aurora/Aurora.css",
+      "sha256": "2df81fdc13c0e763f17aec359863d3d0ec8ef97e442788be47635882f480467d",
+      "bytes": 53,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/react-bits-aurora/files/LICENSE.txt",
+      "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+      "bytes": 1303,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/react-bits-aurora/files/README.md",
+      "sha256": "8366e68347d103b93b21df795ee9b6f7a39fe99dd4f74e655f94843a18ab08e4",
+      "bytes": 2025,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/react-bits-aurora/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/react-bits-aurora/files/tsconfig.paths.json",
+      "sha256": "df176d97cb1c05b387b4694eff1ed11c3e67e87463b3d00497768b9cb0835fcb",
+      "bytes": 163,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/react-bits-aurora/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/Aurora/Aurora.jsx",
+      "url": "/components/react-bits-aurora/files/runtime/components/react-bits/Aurora/Aurora.jsx",
+      "sha256": "883d4d2b4a24471f1b74188f962d0d388bfb1c5d1ee6ce6814600336bf9bd747",
+      "bytes": 6695,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/Aurora/Aurora.d.ts",
+      "url": "/components/react-bits-aurora/files/runtime/components/react-bits/Aurora/Aurora.d.ts",
+      "sha256": "4254e2edcdfae96b7139108e08acd7caf5126d124967d8a7660795f0ebee52e7",
+      "bytes": 276,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/Aurora/Aurora.css",
+      "url": "/components/react-bits-aurora/files/runtime/components/react-bits/Aurora/Aurora.css",
+      "sha256": "2df81fdc13c0e763f17aec359863d3d0ec8ef97e442788be47635882f480467d",
+      "bytes": 53,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/react-bits-aurora/files/Example.tsx",
+      "sha256": "0e1dba54db2ecb5014d217ff29563f668c1fc8efad25f01c6e06dac73174ffb6",
+      "bytes": 868,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/react-bits-aurora/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/react-bits-aurora/files/vite.config.fragment.mjs",
+      "sha256": "eb6d8d05222c02b4210d13b94d4abc6be0a6f92bcd0c5585cb50374298bf44a3",
+      "bytes": 363,
+      "original": false
+    }
+  ]
+}

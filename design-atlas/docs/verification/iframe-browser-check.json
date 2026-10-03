@@ -1,0 +1,305 @@
+{
+  "checkedAt": "2026-10-03T19:51:50.249Z",
+  "reports": [
+    {
+      "id": "react-bits-split-text",
+      "error": [],
+      "iframe": "/component-previews/react-bits-split-text/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "react-bits-blur-text",
+      "error": [],
+      "iframe": "/component-previews/react-bits-blur-text/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "react-bits-scroll-reveal",
+      "error": [],
+      "iframe": "/component-previews/react-bits-scroll-reveal/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "react-bits-decrypted-text",
+      "error": [],
+      "iframe": "/component-previews/react-bits-decrypted-text/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "react-bits-rotating-text",
+      "error": [],
+      "iframe": "/component-previews/react-bits-rotating-text/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "react-bits-aurora",
+      "error": [],
+      "iframe": "/component-previews/react-bits-aurora/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "react-bits-iridescence",
+      "error": [],
+      "iframe": "/component-previews/react-bits-iridescence/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "react-bits-silk",
+      "error": [],
+      "iframe": "/component-previews/react-bits-silk/index.html?theme=dark&settings=%7B%22accent%22%3A%22%23ffffff%22%7D",
+      "status": "ready"
+    },
+    {
+      "id": "react-bits-hyperspeed",
+      "error": [],
+      "iframe": "/component-previews/react-bits-hyperspeed/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "react-bits-liquid-ether",
+      "error": [],
+      "iframe": "/component-previews/react-bits-liquid-ether/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "react-bits-spotlight-card",
+      "error": [],
+      "iframe": "/component-previews/react-bits-spotlight-card/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "react-bits-tilted-card",
+      "error": [],
+      "iframe": "/component-previews/react-bits-tilted-card/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "react-bits-pixel-transition",
+      "error": [],
+      "iframe": "/component-previews/react-bits-pixel-transition/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "react-bits-circular-gallery",
+      "error": [],
+      "iframe": "/component-previews/react-bits-circular-gallery/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "react-bits-gooey-nav",
+      "error": [],
+      "iframe": "/component-previews/react-bits-gooey-nav/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "react-bits-elastic-slider",
+      "error": [],
+      "iframe": "/component-previews/react-bits-elastic-slider/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "react-bits-magnet",
+      "error": [],
+      "iframe": "/component-previews/react-bits-magnet/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "react-bits-hold-button",
+      "error": [],
+      "iframe": "/component-previews/react-bits-hold-button/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "react-bits-swipe-row",
+      "error": [],
+      "iframe": "/component-previews/react-bits-swipe-row/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "react-bits-squish-switch",
+      "error": [],
+      "iframe": "/component-previews/react-bits-squish-switch/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "magic-ui-marquee",
+      "error": [],
+      "iframe": "/component-previews/magic-ui-marquee/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "magic-ui-dock",
+      "error": [],
+      "iframe": "/component-previews/magic-ui-dock/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "magic-ui-globe",
+      "error": [],
+      "iframe": "/component-previews/magic-ui-globe/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "magic-ui-animated-beam",
+      "error": [],
+      "iframe": "/component-previews/magic-ui-animated-beam/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "magic-ui-border-beam",
+      "error": [],
+      "iframe": "/component-previews/magic-ui-border-beam/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "magic-ui-magic-card",
+      "error": [],
+      "iframe": "/component-previews/magic-ui-magic-card/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "magic-ui-shimmer-button",
+      "error": [],
+      "iframe": "/component-previews/magic-ui-shimmer-button/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "magic-ui-ripple-button",
+      "error": [],
+      "iframe": "/component-previews/magic-ui-ripple-button/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "magic-ui-number-ticker",
+      "error": [],
+      "iframe": "/component-previews/magic-ui-number-ticker/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "magic-ui-interactive-grid-pattern",
+      "error": [],
+      "iframe": "/component-previews/magic-ui-interactive-grid-pattern/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "magic-ui-confetti",
+      "error": [],
+      "iframe": "/component-previews/magic-ui-confetti/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "magic-ui-animated-list",
+      "error": [],
+      "iframe": "/component-previews/magic-ui-animated-list/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "animate-ui-radix-accordion",
+      "error": [],
+      "iframe": "/component-previews/animate-ui-radix-accordion/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "animate-ui-radix-dialog",
+      "error": [],
+      "iframe": "/component-previews/animate-ui-radix-dialog/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "animate-ui-radix-dropdown-menu",
+      "error": [],
+      "iframe": "/component-previews/animate-ui-radix-dropdown-menu/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "animate-ui-radix-sheet",
+      "error": [],
+      "iframe": "/component-previews/animate-ui-radix-sheet/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "animate-ui-radix-switch",
+      "error": [],
+      "iframe": "/component-previews/animate-ui-radix-switch/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "animate-ui-animate-tabs",
+      "error": [],
+      "iframe": "/component-previews/animate-ui-animate-tabs/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "animate-ui-animate-tooltip",
+      "error": [],
+      "iframe": "/component-previews/animate-ui-animate-tooltip/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "animate-ui-buttons-liquid",
+      "error": [],
+      "iframe": "/component-previews/animate-ui-buttons-liquid/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "animate-ui-community-motion-carousel",
+      "error": [],
+      "iframe": "/component-previews/animate-ui-community-motion-carousel/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "animate-ui-community-radial-menu",
+      "error": [],
+      "iframe": "/component-previews/animate-ui-community-radial-menu/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "motion-primitives-morphing-dialog",
+      "error": [],
+      "iframe": "/component-previews/motion-primitives-morphing-dialog/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "motion-primitives-transition-panel",
+      "error": [],
+      "iframe": "/component-previews/motion-primitives-transition-panel/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "motion-primitives-toolbar-expandable",
+      "error": [],
+      "iframe": "/component-previews/motion-primitives-toolbar-expandable/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "uiverse-nawsome-wet-mayfly-23",
+      "error": [],
+      "iframe": "/component-previews/uiverse-nawsome-wet-mayfly-23/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "uiverse-nawsome-silent-owl-45",
+      "error": [],
+      "iframe": "/component-previews/uiverse-nawsome-silent-owl-45/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "uiverse-nawsome-short-dolphin-98",
+      "error": [],
+      "iframe": "/component-previews/uiverse-nawsome-short-dolphin-98/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "uiverse-adamgiebl-big-ape-36",
+      "error": [],
+      "iframe": "/component-previews/uiverse-adamgiebl-big-ape-36/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    },
+    {
+      "id": "uiverse-alexruix-fat-vampirebat-55",
+      "error": [],
+      "iframe": "/component-previews/uiverse-alexruix-fat-vampirebat-55/index.html?theme=dark&settings=%7B%7D",
+      "status": "ready"
+    }
+  ]
+}

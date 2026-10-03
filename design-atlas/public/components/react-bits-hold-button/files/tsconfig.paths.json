@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "./HoldButton.css": [
+        "./runtime/components/react-bits/HoldButton/HoldButton.css"
+      ]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "./SpotlightCard.css": [
+        "./runtime/components/react-bits/SpotlightCard/SpotlightCard.css"
+      ]
+    }
+  }
+}

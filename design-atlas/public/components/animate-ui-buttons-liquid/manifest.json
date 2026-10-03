@@ -1,0 +1,183 @@
+{
+  "id": "animate-ui-buttons-liquid",
+  "revision": "efeb96ffd7a3b7a4868667e4ac3c346620fb3044",
+  "bundleHash": "330b9eb89f1abc75a55df94d556e4126e2a1527f8324bcc3292bb2a6a20a002f",
+  "sourceUrl": "https://github.com/imskyleen/animate-ui/blob/efeb96ffd7a3b7a4868667e4ac3c346620fb3044/apps/www/registry/components/buttons/liquid/index.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/animate-ui/components/buttons/liquid.tsx",
+  "runtimeEntry": "runtime/components/animate-ui/components/buttons/liquid.jsx",
+  "author": "Skyleen and contributors",
+  "dependencies": {
+    "class-variance-authority": "0.7.1",
+    "clsx": "2.1.1",
+    "lucide-react": "0.577.0",
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/animate-ui/components/buttons/liquid.tsx",
+      "url": "/components/animate-ui-buttons-liquid/files/components/animate-ui/components/buttons/liquid.tsx",
+      "sha256": "63b0e06796d215a63c3bdb424cf906f4b6d25bd1d40e7f5ce76adf2a45f1eaeb",
+      "bytes": 2455,
+      "original": true
+    },
+    {
+      "path": "components/animate-ui/primitives/buttons/liquid.tsx",
+      "url": "/components/animate-ui-buttons-liquid/files/components/animate-ui/primitives/buttons/liquid.tsx",
+      "sha256": "22b07f3ebdb4cfc8c3382d3665e8a8ceb9abcadd2f94312df974c19bd2fcefa7",
+      "bytes": 1752,
+      "original": true
+    },
+    {
+      "path": "components/animate-ui/primitives/animate/slot.tsx",
+      "url": "/components/animate-ui-buttons-liquid/files/components/animate-ui/primitives/animate/slot.tsx",
+      "sha256": "71ab5d88b89e0766d69bb5b4fd3918a263c14ed01f5745fc0323ed25a9cb87c8",
+      "bytes": 2363,
+      "original": true
+    },
+    {
+      "path": "workspace-ui/lib/utils.ts",
+      "url": "/components/animate-ui-buttons-liquid/files/workspace-ui/lib/utils.ts",
+      "sha256": "7c8c3dfc0cdd370d44932828eb067ef771c8fe7996693221d5d4b90af6d54f2d",
+      "bytes": 166,
+      "original": true
+    },
+    {
+      "path": "registry/demo/components/buttons/liquid/index.tsx",
+      "url": "/components/animate-ui-buttons-liquid/files/registry/demo/components/buttons/liquid/index.tsx",
+      "sha256": "d9fac0dd407aa72c5763f409689b4d2f5931978d753bafa51b17db74b48184af",
+      "bytes": 482,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/animate-ui-buttons-liquid/files/LICENSE.txt",
+      "sha256": "bb145c4b692008a88e8e565953d1ca258f2f9ea25190afaa86877a9e9de1c040",
+      "bytes": 1292,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/animate-ui-buttons-liquid/files/README.md",
+      "sha256": "be65929e6d479f1f1db563e433ac35f9ffc450231cd7df7a948969fcc274e777",
+      "bytes": 2155,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/animate-ui-buttons-liquid/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/animate-ui-buttons-liquid/files/tsconfig.paths.json",
+      "sha256": "24ff6639d075a1de4317d3153be4935a981e53fc1061ca3e71d5822a98710e82",
+      "bytes": 543,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/animate-ui-buttons-liquid/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/animate-ui/components/buttons/liquid.jsx",
+      "url": "/components/animate-ui-buttons-liquid/files/runtime/components/animate-ui/components/buttons/liquid.jsx",
+      "sha256": "1376f70f77dd70022546b92319259831edf605964ea80b79941cb91a57bea27f",
+      "bytes": 2208,
+      "original": false
+    },
+    {
+      "path": "runtime/components/animate-ui/components/buttons/liquid.d.ts",
+      "url": "/components/animate-ui-buttons-liquid/files/runtime/components/animate-ui/components/buttons/liquid.d.ts",
+      "sha256": "8215ac781e7ea4a871dc941c2b45caea1e66c2f0a8f0e70c00bee231b9f50c4c",
+      "bytes": 710,
+      "original": false
+    },
+    {
+      "path": "runtime/components/animate-ui/primitives/buttons/liquid.jsx",
+      "url": "/components/animate-ui-buttons-liquid/files/runtime/components/animate-ui/primitives/buttons/liquid.jsx",
+      "sha256": "cf7394ffdf307487345debfaa0eb2610e959edde72dfdd64f733be0264405a20",
+      "bytes": 1453,
+      "original": false
+    },
+    {
+      "path": "runtime/components/animate-ui/primitives/buttons/liquid.d.ts",
+      "url": "/components/animate-ui-buttons-liquid/files/runtime/components/animate-ui/primitives/buttons/liquid.d.ts",
+      "sha256": "e77c2defb40f82b3825d7b22bef9addc327b7ea25d2d19a323daa14d4fc49f24",
+      "bytes": 502,
+      "original": false
+    },
+    {
+      "path": "runtime/components/animate-ui/primitives/animate/slot.jsx",
+      "url": "/components/animate-ui-buttons-liquid/files/runtime/components/animate-ui/primitives/animate/slot.jsx",
+      "sha256": "3d4e2f33769b6e4fa740f9a2304f1dbd4a148117fa60c74715738ffafd937e17",
+      "bytes": 1470,
+      "original": false
+    },
+    {
+      "path": "runtime/components/animate-ui/primitives/animate/slot.d.ts",
+      "url": "/components/animate-ui-buttons-liquid/files/runtime/components/animate-ui/primitives/animate/slot.d.ts",
+      "sha256": "4885a607fbcb0ee06e75c6e2a24fcfda2c23f2f1d1d1fabd36a6d6e367662c52",
+      "bytes": 738,
+      "original": false
+    },
+    {
+      "path": "runtime/workspace-ui/lib/utils.js",
+      "url": "/components/animate-ui-buttons-liquid/files/runtime/workspace-ui/lib/utils.js",
+      "sha256": "3ed9a6b9bbfd7777c835f14ea89f45614483f1c40eeffcacaa49766125a3df10",
+      "bytes": 139,
+      "original": false
+    },
+    {
+      "path": "runtime/workspace-ui/lib/utils.d.ts",
+      "url": "/components/animate-ui-buttons-liquid/files/runtime/workspace-ui/lib/utils.d.ts",
+      "sha256": "512960c0e955a2324b34354dac25e3e4d431a1af4cd33077935eda5e95c8b7e1",
+      "bytes": 101,
+      "original": false
+    },
+    {
+      "path": "runtime/registry/demo/components/buttons/liquid/index.jsx",
+      "url": "/components/animate-ui-buttons-liquid/files/runtime/registry/demo/components/buttons/liquid/index.jsx",
+      "sha256": "aea913a5bc4d25efe57b0e72305e7266bda7631474098265777a7ed36e65dca0",
+      "bytes": 307,
+      "original": false
+    },
+    {
+      "path": "runtime/registry/demo/components/buttons/liquid/index.d.ts",
+      "url": "/components/animate-ui-buttons-liquid/files/runtime/registry/demo/components/buttons/liquid/index.d.ts",
+      "sha256": "aec4be850628c234a81c49384245f38616fb3decc155718b4bbb29bcd8db7282",
+      "bytes": 320,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/animate-ui-buttons-liquid/files/Example.tsx",
+      "sha256": "81a576a020fd852b1b6570c2837e99647c122675aed904e626cdcd8f777f7df6",
+      "bytes": 777,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/animate-ui-buttons-liquid/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/animate-ui-buttons-liquid/files/vite.config.fragment.mjs",
+      "sha256": "ac47c14212e87ff22684c52b423becdb62b7bf2ec09f9f086be703247be4bf63",
+      "bytes": 659,
+      "original": false
+    }
+  ]
+}

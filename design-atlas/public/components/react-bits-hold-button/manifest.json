@@ -1,0 +1,108 @@
+{
+  "id": "react-bits-hold-button",
+  "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+  "bundleHash": "0b4dcb7c49103b9c4f8bb124ffae55b5994f18c787d854d4261a9fad694a07b9",
+  "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Micro/HoldButton/HoldButton.tsx",
+  "license": "MIT + Commons Clause",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/react-bits/HoldButton/HoldButton.tsx",
+  "runtimeEntry": "runtime/components/react-bits/HoldButton/HoldButton.jsx",
+  "author": "David Haz",
+  "dependencies": {
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/react-bits/HoldButton/HoldButton.tsx",
+      "url": "/components/react-bits-hold-button/files/components/react-bits/HoldButton/HoldButton.tsx",
+      "sha256": "73e1b82868aa1ad264d73a5e6889136e13b20bdbb081ed9c2da5bc5908fe00ed",
+      "bytes": 9571,
+      "original": true
+    },
+    {
+      "path": "components/react-bits/HoldButton/HoldButton.css",
+      "url": "/components/react-bits-hold-button/files/components/react-bits/HoldButton/HoldButton.css",
+      "sha256": "f0f9075ad99c2599ef200aa681374c4802faa39bc851e5110f55c56c0a1ab712",
+      "bytes": 7303,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/react-bits-hold-button/files/LICENSE.txt",
+      "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+      "bytes": 1303,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/react-bits-hold-button/files/README.md",
+      "sha256": "26b953f54021efd1116080897ab3251890dce35ef386f7d2fd409f1218b62dd1",
+      "bytes": 2072,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/react-bits-hold-button/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/react-bits-hold-button/files/tsconfig.paths.json",
+      "sha256": "e41530a0c0a8f7ec74790ea3b666f9c17b1be9a96ac0c4b047d7f38e6432fc7c",
+      "bytes": 175,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/react-bits-hold-button/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/HoldButton/HoldButton.jsx",
+      "url": "/components/react-bits-hold-button/files/runtime/components/react-bits/HoldButton/HoldButton.jsx",
+      "sha256": "9394827102f7e92123ae4c6a766f0d231bd3558f32ae5a54717960c4af19212f",
+      "bytes": 8806,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/HoldButton/HoldButton.d.ts",
+      "url": "/components/react-bits-hold-button/files/runtime/components/react-bits/HoldButton/HoldButton.d.ts",
+      "sha256": "44b52ec623c773f7316bf60baa414cc87d4f1b48b7f628c3eb8b26c220483e73",
+      "bytes": 850,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/HoldButton/HoldButton.css",
+      "url": "/components/react-bits-hold-button/files/runtime/components/react-bits/HoldButton/HoldButton.css",
+      "sha256": "f0f9075ad99c2599ef200aa681374c4802faa39bc851e5110f55c56c0a1ab712",
+      "bytes": 7303,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/react-bits-hold-button/files/Example.tsx",
+      "sha256": "f00318224939dbd421b8be9c4faab92e257a470fe5d9abec301e6ea27470f97a",
+      "bytes": 883,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/react-bits-hold-button/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/react-bits-hold-button/files/vite.config.fragment.mjs",
+      "sha256": "72775777a051b3d8f0c8923fb6659d725aa9c232e4f5851ad294911b6140001c",
+      "bytes": 375,
+      "original": false
+    }
+  ]
+}

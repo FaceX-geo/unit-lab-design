@@ -1,0 +1,1 @@
+import Example from '../../../../public/components/motion-primitives-toolbar-expandable/files/NextExample';import '../../../../public/components/motion-primitives-toolbar-expandable/files/demo.css';export default function Page(){return <div style={{height:'100vh'}}><Example/></div>}

@@ -1,0 +1,252 @@
+[
+  {
+    "id": "react-bits-split-text",
+    "state": "Browser tab: 2, Title: \"Split Text · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/react-bits-split-text/index.html\".\n0 AXWebArea Split Text · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-split-text/index.html\n\t1 container Design that moves.\n\nThe focused UI element is 0 AXWebArea Split Text · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-split-text/index.html",
+    "errors": []
+  },
+  {
+    "id": "react-bits-blur-text",
+    "state": "Browser tab: 2, Title: \"Blur Text · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/react-bits-blur-text/index.html\".\n1 AXWebArea Blur Text · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-blur-text/index.html\n\t2 container\n\t\t3 text Design that moves.\n\nThe focused UI element is 1 AXWebArea Blur Text · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-blur-text/index.html",
+    "errors": []
+  },
+  {
+    "id": "react-bits-scroll-reveal",
+    "state": "Browser tab: 2, Title: \"Scroll Reveal · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/react-bits-scroll-reveal/index.html\".\n1 AXWebArea Scroll Reveal · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-scroll-reveal/index.html\n\t2 container\n\t\t3 text SCROLL TO REVEAL ↓\n\t\t4 heading Every detail becomes a decision. Every decision becomes an experience., Value: 2\n\t\t\t5 container\n\t\t\t\t6 text Every detail becomes a decision. Every decision becomes an experience.\n\nThe focused UI element is 1 AXWebArea Scroll Reveal · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-scroll-reveal/index.html",
+    "errors": []
+  },
+  {
+    "id": "react-bits-decrypted-text",
+    "state": "Browser tab: 2, Title: \"Decrypted Text · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/react-bits-decrypted-text/index.html\".\n1 AXWebArea Decrypted Text · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-decrypted-text/index.html\n\nThe focused UI element is 1 AXWebArea Decrypted Text · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-decrypted-text/index.html",
+    "errors": []
+  },
+  {
+    "id": "react-bits-rotating-text",
+    "state": "Browser tab: 2, Title: \"Rotating Text · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/react-bits-rotating-text/index.html\".\n1 AXWebArea Rotating Text · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-rotating-text/index.html\n\t2 container\n\t\t3 text Design is playful.\n\nThe focused UI element is 1 AXWebArea Rotating Text · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-rotating-text/index.html",
+    "errors": []
+  },
+  {
+    "id": "react-bits-aurora",
+    "state": "Browser tab: 2, Title: \"Aurora · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/react-bits-aurora/index.html\".\n1 AXWebArea Aurora · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-aurora/index.html\n\t2 text Beyond ordinary.\n\nThe focused UI element is 1 AXWebArea Aurora · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-aurora/index.html",
+    "errors": []
+  },
+  {
+    "id": "react-bits-iridescence",
+    "state": "Browser tab: 2, Title: \"Iridescence · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/react-bits-iridescence/index.html\".\n1 AXWebArea Iridescence · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-iridescence/index.html\n\t2 text Fluid by nature.\n\nThe focused UI element is 1 AXWebArea Iridescence · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-iridescence/index.html",
+    "errors": []
+  },
+  {
+    "id": "react-bits-silk",
+    "state": "Browser tab: 2, Title: \"Silk · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/react-bits-silk/index.html\".\n1 AXWebArea Silk · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-silk/index.html\n\t2 container\n\t\t3 text Soft. Unfolded.\n\nThe focused UI element is 1 AXWebArea Silk · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-silk/index.html",
+    "errors": []
+  },
+  {
+    "id": "react-bits-hyperspeed",
+    "state": "Browser tab: 2, Title: \"Hyperspeed · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/react-bits-hyperspeed/index.html\".\n1 AXWebArea Hyperspeed · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-hyperspeed/index.html\n\t2 container\n\t\t3 text Hold to accelerate.\n\nThe focused UI element is 1 AXWebArea Hyperspeed · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-hyperspeed/index.html",
+    "errors": []
+  },
+  {
+    "id": "react-bits-liquid-ether",
+    "state": "Browser tab: 2, Title: \"Liquid Ether · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/react-bits-liquid-ether/index.html\".\n1 AXWebArea Liquid Ether · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-liquid-ether/index.html\n\t2 container\n\t\t3 text Move the atmosphere.\n\nThe focused UI element is 1 AXWebArea Liquid Ether · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-liquid-ether/index.html",
+    "errors": []
+  },
+  {
+    "id": "react-bits-spotlight-card",
+    "state": "Browser tab: 2, Title: \"Spotlight Card · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/react-bits-spotlight-card/index.html\".\n1 AXWebArea Spotlight Card · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-spotlight-card/index.html\n\t2 container\n\t\t3 text 01 / INTERACTION\n\t\t4 heading Follow your curiosity., Value: 2\n\t\t\t5 text Follow your curiosity.\n\t\t6 text A little light. A different perspective.\n\t\t7 button Explore ↗\n\nThe focused UI element is 1 AXWebArea Spotlight Card · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-spotlight-card/index.html",
+    "errors": []
+  },
+  {
+    "id": "react-bits-tilted-card",
+    "state": "Browser tab: 2, Title: \"Tilted Card · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/react-bits-tilted-card/index.html\".\n1 AXWebArea Tilted Card · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-tilted-card/index.html\n\t2 image Абстрактная геометрическая композиция\n\nThe focused UI element is 1 AXWebArea Tilted Card · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-tilted-card/index.html",
+    "errors": []
+  },
+  {
+    "id": "react-bits-pixel-transition",
+    "state": "Browser tab: 2, Title: \"Pixel Transition · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/react-bits-pixel-transition/index.html\".\n1 AXWebArea Pixel Transition · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-pixel-transition/index.html\n\t2 container\n\t\t3 text A different\n\t\t4 text perspective.\n\nThe focused UI element is 1 AXWebArea Pixel Transition · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-pixel-transition/index.html",
+    "errors": []
+  },
+  {
+    "id": "react-bits-circular-gallery",
+    "state": "Browser tab: 2, Title: \"Circular Gallery · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/react-bits-circular-gallery/index.html\".\n1 AXWebArea Circular Gallery · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-circular-gallery/index.html\n\t2 container Circular image gallery. Use Left and Right Arrow keys to navigate.\n\nThe focused UI element is 1 AXWebArea Circular Gallery · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-circular-gallery/index.html",
+    "errors": []
+  },
+  {
+    "id": "react-bits-gooey-nav",
+    "state": "Browser tab: 2, Title: \"Gooey Nav · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/react-bits-gooey-nav/index.html\".\n1 AXWebArea Gooey Nav · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-gooey-nav/index.html\n\t2 container\n\t\t3 content list\n\t\t\t4 link Description: Explore, Value: 127.0.0.1:5173/component-previews/react-bits-gooey-nav/index.html#explore\n\t\t\t5 link Description: Create, Value: 127.0.0.1:5173/component-previews/react-bits-gooey-nav/index.html#create\n\t\t\t6 link Description: Collect, Value: 127.0.0.1:5173/component-previews/react-bits-gooey-nav/index.html#collect\n\t\t7 text Explore\n\nThe focused UI element is 1 AXWebArea Gooey Nav · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-gooey-nav/index.html",
+    "errors": []
+  },
+  {
+    "id": "react-bits-elastic-slider",
+    "state": "Browser tab: 2, Title: \"Elastic Slider · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/react-bits-elastic-slider/index.html\".\n1 AXWebArea Elastic Slider · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-elastic-slider/index.html\n\t2 container\n\t\t3 text TUNE YOUR EXPERIENCE\n\t\t4 heading Turn it up., Value: 2\n\t\t\t5 text Turn it up.\n\t\t6 text −\n\t\t7 text ＋ 50\n\nThe focused UI element is 1 AXWebArea Elastic Slider · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-elastic-slider/index.html",
+    "errors": []
+  },
+  {
+    "id": "react-bits-magnet",
+    "state": "Browser tab: 2, Title: \"Magnet · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/react-bits-magnet/index.html\".\n1 AXWebArea Magnet · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-magnet/index.html\n\nThe focused UI element is 1 AXWebArea Magnet · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-magnet/index.html",
+    "errors": []
+  },
+  {
+    "id": "react-bits-hold-button",
+    "state": "Browser tab: 2, Title: \"Hold Button · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/react-bits-hold-button/index.html\".\n1 AXWebArea Hold Button · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-hold-button/index.html\n\t2 button Hold to confirm Press and hold for 1 seconds to confirm\n\t\t3 text Hold to confirm\n\t\t4 container\n\t\t\t5 text Press and hold for  1  seconds to confirm\n\nThe focused UI element is 1 AXWebArea Hold Button · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-hold-button/index.html",
+    "errors": []
+  },
+  {
+    "id": "react-bits-swipe-row",
+    "state": "Browser tab: 2, Title: \"Swipe Row · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/react-bits-swipe-row/index.html\".\n1 AXWebArea Swipe Row · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-swipe-row/index.html\n\t2 container Swipe to reveal actions\n\t\t3 container\n\t\t\t4 text Swipe this row ←\n\t\t\t5 button (collapsed) 1 action, Secondary Actions: Expand\n\t\t\t\t6 text 1\n\t\t\t\t7 text action\n\nThe focused UI element is 1 AXWebArea Swipe Row · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-swipe-row/index.html",
+    "errors": []
+  },
+  {
+    "id": "react-bits-squish-switch",
+    "state": "Browser tab: 2, Title: \"Squish Switch · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/react-bits-squish-switch/index.html\".\n1 AXWebArea Squish Switch · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-squish-switch/index.html\n\t2 container\n\t\t3 switch Description: Включить режим, Value: 0\n\t\t4 text Make it playful\n\nThe focused UI element is 1 AXWebArea Squish Switch · Design Atlas, URL: 127.0.0.1:5173/component-previews/react-bits-squish-switch/index.html",
+    "errors": []
+  },
+  {
+    "id": "magic-ui-marquee",
+    "state": "Browser tab: 2, Title: \"Marquee · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/magic-ui-marquee/index.html\".\n1 AXWebArea Marquee · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-marquee/index.html\n\t2 container\n\t\t3 text 0 1  / ATLAS\n\t\t4 heading Made to move, Value: 2\n\t\t\t5 text Made to move\n\t\t6 text Thoughtfully made. Ready to use. 0 2  / ATLAS\n\t\t7 heading A better detail, Value: 2\n\t\t\t8 text A better detail\n\t\t9 text Thoughtfully made. Ready to use. 0 3  / ATLAS\n\t\t10 heading Your next idea, Value: 2\n\t\t\t11 text Your next idea\n\t\t12 text Thoughtfully made. Ready to use. 0 4  / ATLAS\n\t\t13 heading Keep exploring, Value: 2\n\t\t\t14 text Keep exploring\n\t\t15 text Thoughtfully made. Ready to use. 0 1  / ATLAS\n\t\t16 heading Made to move, Value: 2\n\t\t\t17 text Made to move\n\t\t18 text Thoughtfully made. Ready to use. 0 2  / ATLAS\n\t\t19 heading A better detail, Value: 2\n\t\t\t20 text A better detail\n\t\t21 text Thoughtfully made. Ready to use. 0 3  / ATLAS\n\t\t22 heading Your next idea, Value: 2\n\t\t\t23 text Your next idea\n\t\t24 text Thoughtfully made. Ready to use. 0 4  / ATLAS\n\t\t25 heading Keep exploring, Value: 2\n\t\t\t26 text Keep exploring\n\t\t27 text Thoughtfully made. Ready to use. 0 1  / ATLAS\n\t\t28 heading Made to move, Value: 2\n\t\t\t29 text Made to move\n\t\t30 text Thoughtfully made. Ready to use. 0 2  / ATLAS\n\t\t31 heading A better detail, Value: 2\n\t\t\t32 text A better detail\n\t\t33 text Thoughtfully made. Ready to use. 0 3  / ATLAS\n\t\t34 heading Your next idea, Value: 2\n\t\t\t35 text Your next idea\n\t\t36 text Thoughtfully made. Ready to use. 0 4  / ATLAS\n\t\t37 heading Keep exploring, Value: 2\n\t\t\t38 text Keep exploring\n\t\t39 text Thoughtfully made. Ready to use. 0 1  / ATLAS\n\t\t40 heading Made to move, Value: 2\n\t\t\t41 text Made to move\n\t\t42 text Thoughtfully made. Ready to use. 0 2  / ATLAS\n\t\t43 heading A better detail, Value: 2\n\t\t\t44 text A better detail\n\t\t45 text Thoughtfully made. Ready to use. 0 3  / ATLAS\n\t\t46 heading Your next idea, Value: 2\n\t\t\t47 text Your next idea\n\t\t48 text Thoughtfully made. Ready to use. 0 4  / ATLAS\n\t\t49 heading Keep exploring, Value: 2\n\t\t\t50 text Keep exploring\n\t\t51 text Thoughtfully made. Ready to use.\n\nThe focused UI element is 1 AXWebArea Marquee · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-marquee/index.html",
+    "errors": []
+  },
+  {
+    "id": "magic-ui-dock",
+    "state": "Browser tab: 2, Title: \"Dock · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/magic-ui-dock/index.html\".\n1 AXWebArea Dock · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-dock/index.html\n\t2 container\n\t\t3 button Раздел 0\n\t\t4 button Раздел 1\n\t\t5 button Раздел 2\n\t\t6 button Раздел 3\n\t\t7 button Раздел 4\n\nThe focused UI element is 1 AXWebArea Dock · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-dock/index.html",
+    "errors": []
+  },
+  {
+    "id": "magic-ui-globe",
+    "state": "Browser tab: 2, Title: \"Globe · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/magic-ui-globe/index.html\".\n1 AXWebArea Globe · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-globe/index.html\n\nThe focused UI element is 1 AXWebArea Globe · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-globe/index.html",
+    "errors": []
+  },
+  {
+    "id": "magic-ui-animated-beam",
+    "state": "Browser tab: 2, Title: \"Animated Beam · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/magic-ui-animated-beam/index.html\".\n1 AXWebArea Animated Beam · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-animated-beam/index.html\n\t2 container\n\t\t3 text ✦ ◉\n\t\t4 image\n\nThe focused UI element is 1 AXWebArea Animated Beam · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-animated-beam/index.html",
+    "errors": []
+  },
+  {
+    "id": "magic-ui-border-beam",
+    "state": "Browser tab: 2, Title: \"Border Beam · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/magic-ui-border-beam/index.html\".\n1 AXWebArea Border Beam · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-border-beam/index.html\n\t2 container\n\t\t3 text A MOMENT OF LIGHT\n\t\t4 heading A little edge., Value: 2\n\t\t\t5 text A little edge.\n\t\t6 text A perimeter that never stands still.\n\nThe focused UI element is 1 AXWebArea Border Beam · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-border-beam/index.html",
+    "errors": []
+  },
+  {
+    "id": "magic-ui-magic-card",
+    "state": "Browser tab: 2, Title: \"Magic Card · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/magic-ui-magic-card/index.html\".\n1 AXWebArea Magic Card · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-magic-card/index.html\n\t2 container\n\t\t3 container\n\t\t\t4 text LIGHT / SURFACE\n\t\t\t5 heading Made for attention., Value: 2\n\t\t\t\t6 text Made for attention.\n\t\t\t7 text Move across the surface.\n\t\t\t8 button Discover ↗\n\nThe focused UI element is 1 AXWebArea Magic Card · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-magic-card/index.html",
+    "errors": []
+  },
+  {
+    "id": "magic-ui-shimmer-button",
+    "state": "Browser tab: 2, Title: \"Shimmer Button · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/magic-ui-shimmer-button/index.html\".\n1 AXWebArea Shimmer Button · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-shimmer-button/index.html\n\t2 button Start something beautiful ↗\n\t\t3 text Start something beautiful ↗\n\nThe focused UI element is 1 AXWebArea Shimmer Button · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-shimmer-button/index.html",
+    "errors": []
+  },
+  {
+    "id": "magic-ui-ripple-button",
+    "state": "Browser tab: 2, Title: \"Ripple Button · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/magic-ui-ripple-button/index.html\".\n1 AXWebArea Ripple Button · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-ripple-button/index.html\n\t2 button Make a ripple\n\t\t3 text Make a ripple\n\nThe focused UI element is 1 AXWebArea Ripple Button · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-ripple-button/index.html",
+    "errors": []
+  },
+  {
+    "id": "magic-ui-number-ticker",
+    "state": "Browser tab: 2, Title: \"Number Ticker · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/magic-ui-number-ticker/index.html\".\n1 AXWebArea Number Ticker · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-number-ticker/index.html\n\t2 container\n\t\t3 text 10 Ideas worth keeping.\n\nThe focused UI element is 1 AXWebArea Number Ticker · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-number-ticker/index.html",
+    "errors": []
+  },
+  {
+    "id": "magic-ui-interactive-grid-pattern",
+    "state": "Browser tab: 2, Title: \"Interactive Grid · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/magic-ui-interactive-grid-pattern/index.html\".\n1 AXWebArea Interactive Grid · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-interactive-grid-pattern/index.html\n\t2 container\n\t\t3 image\n\t\t4 text Leave your mark.\n\nThe focused UI element is 1 AXWebArea Interactive Grid · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-interactive-grid-pattern/index.html",
+    "errors": []
+  },
+  {
+    "id": "magic-ui-confetti",
+    "state": "Browser tab: 2, Title: \"Confetti · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/magic-ui-confetti/index.html\".\n1 AXWebArea Confetti · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-confetti/index.html\n\t2 button Celebrate your next idea ✦\n\nThe focused UI element is 1 AXWebArea Confetti · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-confetti/index.html",
+    "errors": []
+  },
+  {
+    "id": "magic-ui-animated-list",
+    "state": "Browser tab: 2, Title: \"Animated List · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/magic-ui-animated-list/index.html\".\n1 AXWebArea Animated List · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-animated-list/index.html\n\t2 container\n\t\t3 text ✦ A new idea saved Design Atlas · just now\n\nThe focused UI element is 1 AXWebArea Animated List · Design Atlas, URL: 127.0.0.1:5173/component-previews/magic-ui-animated-list/index.html",
+    "errors": []
+  },
+  {
+    "id": "animate-ui-radix-accordion",
+    "state": "Browser tab: 2, Title: \"Accordion · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/animate-ui-radix-accordion/index.html\".\n1 AXWebArea Accordion · Design Atlas, URL: 127.0.0.1:5173/component-previews/animate-ui-radix-accordion/index.html\n\t2 container\n\t\t3 heading What is Animate UI?, Value: 3\n\t\t\t4 button (collapsed) What is Animate UI?, ID: radix-_r_0_, Secondary Actions: Expand\n\t\t5 heading How is it different from other libraries?, Value: 3\n\t\t\t6 button (collapsed) How is it different from other libraries?, ID: radix-_r_2_, Secondary Actions: Expand\n\t\t7 heading Is Animate UI free to use?, Value: 3\n\t\t\t8 button (collapsed) Is Animate UI free to use?, ID: radix-_r_4_, Secondary Actions: Expand\n\nThe focused UI element is 1 AXWebArea Accordion · Design Atlas, URL: 127.0.0.1:5173/component-previews/animate-ui-radix-accordion/index.html",
+    "errors": []
+  },
+  {
+    "id": "animate-ui-radix-dialog",
+    "state": "Browser tab: 2, Title: \"Dialog · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/animate-ui-radix-dialog/index.html\".\n1 AXWebArea Dialog · Design Atlas, URL: 127.0.0.1:5173/component-previews/animate-ui-radix-dialog/index.html\n\t2 pop up button (collapsed) Open Dialog, Secondary Actions: Expand\n\nThe focused UI element is 1 AXWebArea Dialog · Design Atlas, URL: 127.0.0.1:5173/component-previews/animate-ui-radix-dialog/index.html",
+    "errors": []
+  },
+  {
+    "id": "animate-ui-radix-dropdown-menu",
+    "state": "Browser tab: 2, Title: \"Dropdown Menu · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/animate-ui-radix-dropdown-menu/index.html\".\n1 AXWebArea Dropdown Menu · Design Atlas, URL: 127.0.0.1:5173/component-previews/animate-ui-radix-dropdown-menu/index.html\n\t2 pop up button (collapsed) Open, ID: radix-_r_0_, Secondary Actions: Expand\n\nThe focused UI element is 1 AXWebArea Dropdown Menu · Design Atlas, URL: 127.0.0.1:5173/component-previews/animate-ui-radix-dropdown-menu/index.html",
+    "errors": []
+  },
+  {
+    "id": "animate-ui-radix-sheet",
+    "state": "Browser tab: 2, Title: \"Sheet · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/animate-ui-radix-sheet/index.html\".\n1 AXWebArea Sheet · Design Atlas, URL: 127.0.0.1:5173/component-previews/animate-ui-radix-sheet/index.html\n\t2 pop up button (collapsed) Open, Secondary Actions: Expand\n\nThe focused UI element is 1 AXWebArea Sheet · Design Atlas, URL: 127.0.0.1:5173/component-previews/animate-ui-radix-sheet/index.html",
+    "errors": []
+  },
+  {
+    "id": "animate-ui-radix-switch",
+    "state": "Browser tab: 2, Title: \"Switch · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/animate-ui-radix-switch/index.html\".\n1 AXWebArea Switch · Design Atlas, URL: 127.0.0.1:5173/component-previews/animate-ui-radix-switch/index.html\n\t2 container\n\t\t3 switch Description: Airplane Mode, Value: 0\n\t\t4 text Airplane Mode\n\nThe focused UI element is 1 AXWebArea Switch · Design Atlas, URL: 127.0.0.1:5173/component-previews/animate-ui-radix-switch/index.html",
+    "errors": []
+  },
+  {
+    "id": "animate-ui-animate-tabs",
+    "state": "Browser tab: 2, Title: \"Tabs · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/animate-ui-animate-tabs/index.html\".\n1 AXWebArea Tabs · Design Atlas, URL: 127.0.0.1:5173/component-previews/animate-ui-animate-tabs/index.html\n\t2 container\n\t\t3 tab group\n\t\t\t4 container\n\t\t\t\t5 tab (selected, settable, boolean) Account, Value: 1\n\t\t\t6 tab (selectable, settable, boolean) Password, Value: 0\n\t\t7 container\n\t\t\t8 text Account Make changes to your account here. Click save when you're done. Name\n\t\t\t9 text field (settable) Name, Value: Pedro Duarte, ID: tabs-demo-name\n\t\t\t10 button Save changes\n\nThe focused UI element is 1 AXWebArea Tabs · Design Atlas, URL: 127.0.0.1:5173/component-previews/animate-ui-animate-tabs/index.html",
+    "errors": []
+  },
+  {
+    "id": "animate-ui-animate-tooltip",
+    "state": "Browser tab: 2, Title: \"Tooltip · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/animate-ui-animate-tooltip/index.html\".\n1 AXWebArea Tooltip · Design Atlas, URL: 127.0.0.1:5173/component-previews/animate-ui-animate-tooltip/index.html\n\t2 container\n\t\t3 button Docs\n\t\t4 button Lorem\n\t\t5 button Guide\n\t\t6 button Repo\n\nThe focused UI element is 1 AXWebArea Tooltip · Design Atlas, URL: 127.0.0.1:5173/component-previews/animate-ui-animate-tooltip/index.html",
+    "errors": []
+  },
+  {
+    "id": "animate-ui-buttons-liquid",
+    "state": "Browser tab: 2, Title: \"Liquid Button · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/animate-ui-buttons-liquid/index.html\".\n1 AXWebArea Liquid Button · Design Atlas, URL: 127.0.0.1:5173/component-previews/animate-ui-buttons-liquid/index.html\n\t2 button Hover me\n\nThe focused UI element is 1 AXWebArea Liquid Button · Design Atlas, URL: 127.0.0.1:5173/component-previews/animate-ui-buttons-liquid/index.html",
+    "errors": []
+  },
+  {
+    "id": "animate-ui-community-motion-carousel",
+    "state": "Browser tab: 2, Title: \"Motion Carousel · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/animate-ui-community-motion-carousel/index.html\".\n1 AXWebArea Motion Carousel · Design Atlas, URL: 127.0.0.1:5173/component-previews/animate-ui-community-motion-carousel/index.html\n\t2 container\n\t\t3 text 1 2 3 4 5 6\n\t\t4 button\n\t\t5 button Slide 1\n\t\t6 button Slide 2\n\t\t7 button Slide 3\n\t\t8 button Slide 4\n\t\t9 button Slide 5\n\t\t10 button Slide 6\n\t\t11 button\n\nThe focused UI element is 1 AXWebArea Motion Carousel · Design Atlas, URL: 127.0.0.1:5173/component-previews/animate-ui-community-motion-carousel/index.html",
+    "errors": []
+  },
+  {
+    "id": "animate-ui-community-radial-menu",
+    "state": "Browser tab: 2, Title: \"Radial Menu · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/animate-ui-community-radial-menu/index.html\".\n1 AXWebArea Radial Menu · Design Atlas, URL: 127.0.0.1:5173/component-previews/animate-ui-community-radial-menu/index.html\n\t2 text Right click to open the radial menu\n\nThe focused UI element is 1 AXWebArea Radial Menu · Design Atlas, URL: 127.0.0.1:5173/component-previews/animate-ui-community-radial-menu/index.html",
+    "errors": []
+  },
+  {
+    "id": "motion-primitives-morphing-dialog",
+    "state": "Browser tab: 2, Title: \"Morphing Dialog · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/motion-primitives-morphing-dialog/index.html\".\n1 AXWebArea Morphing Dialog · Design Atlas, URL: 127.0.0.1:5173/component-previews/motion-primitives-morphing-dialog/index.html\n\t2 pop up button (collapsed) Description: Open dialog _r_0_, Secondary Actions: Expand\n\t\t3 text CLICK TO EXPAND\n\t\t4 text A closer look.\n\nThe focused UI element is 1 AXWebArea Morphing Dialog · Design Atlas, URL: 127.0.0.1:5173/component-previews/motion-primitives-morphing-dialog/index.html",
+    "errors": []
+  },
+  {
+    "id": "motion-primitives-transition-panel",
+    "state": "Browser tab: 2, Title: \"Transition Panel · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/motion-primitives-transition-panel/index.html\".\n1 AXWebArea Transition Panel · Design Atlas, URL: 127.0.0.1:5173/component-previews/motion-primitives-transition-panel/index.html\n\t2 container\n\t\t3 checkbox Discover, Value: 1\n\t\t4 checkbox Explore, Value: 0\n\t\t5 checkbox Create, Value: 0\n\t\t6 heading Good design starts with curiosity., Value: 2\n\t\t\t7 text Good design starts with curiosity.\n\nThe focused UI element is 1 AXWebArea Transition Panel · Design Atlas, URL: 127.0.0.1:5173/component-previews/motion-primitives-transition-panel/index.html",
+    "errors": []
+  },
+  {
+    "id": "motion-primitives-toolbar-expandable",
+    "state": "Browser tab: 2, Title: \"Expandable Toolbar · Design Atlas\", URL: \"http://127.0.0.1:5173/component-previews/motion-primitives-toolbar-expandable/index.html\".\n1 AXWebArea Expandable Toolbar · Design Atlas, URL: 127.0.0.1:5173/component-previews/motion-primitives-toolbar-expandable/index.html\n\t2 container\n\t\t3 button User\n\t\t4 button Messages\n\t\t5 button Documents\n\t\t6 button Wallet\n\nThe focused UI element is 1 AXWebArea Expandable Toolbar · Design Atlas, URL: 127.0.0.1:5173/component-previews/motion-primitives-toolbar-expandable/index.html",
+    "errors": []
+  },
+  {
+    "id": "uiverse-nawsome-wet-mayfly-23",
+    "state": "Browser tab: 2, Title: \"Hamster Wheel\", URL: \"http://127.0.0.1:5173/component-previews/uiverse-nawsome-wet-mayfly-23/index.html\".\n1 AXWebArea Hamster Wheel, URL: 127.0.0.1:5173/component-previews/uiverse-nawsome-wet-mayfly-23/index.html\n\t2 container Orange and tan hamster running in a metal wheel\n\nThe focused UI element is 1 AXWebArea Hamster Wheel, URL: 127.0.0.1:5173/component-previews/uiverse-nawsome-wet-mayfly-23/index.html",
+    "errors": []
+  },
+  {
+    "id": "uiverse-nawsome-silent-owl-45",
+    "state": "Browser tab: 2, Title: \"Plane Switch\", URL: \"http://127.0.0.1:5173/component-previews/uiverse-nawsome-silent-owl-45/index.html\".\n1 AXWebArea Plane Switch, URL: 127.0.0.1:5173/component-previews/uiverse-nawsome-silent-owl-45/index.html\n\nThe focused UI element is 1 AXWebArea Plane Switch, URL: 127.0.0.1:5173/component-previews/uiverse-nawsome-silent-owl-45/index.html",
+    "errors": []
+  },
+  {
+    "id": "uiverse-nawsome-short-dolphin-98",
+    "state": "Browser tab: 2, Title: \"Bubble Toggle\", URL: \"http://127.0.0.1:5173/component-previews/uiverse-nawsome-short-dolphin-98/index.html\".\n1 AXWebArea Bubble Toggle, URL: 127.0.0.1:5173/component-previews/uiverse-nawsome-short-dolphin-98/index.html\n\t2 checkbox (settable, integer) 0\n\nThe focused UI element is 1 AXWebArea Bubble Toggle, URL: 127.0.0.1:5173/component-previews/uiverse-nawsome-short-dolphin-98/index.html",
+    "errors": []
+  },
+  {
+    "id": "uiverse-adamgiebl-big-ape-36",
+    "state": "Browser tab: 2, Title: \"Layered Button\", URL: \"http://127.0.0.1:5173/component-previews/uiverse-adamgiebl-big-ape-36/index.html\".\n1 AXWebArea Layered Button, URL: 127.0.0.1:5173/component-previews/uiverse-adamgiebl-big-ape-36/index.html\n\t2 button Button\n\nThe focused UI element is 1 AXWebArea Layered Button, URL: 127.0.0.1:5173/component-previews/uiverse-adamgiebl-big-ape-36/index.html",
+    "errors": []
+  },
+  {
+    "id": "uiverse-alexruix-fat-vampirebat-55",
+    "state": "Browser tab: 2, Title: \"Focus Input\", URL: \"http://127.0.0.1:5173/component-previews/uiverse-alexruix-fat-vampirebat-55/index.html\".\n1 AXWebArea Focus Input, URL: 127.0.0.1:5173/component-previews/uiverse-alexruix-fat-vampirebat-55/index.html\n\t2 text field (settable)\n\nThe focused UI element is 1 AXWebArea Focus Input, URL: 127.0.0.1:5173/component-previews/uiverse-alexruix-fat-vampirebat-55/index.html",
+    "errors": []
+  }
+]

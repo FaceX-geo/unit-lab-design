@@ -1,0 +1,110 @@
+{
+  "id": "react-bits-hyperspeed",
+  "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+  "bundleHash": "484c97bce8c8e3e669cbfa492dad451a71e2b139739ef01ce9217214e977019a",
+  "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Backgrounds/Hyperspeed/Hyperspeed.tsx",
+  "license": "MIT + Commons Clause",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/react-bits/Hyperspeed/Hyperspeed.tsx",
+  "runtimeEntry": "runtime/components/react-bits/Hyperspeed/Hyperspeed.jsx",
+  "author": "David Haz",
+  "dependencies": {
+    "postprocessing": "6.39.5",
+    "react": "19.3.0",
+    "three": "0.186.1",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/react-bits/Hyperspeed/Hyperspeed.tsx",
+      "url": "/components/react-bits-hyperspeed/files/components/react-bits/Hyperspeed/Hyperspeed.tsx",
+      "sha256": "d108868455eb987026ff4ac779bcb21558a5dcf7e52224e162b880d9f02320aa",
+      "bytes": 40167,
+      "original": true
+    },
+    {
+      "path": "components/react-bits/Hyperspeed/Hyperspeed.css",
+      "url": "/components/react-bits-hyperspeed/files/components/react-bits/Hyperspeed/Hyperspeed.css",
+      "sha256": "5bbb0806c4927877dcdd1794d9780cfd7a4e8f31ef4ae7244c5fbc45cc041291",
+      "bytes": 128,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/react-bits-hyperspeed/files/LICENSE.txt",
+      "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+      "bytes": 1303,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/react-bits-hyperspeed/files/README.md",
+      "sha256": "677168ca8da7c56539276445415a7586f41d38da87f103bdb8b2de9f78bf7107",
+      "bytes": 2102,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/react-bits-hyperspeed/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/react-bits-hyperspeed/files/tsconfig.paths.json",
+      "sha256": "de20262021d8707716b77c9c255f642932bdd99938dd05e640ebaac6f2cdc418",
+      "bytes": 175,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/react-bits-hyperspeed/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/Hyperspeed/Hyperspeed.jsx",
+      "url": "/components/react-bits-hyperspeed/files/runtime/components/react-bits/Hyperspeed/Hyperspeed.jsx",
+      "sha256": "277380383e77907824c5cfff1f103c732944a7b225b47a11ebae8b3cb6b5a6d8",
+      "bytes": 39571,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/Hyperspeed/Hyperspeed.d.ts",
+      "url": "/components/react-bits-hyperspeed/files/runtime/components/react-bits/Hyperspeed/Hyperspeed.d.ts",
+      "sha256": "2fe7ad62301f19254b1c65edbef8e267df2bbc5c15f669e225bea0888c11e285",
+      "bytes": 1609,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/Hyperspeed/Hyperspeed.css",
+      "url": "/components/react-bits-hyperspeed/files/runtime/components/react-bits/Hyperspeed/Hyperspeed.css",
+      "sha256": "5bbb0806c4927877dcdd1794d9780cfd7a4e8f31ef4ae7244c5fbc45cc041291",
+      "bytes": 128,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/react-bits-hyperspeed/files/Example.tsx",
+      "sha256": "bd3a4aefaba8a02ca6ba9a34b45eb01dbcfa5ee6ecef4118ea40527d461de9cd",
+      "bytes": 831,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/react-bits-hyperspeed/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/react-bits-hyperspeed/files/vite.config.fragment.mjs",
+      "sha256": "f979715d93633d50adad044856d6e043a8fdf8ee50435d94cd9d6f5c555f582a",
+      "bytes": 375,
+      "original": false
+    }
+  ]
+}

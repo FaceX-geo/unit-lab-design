@@ -1,0 +1,141 @@
+{
+  "id": "motion-primitives-toolbar-expandable",
+  "revision": "120f64f6ca60348e251f929e9c81f11ccbe45eda",
+  "bundleHash": "ce7a41b9d8337951f8fcbf069c8f7daabdb5d6139b3a5aad62a8e315745dd5f1",
+  "sourceUrl": "https://github.com/ibelick/motion-primitives/blob/120f64f6ca60348e251f929e9c81f11ccbe45eda/components/core/toolbar-expandable.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/motion-primitives/toolbar-expandable.tsx",
+  "runtimeEntry": "runtime/components/motion-primitives/toolbar-expandable.jsx",
+  "author": "ibelick and contributors",
+  "dependencies": {
+    "clsx": "2.1.1",
+    "lucide-react": "0.577.0",
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "react-use-measure": "2.1.7",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/motion-primitives/toolbar-expandable.tsx",
+      "url": "/components/motion-primitives-toolbar-expandable/files/components/motion-primitives/toolbar-expandable.tsx",
+      "sha256": "00dafdb8ab9c667a8460b693ac7dfdab4f04057251cd374a5887aecfc103d5e1",
+      "bytes": 6497,
+      "original": true
+    },
+    {
+      "path": "lib/utils.ts",
+      "url": "/components/motion-primitives-toolbar-expandable/files/lib/utils.ts",
+      "sha256": "9304a861c8673bee09e0f12de31773abbde503b02e59dfd74763ddec2e37cf05",
+      "bytes": 169,
+      "original": true
+    },
+    {
+      "path": "hooks/useClickOutside.tsx",
+      "url": "/components/motion-primitives-toolbar-expandable/files/hooks/useClickOutside.tsx",
+      "sha256": "a239b751802f4a67e13d962bdf18118f7b24c7806a3f2ab3c41eca199d624445",
+      "bytes": 755,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/motion-primitives-toolbar-expandable/files/LICENSE.txt",
+      "sha256": "f668f5ef3635eb906f10b1eea9a32e449eb6e1a183ab6879ef6d56c0980dd2f3",
+      "bytes": 1077,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/motion-primitives-toolbar-expandable/files/README.md",
+      "sha256": "a1916829c166e9aa98dbbae8f73d211db98da8ce25eb9e974f7e4c476a597bb2",
+      "bytes": 2151,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/motion-primitives-toolbar-expandable/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/motion-primitives-toolbar-expandable/files/tsconfig.paths.json",
+      "sha256": "193959ef4e3eab2c854e42e9621fcbab7753f16c2d776564e8cba490a395a885",
+      "bytes": 225,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/motion-primitives-toolbar-expandable/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/motion-primitives/toolbar-expandable.jsx",
+      "url": "/components/motion-primitives-toolbar-expandable/files/runtime/components/motion-primitives/toolbar-expandable.jsx",
+      "sha256": "9885b930548c8d9f0fa6018b90bf0d74677c230c18b875e41b595a1a6b4d4ed5",
+      "bytes": 5755,
+      "original": false
+    },
+    {
+      "path": "runtime/components/motion-primitives/toolbar-expandable.d.ts",
+      "url": "/components/motion-primitives-toolbar-expandable/files/runtime/components/motion-primitives/toolbar-expandable.d.ts",
+      "sha256": "0d7ddf8d476e25152e31ad8f80e95c273dcb6f18b34f063f8ffb7ac35ad8a016",
+      "bytes": 91,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.js",
+      "url": "/components/motion-primitives-toolbar-expandable/files/runtime/lib/utils.js",
+      "sha256": "65f369004a052eabd90633cb51b5fae3d6e22923212354e7adc073caa1b18723",
+      "bytes": 139,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.d.ts",
+      "url": "/components/motion-primitives-toolbar-expandable/files/runtime/lib/utils.d.ts",
+      "sha256": "400b40fe5d5f4140993b0ac871686d2b7611ab791e8810b2e14f2d89701fc49e",
+      "bytes": 101,
+      "original": false
+    },
+    {
+      "path": "runtime/hooks/useClickOutside.jsx",
+      "url": "/components/motion-primitives-toolbar-expandable/files/runtime/hooks/useClickOutside.jsx",
+      "sha256": "db961ded88f6224580f4fe1a151dde0d8a34e17cb86f0077d1718d4fccff7209",
+      "bytes": 681,
+      "original": false
+    },
+    {
+      "path": "runtime/hooks/useClickOutside.d.ts",
+      "url": "/components/motion-primitives-toolbar-expandable/files/runtime/hooks/useClickOutside.d.ts",
+      "sha256": "dda7de4954a748a4a6f22b1dd76dd389de77f97d94c301a79cfe10deae537c40",
+      "bytes": 200,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/motion-primitives-toolbar-expandable/files/Example.tsx",
+      "sha256": "ba1887928e6df8626a01338c887a8c8777204dbf91f6936491032330711a0c72",
+      "bytes": 818,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/motion-primitives-toolbar-expandable/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/motion-primitives-toolbar-expandable/files/vite.config.fragment.mjs",
+      "sha256": "6d74ad58fa9c39413bff33c23bf1166ac3cfe8c6e8d8d35d39284fc37796145c",
+      "bytes": 397,
+      "original": false
+    }
+  ]
+}

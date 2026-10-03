@@ -1,0 +1,321 @@
+{
+  "checkedAt": "2026-10-03T19:52:38.245Z",
+  "typeChecking": true,
+  "reports": [
+    {
+      "id": "react-bits-split-text",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "react-bits-blur-text",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "react-bits-scroll-reveal",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "react-bits-decrypted-text",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "react-bits-rotating-text",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "react-bits-aurora",
+      "rendered": true,
+      "canvases": 1,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "react-bits-iridescence",
+      "rendered": true,
+      "canvases": 1,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "react-bits-silk",
+      "rendered": true,
+      "canvases": 1,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "react-bits-hyperspeed",
+      "rendered": true,
+      "canvases": 1,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "react-bits-liquid-ether",
+      "rendered": true,
+      "canvases": 1,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "react-bits-spotlight-card",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "react-bits-tilted-card",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "react-bits-pixel-transition",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "react-bits-circular-gallery",
+      "rendered": true,
+      "canvases": 1,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "react-bits-gooey-nav",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "react-bits-elastic-slider",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "react-bits-magnet",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "react-bits-hold-button",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "react-bits-swipe-row",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "react-bits-squish-switch",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "magic-ui-marquee",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "magic-ui-dock",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "magic-ui-globe",
+      "rendered": true,
+      "canvases": 1,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "magic-ui-animated-beam",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "magic-ui-border-beam",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "magic-ui-magic-card",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "magic-ui-shimmer-button",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "magic-ui-ripple-button",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "magic-ui-number-ticker",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "magic-ui-interactive-grid-pattern",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "magic-ui-confetti",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "magic-ui-animated-list",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "animate-ui-radix-accordion",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "animate-ui-radix-dialog",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "animate-ui-radix-dropdown-menu",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "animate-ui-radix-sheet",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "animate-ui-radix-switch",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "animate-ui-animate-tabs",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "animate-ui-animate-tooltip",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "animate-ui-buttons-liquid",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "animate-ui-community-motion-carousel",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "animate-ui-community-radial-menu",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "motion-primitives-morphing-dialog",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "motion-primitives-transition-panel",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    },
+    {
+      "id": "motion-primitives-toolbar-expandable",
+      "rendered": true,
+      "canvases": 0,
+      "errors": [],
+      "hydration": []
+    }
+  ]
+}

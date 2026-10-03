@@ -1,0 +1,1 @@
+import Example from '../../../../public/components/motion-primitives-transition-panel/files/NextExample';import '../../../../public/components/motion-primitives-transition-panel/files/demo.css';export default function Page(){return <div style={{height:'100vh'}}><Example/></div>}

@@ -4,3 +4,10 @@ dist/
 test-results/
 playwright-report/
 *.tsbuildinfo
+.component-build/
+public/component-previews/
+public/components/*/component.zip
+public/components/*/runtime.tsx
+fixtures/next-smoke/.next/
+fixtures/next-smoke/next-env.d.ts
+fixtures/next-smoke/pnpm-lock.yaml

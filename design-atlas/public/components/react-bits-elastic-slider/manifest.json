@@ -1,0 +1,111 @@
+{
+  "id": "react-bits-elastic-slider",
+  "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+  "bundleHash": "eaf9eee68e99e322520abb76af078171c36e96660fe91917d9edd72677b080e9",
+  "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Components/ElasticSlider/ElasticSlider.tsx",
+  "license": "MIT + Commons Clause",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/react-bits/ElasticSlider/ElasticSlider.tsx",
+  "runtimeEntry": "runtime/components/react-bits/ElasticSlider/ElasticSlider.jsx",
+  "author": "David Haz",
+  "dependencies": {
+    "@chakra-ui/react": "3.37.0",
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "react-icons": "5.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/react-bits/ElasticSlider/ElasticSlider.tsx",
+      "url": "/components/react-bits-elastic-slider/files/components/react-bits/ElasticSlider/ElasticSlider.tsx",
+      "sha256": "d65fdee9a898794760d33cbc1f76f6227f73537bbfc8d1199fcfe09ec758ee8c",
+      "bytes": 6216,
+      "original": true
+    },
+    {
+      "path": "components/react-bits/ElasticSlider/ElasticSlider.css",
+      "url": "/components/react-bits-elastic-slider/files/components/react-bits/ElasticSlider/ElasticSlider.css",
+      "sha256": "53db338d32cc8a872e99e7a8d720a7ba708af3164bf212fdcff0c765809c57e2",
+      "bytes": 1139,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/react-bits-elastic-slider/files/LICENSE.txt",
+      "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+      "bytes": 1303,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/react-bits-elastic-slider/files/README.md",
+      "sha256": "eb8760c57a82829caafb9895f004207c138d916db6944149d694bb3b2ee67a8b",
+      "bytes": 2148,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/react-bits-elastic-slider/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/react-bits-elastic-slider/files/tsconfig.paths.json",
+      "sha256": "4f910a9c3403c6c6411f2cf559ce3690c9e7ea6446d277484729c1faef7ae7dc",
+      "bytes": 184,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/react-bits-elastic-slider/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/ElasticSlider/ElasticSlider.jsx",
+      "url": "/components/react-bits-elastic-slider/files/runtime/components/react-bits/ElasticSlider/ElasticSlider.jsx",
+      "sha256": "646d547dff69e9e4069e72f2127085a77911fdb482c122f2904995cd077a854b",
+      "bytes": 5465,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/ElasticSlider/ElasticSlider.d.ts",
+      "url": "/components/react-bits-elastic-slider/files/runtime/components/react-bits/ElasticSlider/ElasticSlider.d.ts",
+      "sha256": "00c7c74ce946caf63ffd81190fd2110418a2045af8e0579bc34eb9778b634958",
+      "bytes": 394,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/ElasticSlider/ElasticSlider.css",
+      "url": "/components/react-bits-elastic-slider/files/runtime/components/react-bits/ElasticSlider/ElasticSlider.css",
+      "sha256": "53db338d32cc8a872e99e7a8d720a7ba708af3164bf212fdcff0c765809c57e2",
+      "bytes": 1139,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/react-bits-elastic-slider/files/Example.tsx",
+      "sha256": "9452aaff0f4464eeb8f93a1231f378f7a237c1d67ad3c5a47bec3b79d5081277",
+      "bytes": 910,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/react-bits-elastic-slider/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/react-bits-elastic-slider/files/vite.config.fragment.mjs",
+      "sha256": "fcf0fd364988973be992b41c4d794f1bed75e71efa0a89360bdf288e6e719eea",
+      "bytes": 384,
+      "original": false
+    }
+  ]
+}

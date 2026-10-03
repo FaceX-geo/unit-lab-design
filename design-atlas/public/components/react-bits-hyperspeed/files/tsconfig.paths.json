@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "./Hyperspeed.css": [
+        "./runtime/components/react-bits/Hyperspeed/Hyperspeed.css"
+      ]
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "id": "magic-ui-magic-card",
+  "revision": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
+  "bundleHash": "19ed4738105d7cf49a6d02faffe60e2fe6516a834502fbd2eda754ab1dc62471",
+  "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/magic-card.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/magicui/magic-card.tsx",
+  "runtimeEntry": "runtime/components/magicui/magic-card.jsx",
+  "author": "Magic UI contributors",
+  "dependencies": {
+    "clsx": "2.1.1",
+    "motion": "14.0.0",
+    "next": "16.3.8",
+    "next-themes": "0.4.6",
+    "process": "0.11.10",
+    "react": "19.3.0",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/magicui/magic-card.tsx",
+      "url": "/components/magic-ui-magic-card/files/components/magicui/magic-card.tsx",
+      "sha256": "6139e78ed228ebca18ed144f4a2714a89214c2ef604f1f82bc2f61204c3f3fa3",
+      "bytes": 6314,
+      "original": true
+    },
+    {
+      "path": "lib/utils.ts",
+      "url": "/components/magic-ui-magic-card/files/lib/utils.ts",
+      "sha256": "e7c07dc285a0a7ad16ca4c94204ca97cb94face47004827fc6bece0d28a9394c",
+      "bytes": 3810,
+      "original": true
+    },
+    {
+      "path": "config/site.ts",
+      "url": "/components/magic-ui-magic-card/files/config/site.ts",
+      "sha256": "a3b2ca4a9df6e9aa41fcda17fa49b9106ac0357280b25f553d8b12be36152fcd",
+      "bytes": 608,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/magic-ui-magic-card/files/LICENSE.txt",
+      "sha256": "0147b84235ed916b8b4e89c1f80655351c5afe7d211b629be61f553a227b34ba",
+      "bytes": 1060,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/magic-ui-magic-card/files/README.md",
+      "sha256": "7b4e5a6cb9d7c05d6a90bcce6e97d1a3b8c62bc9f2f5936f84985c6d05117b34",
+      "bytes": 2129,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/magic-ui-magic-card/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/magic-ui-magic-card/files/tsconfig.paths.json",
+      "sha256": "a33accdb4710214f20eaea586616b39c8d6f605b3357ba2dc8cdabb8b2449a39",
+      "bytes": 204,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/magic-ui-magic-card/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/magicui/magic-card.jsx",
+      "url": "/components/magic-ui-magic-card/files/runtime/components/magicui/magic-card.jsx",
+      "sha256": "01ccc6e71da11db702c08d42a6c1158cce525161426f5a8f6b82c6dda809f1db",
+      "bytes": 5536,
+      "original": false
+    },
+    {
+      "path": "runtime/components/magicui/magic-card.d.ts",
+      "url": "/components/magic-ui-magic-card/files/runtime/components/magicui/magic-card.d.ts",
+      "sha256": "d92942316a88f8c9c9e33e02072f5a620ab478930b436a8c9b289f9b122a5cf8",
+      "bytes": 900,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.js",
+      "url": "/components/magic-ui-magic-card/files/runtime/lib/utils.js",
+      "sha256": "1a6c42a349e073cab6a82234c75e37c736d24569ddddd252de1f112c3021c633",
+      "bytes": 3799,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.d.ts",
+      "url": "/components/magic-ui-magic-card/files/runtime/lib/utils.d.ts",
+      "sha256": "1301d7789d730617a951f1c82a70c25c6a38afd3fe7f47d33b52cf886f9f30bf",
+      "bytes": 1465,
+      "original": false
+    },
+    {
+      "path": "runtime/config/site.js",
+      "url": "/components/magic-ui-magic-card/files/runtime/config/site.js",
+      "sha256": "3b7ff0d1912f2ec062d66fca56780c13c4b3026a7bce8c305c9258f7ff3cb39d",
+      "bytes": 617,
+      "original": false
+    },
+    {
+      "path": "runtime/config/site.d.ts",
+      "url": "/components/magic-ui-magic-card/files/runtime/config/site.d.ts",
+      "sha256": "6df84a8db05a5455e323fdfec920cfd06abd2b7406fab0ff7132d30ac250a0cd",
+      "bytes": 308,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/magic-ui-magic-card/files/Example.tsx",
+      "sha256": "6abbbd21d2a949534559698ee757a594d130b65fd1f4381611906c13a0d86a25",
+      "bytes": 1092,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/magic-ui-magic-card/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/magic-ui-magic-card/files/vite.config.fragment.mjs",
+      "sha256": "367d77cef09e8a76e69208d669c6a923160a0a1c9978f68ec47044f66dd1980f",
+      "bytes": 376,
+      "original": false
+    }
+  ]
+}

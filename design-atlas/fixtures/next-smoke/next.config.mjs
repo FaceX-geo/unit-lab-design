@@ -1,0 +1,3 @@
+import path from 'node:path';import fs from 'node:fs';
+const root=path.resolve('../..');const catalog=JSON.parse(fs.readFileSync(path.join(root,'src/components-data/catalog.json'),'utf8'));
+export default{distDir:'.next',outputFileTracingRoot:root,webpack(config,{webpack}){config.plugins.push(new webpack.NormalModuleReplacementPlugin(/^(@\/|@workspace\/ui\/)/,resource=>{const match=catalog.find(m=>resource.context.includes('/components/'+m.id+'/files'));if((match?.runtimeAliases||match?.aliases)?.[resource.request])resource.request=path.join(root,'public/components',match.id,'files',(match.runtimeAliases||match.aliases)[resource.request]);}));return config;}};

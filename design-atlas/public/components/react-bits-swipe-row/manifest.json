@@ -1,0 +1,111 @@
+{
+  "id": "react-bits-swipe-row",
+  "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+  "bundleHash": "271ee085f6eae14fb63194d596085731b018f3d1beb4495acacb4e66ec130ea9",
+  "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Micro/SwipeRow/SwipeRow.tsx",
+  "license": "MIT + Commons Clause",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/react-bits/SwipeRow/SwipeRow.tsx",
+  "runtimeEntry": "runtime/components/react-bits/SwipeRow/SwipeRow.jsx",
+  "author": "David Haz",
+  "dependencies": {
+    "@hugeicons/core-free-icons": "4.3.5",
+    "@hugeicons/react": "1.1.10",
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/react-bits/SwipeRow/SwipeRow.tsx",
+      "url": "/components/react-bits-swipe-row/files/components/react-bits/SwipeRow/SwipeRow.tsx",
+      "sha256": "57f7812e228ee7fc37d520b3554e69f15b8ccab6bece4c0ab52aa9b5169db4ec",
+      "bytes": 15241,
+      "original": true
+    },
+    {
+      "path": "components/react-bits/SwipeRow/SwipeRow.css",
+      "url": "/components/react-bits-swipe-row/files/components/react-bits/SwipeRow/SwipeRow.css",
+      "sha256": "282eb8ad0375aae7ea646f6bf1f41e427003e912716f16f4812e5f4c484aec86",
+      "bytes": 4248,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/react-bits-swipe-row/files/LICENSE.txt",
+      "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+      "bytes": 1303,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/react-bits-swipe-row/files/README.md",
+      "sha256": "bd5658a06d885e90752a4489f7dee0e2f60839b4040e8365c12e46ebff948cb9",
+      "bytes": 2105,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/react-bits-swipe-row/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/react-bits-swipe-row/files/tsconfig.paths.json",
+      "sha256": "a041a463eedbfff7b0444f222ca082f879fce925e007d74ad347ca8e4b29c555",
+      "bytes": 169,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/react-bits-swipe-row/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/SwipeRow/SwipeRow.jsx",
+      "url": "/components/react-bits-swipe-row/files/runtime/components/react-bits/SwipeRow/SwipeRow.jsx",
+      "sha256": "fff32f712b565f81d7ad9164d2f15f23d403190c9fbcd302074495a690bf6eda",
+      "bytes": 14291,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/SwipeRow/SwipeRow.d.ts",
+      "url": "/components/react-bits-swipe-row/files/runtime/components/react-bits/SwipeRow/SwipeRow.d.ts",
+      "sha256": "3cfa62e7ba11056b89d348a0f46885d9cf2831908a8e737d5c63a204736a16ce",
+      "bytes": 1042,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/SwipeRow/SwipeRow.css",
+      "url": "/components/react-bits-swipe-row/files/runtime/components/react-bits/SwipeRow/SwipeRow.css",
+      "sha256": "282eb8ad0375aae7ea646f6bf1f41e427003e912716f16f4812e5f4c484aec86",
+      "bytes": 4248,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/react-bits-swipe-row/files/Example.tsx",
+      "sha256": "8385d151e1b32962e0e23a3ba9b93357242a20e38c5d3f7295a8d76bf2b499b1",
+      "bytes": 923,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/react-bits-swipe-row/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/react-bits-swipe-row/files/vite.config.fragment.mjs",
+      "sha256": "8d2373f5fd99c651386b92bd81cc394d2f8126246f7b3b38b5f3dc85f146a49d",
+      "bytes": 369,
+      "original": false
+    }
+  ]
+}

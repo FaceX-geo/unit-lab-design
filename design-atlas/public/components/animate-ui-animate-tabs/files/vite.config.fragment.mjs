@@ -1,0 +1,5 @@
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+const root=path.dirname(fileURLToPath(import.meta.url));
+export const componentAliases=Object.fromEntries(Object.entries({"@/registry/primitives/animate/tabs":"runtime/components/animate-ui/primitives/animate/tabs.jsx","@/registry/primitives/effects/highlight":"runtime/components/animate-ui/primitives/effects/highlight.jsx","@workspace/ui/lib/utils":"runtime/workspace-ui/lib/utils.js","@/registry/lib/get-strict-context":"runtime/registry/lib/get-strict-context/index.jsx","@/registry/primitives/animate/slot":"runtime/components/animate-ui/primitives/animate/slot.jsx","@/registry/components/animate/tabs":"runtime/components/animate-ui/components/animate/tabs.jsx","@workspace/ui/components/ui/button":"runtime/workspace-ui/components/ui/button.jsx","@workspace/ui/components/ui/card":"runtime/workspace-ui/components/ui/card.jsx","@workspace/ui/components/ui/input":"runtime/workspace-ui/components/ui/input.jsx","@workspace/ui/components/ui/label":"runtime/workspace-ui/components/ui/label.jsx"}).map(([key,value])=>[key,path.resolve(root,value)]));
+export default {resolve:{alias:componentAliases}};

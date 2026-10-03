@@ -1,0 +1,95 @@
+{
+  "id": "react-bits-blur-text",
+  "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+  "bundleHash": "9f34945ad0b1e5aea4d1dfee0ac3248d2e68e55311682982a99482960091080e",
+  "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/TextAnimations/BlurText/BlurText.tsx",
+  "license": "MIT + Commons Clause",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/react-bits/BlurText/BlurText.tsx",
+  "runtimeEntry": "runtime/components/react-bits/BlurText/BlurText.jsx",
+  "author": "David Haz",
+  "dependencies": {
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/react-bits/BlurText/BlurText.tsx",
+      "url": "/components/react-bits-blur-text/files/components/react-bits/BlurText/BlurText.tsx",
+      "sha256": "476b92e3ec7fee9fdcee177333c1a687106e23767152d663c390355f488ed6f5",
+      "bytes": 3593,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/react-bits-blur-text/files/LICENSE.txt",
+      "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+      "bytes": 1303,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/react-bits-blur-text/files/README.md",
+      "sha256": "8c6c22578ef7303f48c751217445cd954a3d82dcb0c7b2874c32cdae7a9d8530",
+      "bytes": 2072,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/react-bits-blur-text/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/react-bits-blur-text/files/tsconfig.paths.json",
+      "sha256": "113c9d3a7de4f46f7015d3e43fe190b854f93d6ad66bf0bccd2da5de4c9f246b",
+      "bytes": 66,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/react-bits-blur-text/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/BlurText/BlurText.jsx",
+      "url": "/components/react-bits-blur-text/files/runtime/components/react-bits/BlurText/BlurText.jsx",
+      "sha256": "56b3b7a7022633692a94b6f72dfda06f37811f042430a52933298ee4f846f924",
+      "bytes": 2903,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/BlurText/BlurText.d.ts",
+      "url": "/components/react-bits-blur-text/files/runtime/components/react-bits/BlurText/BlurText.d.ts",
+      "sha256": "99cd1ecca2da662841806a7c935a21157d0ace52e4258bd60963907d9c18fe20",
+      "bytes": 495,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/react-bits-blur-text/files/Example.tsx",
+      "sha256": "fbf0b8bef572eb8ddfc6e2b86f070481019270732e93f49fbcaaa9b193a2356e",
+      "bytes": 784,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/react-bits-blur-text/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/react-bits-blur-text/files/vite.config.fragment.mjs",
+      "sha256": "5d2907e5931b21667b1e984b7311670f9d05e67a26f5b50a901b94dda9cababa",
+      "bytes": 299,
+      "original": false
+    }
+  ]
+}

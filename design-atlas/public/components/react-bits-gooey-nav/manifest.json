@@ -1,0 +1,108 @@
+{
+  "id": "react-bits-gooey-nav",
+  "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+  "bundleHash": "d9aa4c45305e4ee494209b6c8b4ea8d9900c562dadeccd180c6eb2fad2e50ed3",
+  "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Components/GooeyNav/GooeyNav.tsx",
+  "license": "MIT + Commons Clause",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/react-bits/GooeyNav/GooeyNav.tsx",
+  "runtimeEntry": "runtime/components/react-bits/GooeyNav/GooeyNav.jsx",
+  "author": "David Haz",
+  "dependencies": {
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/react-bits/GooeyNav/GooeyNav.tsx",
+      "url": "/components/react-bits-gooey-nav/files/components/react-bits/GooeyNav/GooeyNav.tsx",
+      "sha256": "149966dced0c198f35224778f8590d10c03699ea44a2061af0060fe206497694",
+      "bytes": 6131,
+      "original": true
+    },
+    {
+      "path": "components/react-bits/GooeyNav/GooeyNav.css",
+      "url": "/components/react-bits-gooey-nav/files/components/react-bits/GooeyNav/GooeyNav.css",
+      "sha256": "2bb960c86e627b66cbfe7707cb0270489b479894812ab3c267cb5e71a0cbbebc",
+      "bytes": 4009,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/react-bits-gooey-nav/files/LICENSE.txt",
+      "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+      "bytes": 1303,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/react-bits-gooey-nav/files/README.md",
+      "sha256": "57d2e9abbecc04824d0e391824de29d9de25f7ae1f0a839d62f1b0d062fae161",
+      "bytes": 2054,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/react-bits-gooey-nav/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/react-bits-gooey-nav/files/tsconfig.paths.json",
+      "sha256": "2d4ba9d65de1dd26d0a4c35304e629f20d09e3d66a381b2b4f2d6a19b5696500",
+      "bytes": 169,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/react-bits-gooey-nav/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/GooeyNav/GooeyNav.jsx",
+      "url": "/components/react-bits-gooey-nav/files/runtime/components/react-bits/GooeyNav/GooeyNav.jsx",
+      "sha256": "5c6d4063dfb8b768e4d048613709475763e7a572034f01109ba40515bcc81de2",
+      "bytes": 5995,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/GooeyNav/GooeyNav.d.ts",
+      "url": "/components/react-bits-gooey-nav/files/runtime/components/react-bits/GooeyNav/GooeyNav.d.ts",
+      "sha256": "f782536721ae4bfee962f19748ce8c2cb8cd78284be11f32fa5651feada349e0",
+      "bytes": 457,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/GooeyNav/GooeyNav.css",
+      "url": "/components/react-bits-gooey-nav/files/runtime/components/react-bits/GooeyNav/GooeyNav.css",
+      "sha256": "2bb960c86e627b66cbfe7707cb0270489b479894812ab3c267cb5e71a0cbbebc",
+      "bytes": 4009,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/react-bits-gooey-nav/files/Example.tsx",
+      "sha256": "07272ddc116e10b409458e139722f9cabc6da0fb6dae9e1d2811ed9f8f93e35b",
+      "bytes": 842,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/react-bits-gooey-nav/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/react-bits-gooey-nav/files/vite.config.fragment.mjs",
+      "sha256": "68db875d75b280d5566621683762dd4e701f24905e356916f33f8e400cc23939",
+      "bytes": 369,
+      "original": false
+    }
+  ]
+}

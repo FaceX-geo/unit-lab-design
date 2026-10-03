@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/lib/utils": [
+        "./runtime/lib/utils.js"
+      ],
+      "@/config/site": [
+        "./runtime/config/site.js"
+      ]
+    }
+  }
+}

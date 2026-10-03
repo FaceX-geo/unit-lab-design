@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "./Iridescence.css": [
+        "./runtime/components/react-bits/Iridescence/Iridescence.css"
+      ]
+    }
+  }
+}

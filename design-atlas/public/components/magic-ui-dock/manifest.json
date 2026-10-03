@@ -1,0 +1,142 @@
+{
+  "id": "magic-ui-dock",
+  "revision": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
+  "bundleHash": "1f33f6ce5d120cb30efaae55a461d11b203eb40d0057d9177f65f5625a60ede4",
+  "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/dock.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/magicui/dock.tsx",
+  "runtimeEntry": "runtime/components/magicui/dock.jsx",
+  "author": "Magic UI contributors",
+  "dependencies": {
+    "class-variance-authority": "0.7.1",
+    "clsx": "2.1.1",
+    "motion": "14.0.0",
+    "next": "16.3.8",
+    "process": "0.11.10",
+    "react": "19.3.0",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/magicui/dock.tsx",
+      "url": "/components/magic-ui-dock/files/components/magicui/dock.tsx",
+      "sha256": "c12d578d4a273036fa435b67d8374d6fe9c7bcb962665cefc7b851aa86d12441",
+      "bytes": 3972,
+      "original": true
+    },
+    {
+      "path": "lib/utils.ts",
+      "url": "/components/magic-ui-dock/files/lib/utils.ts",
+      "sha256": "e7c07dc285a0a7ad16ca4c94204ca97cb94face47004827fc6bece0d28a9394c",
+      "bytes": 3810,
+      "original": true
+    },
+    {
+      "path": "config/site.ts",
+      "url": "/components/magic-ui-dock/files/config/site.ts",
+      "sha256": "a3b2ca4a9df6e9aa41fcda17fa49b9106ac0357280b25f553d8b12be36152fcd",
+      "bytes": 608,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/magic-ui-dock/files/LICENSE.txt",
+      "sha256": "0147b84235ed916b8b4e89c1f80655351c5afe7d211b629be61f553a227b34ba",
+      "bytes": 1060,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/magic-ui-dock/files/README.md",
+      "sha256": "32458381ba59dc7c628464d8bd64fd8e2991798411169ede483bf5c429535122",
+      "bytes": 2126,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/magic-ui-dock/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/magic-ui-dock/files/tsconfig.paths.json",
+      "sha256": "a33accdb4710214f20eaea586616b39c8d6f605b3357ba2dc8cdabb8b2449a39",
+      "bytes": 204,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/magic-ui-dock/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/magicui/dock.jsx",
+      "url": "/components/magic-ui-dock/files/runtime/components/magicui/dock.jsx",
+      "sha256": "0229b3afce82bdda674c43c37dae04b1da22c6ee2d820ed3e4b0706392b62acf",
+      "bytes": 3073,
+      "original": false
+    },
+    {
+      "path": "runtime/components/magicui/dock.d.ts",
+      "url": "/components/magic-ui-dock/files/runtime/components/magicui/dock.d.ts",
+      "sha256": "14890bf68632bb9bdc909405d0ed03d6ad11eec0860580ed452e26d187f3f11d",
+      "bytes": 1273,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.js",
+      "url": "/components/magic-ui-dock/files/runtime/lib/utils.js",
+      "sha256": "1a6c42a349e073cab6a82234c75e37c736d24569ddddd252de1f112c3021c633",
+      "bytes": 3799,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.d.ts",
+      "url": "/components/magic-ui-dock/files/runtime/lib/utils.d.ts",
+      "sha256": "1301d7789d730617a951f1c82a70c25c6a38afd3fe7f47d33b52cf886f9f30bf",
+      "bytes": 1465,
+      "original": false
+    },
+    {
+      "path": "runtime/config/site.js",
+      "url": "/components/magic-ui-dock/files/runtime/config/site.js",
+      "sha256": "3b7ff0d1912f2ec062d66fca56780c13c4b3026a7bce8c305c9258f7ff3cb39d",
+      "bytes": 617,
+      "original": false
+    },
+    {
+      "path": "runtime/config/site.d.ts",
+      "url": "/components/magic-ui-dock/files/runtime/config/site.d.ts",
+      "sha256": "6df84a8db05a5455e323fdfec920cfd06abd2b7406fab0ff7132d30ac250a0cd",
+      "bytes": 308,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/magic-ui-dock/files/Example.tsx",
+      "sha256": "232f3007d18d37ed569ce311a0afe73444a1a361c0df143fc8959f0b372f0266",
+      "bytes": 981,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/magic-ui-dock/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/magic-ui-dock/files/vite.config.fragment.mjs",
+      "sha256": "367d77cef09e8a76e69208d669c6a923160a0a1c9978f68ec47044f66dd1980f",
+      "bytes": 376,
+      "original": false
+    }
+  ]
+}

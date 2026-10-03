@@ -1,0 +1,1 @@
+import Example from '../../../../public/components/react-bits-elastic-slider/files/NextExample';import '../../../../public/components/react-bits-elastic-slider/files/demo.css';export default function Page(){return <div style={{height:'100vh'}}><Example/></div>}

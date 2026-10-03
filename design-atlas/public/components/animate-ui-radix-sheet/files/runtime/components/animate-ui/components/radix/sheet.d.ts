@@ -1,0 +1,21 @@
+import * as React from 'react';
+import { type SheetProps as SheetPrimitiveProps, type SheetTriggerProps as SheetTriggerPrimitiveProps, type SheetCloseProps as SheetClosePrimitiveProps, type SheetContentProps as SheetContentPrimitiveProps, type SheetHeaderProps as SheetHeaderPrimitiveProps, type SheetFooterProps as SheetFooterPrimitiveProps, type SheetTitleProps as SheetTitlePrimitiveProps, type SheetDescriptionProps as SheetDescriptionPrimitiveProps } from '@/registry/primitives/radix/sheet';
+type SheetProps = SheetPrimitiveProps;
+declare function Sheet(props: SheetProps): React.JSX.Element;
+type SheetTriggerProps = SheetTriggerPrimitiveProps;
+declare function SheetTrigger(props: SheetTriggerProps): React.JSX.Element;
+type SheetCloseProps = SheetClosePrimitiveProps;
+declare function SheetClose(props: SheetCloseProps): React.JSX.Element;
+type SheetContentProps = SheetContentPrimitiveProps & {
+    showCloseButton?: boolean;
+};
+declare function SheetContent({ className, children, side, showCloseButton, ...props }: SheetContentProps): React.JSX.Element;
+type SheetHeaderProps = SheetHeaderPrimitiveProps;
+declare function SheetHeader({ className, ...props }: SheetHeaderProps): React.JSX.Element;
+type SheetFooterProps = SheetFooterPrimitiveProps;
+declare function SheetFooter({ className, ...props }: SheetFooterProps): React.JSX.Element;
+type SheetTitleProps = SheetTitlePrimitiveProps;
+declare function SheetTitle({ className, ...props }: SheetTitleProps): React.JSX.Element;
+type SheetDescriptionProps = SheetDescriptionPrimitiveProps;
+declare function SheetDescription({ className, ...props }: SheetDescriptionProps): React.JSX.Element;
+export { Sheet, SheetTrigger, SheetClose, SheetContent, SheetHeader, SheetFooter, SheetTitle, SheetDescription, type SheetProps, type SheetTriggerProps, type SheetCloseProps, type SheetContentProps, type SheetHeaderProps, type SheetFooterProps, type SheetTitleProps, type SheetDescriptionProps, };

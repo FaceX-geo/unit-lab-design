@@ -1,0 +1,1 @@
+import Example from '../../../../public/components/magic-ui-globe/files/NextExample';import '../../../../public/components/magic-ui-globe/files/demo.css';export default function Page(){return <div style={{height:'100vh'}}><Example/></div>}

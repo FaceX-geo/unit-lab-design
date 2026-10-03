@@ -1,0 +1,109 @@
+{
+  "id": "react-bits-liquid-ether",
+  "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+  "bundleHash": "917899b3f9fccaabd39c3f9ece2a18612586a710735b98d471a74bd65c73f549",
+  "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Backgrounds/LiquidEther/LiquidEther.tsx",
+  "license": "MIT + Commons Clause",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/react-bits/LiquidEther/LiquidEther.tsx",
+  "runtimeEntry": "runtime/components/react-bits/LiquidEther/LiquidEther.jsx",
+  "author": "David Haz",
+  "dependencies": {
+    "react": "19.3.0",
+    "three": "0.186.1",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/react-bits/LiquidEther/LiquidEther.tsx",
+      "url": "/components/react-bits-liquid-ether/files/components/react-bits/LiquidEther/LiquidEther.tsx",
+      "sha256": "bdaa1c086484372ace9b2d049cbf14beee3f573e78779cbbb385593e6e3412d4",
+      "bytes": 40920,
+      "original": true
+    },
+    {
+      "path": "components/react-bits/LiquidEther/LiquidEther.css",
+      "url": "/components/react-bits-liquid-ether/files/components/react-bits/LiquidEther/LiquidEther.css",
+      "sha256": "c437ec9365c14e6df7b53051cf720e01c4edd10fcdcea0b2f254a7b8584046f2",
+      "bytes": 123,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/react-bits-liquid-ether/files/LICENSE.txt",
+      "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+      "bytes": 1303,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/react-bits-liquid-ether/files/README.md",
+      "sha256": "5ecafd8d853313b1083a9b405497a13bf0fef74e5cbaf18ef75a27a6c14eefa6",
+      "bytes": 2081,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/react-bits-liquid-ether/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/react-bits-liquid-ether/files/tsconfig.paths.json",
+      "sha256": "b6345958b9d00fbaf7596fad3d3b48dfa78a27a08eb2ebac85b17af7c183d2ab",
+      "bytes": 178,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/react-bits-liquid-ether/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/LiquidEther/LiquidEther.jsx",
+      "url": "/components/react-bits-liquid-ether/files/runtime/components/react-bits/LiquidEther/LiquidEther.jsx",
+      "sha256": "a4a84d5200d7d145cd4432c7f47344ffa21242c216e7356c4ae6caeca6d6e191",
+      "bytes": 46448,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/LiquidEther/LiquidEther.d.ts",
+      "url": "/components/react-bits-liquid-ether/files/runtime/components/react-bits/LiquidEther/LiquidEther.d.ts",
+      "sha256": "01d5701b5c0484b57c8b673d01654071ec40c3bef630a81d294916c476b33778",
+      "bytes": 981,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/LiquidEther/LiquidEther.css",
+      "url": "/components/react-bits-liquid-ether/files/runtime/components/react-bits/LiquidEther/LiquidEther.css",
+      "sha256": "c437ec9365c14e6df7b53051cf720e01c4edd10fcdcea0b2f254a7b8584046f2",
+      "bytes": 123,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/react-bits-liquid-ether/files/Example.tsx",
+      "sha256": "bb78c6922affa2515d07ebae9f61bed1d999a1ed79fe969307ce4a73ca74e261",
+      "bytes": 882,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/react-bits-liquid-ether/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/react-bits-liquid-ether/files/vite.config.fragment.mjs",
+      "sha256": "6427822cd455dc2ff56e1c1e9b94449db7900fd538f777b946f5ece4c50d6b81",
+      "bytes": 378,
+      "original": false
+    }
+  ]
+}

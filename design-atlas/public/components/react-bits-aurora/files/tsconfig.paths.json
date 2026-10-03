@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "./Aurora.css": [
+        "./runtime/components/react-bits/Aurora/Aurora.css"
+      ]
+    }
+  }
+}

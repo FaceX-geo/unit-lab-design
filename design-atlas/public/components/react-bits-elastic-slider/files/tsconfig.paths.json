@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "./ElasticSlider.css": [
+        "./runtime/components/react-bits/ElasticSlider/ElasticSlider.css"
+      ]
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "react-bits-split-text",
+  "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+  "bundleHash": "fe3f65d2a39202fbcccd96b964b693d75adcc8b59eb9233b4149b62451ff4ff6",
+  "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/TextAnimations/SplitText/SplitText.tsx",
+  "license": "MIT + Commons Clause",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/react-bits/SplitText/SplitText.tsx",
+  "runtimeEntry": "runtime/components/react-bits/SplitText/SplitText.jsx",
+  "author": "David Haz",
+  "dependencies": {
+    "@gsap/react": "2.1.2",
+    "gsap": "3.15.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/react-bits/SplitText/SplitText.tsx",
+      "url": "/components/react-bits-split-text/files/components/react-bits/SplitText/SplitText.tsx",
+      "sha256": "fee27238a3dcfddeb81af98564cb034e1cf066f1ff1fe12f11598740e74e67d9",
+      "bytes": 5157,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/react-bits-split-text/files/LICENSE.txt",
+      "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+      "bytes": 1303,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/react-bits-split-text/files/README.md",
+      "sha256": "156ee7661ce451a5c1a32e8163536a41336557a269402248edf0cde0489e0085",
+      "bytes": 2116,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/react-bits-split-text/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/react-bits-split-text/files/tsconfig.paths.json",
+      "sha256": "113c9d3a7de4f46f7015d3e43fe190b854f93d6ad66bf0bccd2da5de4c9f246b",
+      "bytes": 66,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/react-bits-split-text/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/SplitText/SplitText.jsx",
+      "url": "/components/react-bits-split-text/files/runtime/components/react-bits/SplitText/SplitText.jsx",
+      "sha256": "cc5cd5c029acc3873427ffbd67362aaf992fba1e0239529a4d43fddb4c72390e",
+      "bytes": 4985,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/SplitText/SplitText.d.ts",
+      "url": "/components/react-bits-split-text/files/runtime/components/react-bits/SplitText/SplitText.d.ts",
+      "sha256": "7dd8b1a8b423f567860a39b7d8c16ba0d54a9e7a3d8996cd8fe7ed5277546696",
+      "bytes": 593,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/react-bits-split-text/files/Example.tsx",
+      "sha256": "53d4b3d3cfb227a1be88d7df67ba0065ba3bd449f2ef79090e2e0149d1793b98",
+      "bytes": 807,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/react-bits-split-text/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/react-bits-split-text/files/vite.config.fragment.mjs",
+      "sha256": "5d2907e5931b21667b1e984b7311670f9d05e67a26f5b50a901b94dda9cababa",
+      "bytes": 299,
+      "original": false
+    }
+  ]
+}

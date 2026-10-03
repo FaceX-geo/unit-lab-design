@@ -1,0 +1,108 @@
+{
+  "id": "react-bits-spotlight-card",
+  "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+  "bundleHash": "9e1688cffe3f0dcbd7bd59ac3a4a9590181e95e7f6910ac51e0877f176ce6d2b",
+  "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Components/SpotlightCard/SpotlightCard.tsx",
+  "license": "MIT + Commons Clause",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/react-bits/SpotlightCard/SpotlightCard.tsx",
+  "runtimeEntry": "runtime/components/react-bits/SpotlightCard/SpotlightCard.jsx",
+  "author": "David Haz",
+  "dependencies": {
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/react-bits/SpotlightCard/SpotlightCard.tsx",
+      "url": "/components/react-bits-spotlight-card/files/components/react-bits/SpotlightCard/SpotlightCard.tsx",
+      "sha256": "77aa064d9646d66de1cf67c8ea60c23a98a59540b82ba8e6b8184a5f90393980",
+      "bytes": 1097,
+      "original": true
+    },
+    {
+      "path": "components/react-bits/SpotlightCard/SpotlightCard.css",
+      "url": "/components/react-bits-spotlight-card/files/components/react-bits/SpotlightCard/SpotlightCard.css",
+      "sha256": "d2e0a07a5b9edf383c74d7a3ee93d9e0c6cdfff21c861c67dca1ce88902d08f9",
+      "bytes": 625,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/react-bits-spotlight-card/files/LICENSE.txt",
+      "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+      "bytes": 1303,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/react-bits-spotlight-card/files/README.md",
+      "sha256": "0c0b7ab21a3434ea2c2c7ec2490dcd435ec97815ba396132a1a6f41d5efc005b",
+      "bytes": 2091,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/react-bits-spotlight-card/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/react-bits-spotlight-card/files/tsconfig.paths.json",
+      "sha256": "1b030eca488bf9f59b646f2ed7be0b4fba13fb000289f57ec61b753e31daaf83",
+      "bytes": 184,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/react-bits-spotlight-card/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/SpotlightCard/SpotlightCard.jsx",
+      "url": "/components/react-bits-spotlight-card/files/runtime/components/react-bits/SpotlightCard/SpotlightCard.jsx",
+      "sha256": "b61d9ad280316827a72d0f606b8de4cb6ab00558fd49f1aeb897297d9237e692",
+      "bytes": 828,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/SpotlightCard/SpotlightCard.d.ts",
+      "url": "/components/react-bits-spotlight-card/files/runtime/components/react-bits/SpotlightCard/SpotlightCard.d.ts",
+      "sha256": "1198c0a21ff2b1f8246ed40cf5e5ecb8e5f93e3507679fd0c6f3b595ff58e11b",
+      "bytes": 308,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/SpotlightCard/SpotlightCard.css",
+      "url": "/components/react-bits-spotlight-card/files/runtime/components/react-bits/SpotlightCard/SpotlightCard.css",
+      "sha256": "d2e0a07a5b9edf383c74d7a3ee93d9e0c6cdfff21c861c67dca1ce88902d08f9",
+      "bytes": 625,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/react-bits-spotlight-card/files/Example.tsx",
+      "sha256": "84a03deecb3c384ad5283fe5d6d8ad4c72d950450da736b89ab07ffc2bc1aa2d",
+      "bytes": 1001,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/react-bits-spotlight-card/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/react-bits-spotlight-card/files/vite.config.fragment.mjs",
+      "sha256": "3e40eb7f32396f063cb568eac74d6460f7e853e727467e234014d25c0018bb6c",
+      "bytes": 384,
+      "original": false
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "react-bits-squish-switch",
+  "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+  "bundleHash": "686dd3f0380a5659503b9dd04bf5f9a15fa83b99917462458f49b77c44a6fdd4",
+  "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Micro/SquishSwitch/SquishSwitch.tsx",
+  "license": "MIT + Commons Clause",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/react-bits/SquishSwitch/SquishSwitch.tsx",
+  "runtimeEntry": "runtime/components/react-bits/SquishSwitch/SquishSwitch.jsx",
+  "author": "David Haz",
+  "dependencies": {
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/react-bits/SquishSwitch/SquishSwitch.tsx",
+      "url": "/components/react-bits-squish-switch/files/components/react-bits/SquishSwitch/SquishSwitch.tsx",
+      "sha256": "e373bbd3e3a35d72e4253b82c4747f44ab983777c070acff467d51ea1721dfb1",
+      "bytes": 7212,
+      "original": true
+    },
+    {
+      "path": "components/react-bits/SquishSwitch/SquishSwitch.css",
+      "url": "/components/react-bits-squish-switch/files/components/react-bits/SquishSwitch/SquishSwitch.css",
+      "sha256": "c05d751d50995b2683ea005098c8459694e03a2c2a3d532f4ab545aac5d5dfcb",
+      "bytes": 1723,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/react-bits-squish-switch/files/LICENSE.txt",
+      "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+      "bytes": 1303,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/react-bits-squish-switch/files/README.md",
+      "sha256": "00c9646d0eb1e2f4ead486eed61820349f98b12d8419cb82b7814630ee189ecd",
+      "bytes": 2074,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/react-bits-squish-switch/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/react-bits-squish-switch/files/tsconfig.paths.json",
+      "sha256": "d4964e2b383b81881155e2721e949e079dc94ce081d4254ddf2f3486ce022294",
+      "bytes": 181,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/react-bits-squish-switch/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/SquishSwitch/SquishSwitch.jsx",
+      "url": "/components/react-bits-squish-switch/files/runtime/components/react-bits/SquishSwitch/SquishSwitch.jsx",
+      "sha256": "7dbe1e533cc75be5c85a63e25cc41495df33ed1c3b3229b34d1a7b88c9afa33d",
+      "bytes": 6527,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/SquishSwitch/SquishSwitch.d.ts",
+      "url": "/components/react-bits-squish-switch/files/runtime/components/react-bits/SquishSwitch/SquishSwitch.d.ts",
+      "sha256": "d92fd7863980be279f8c9075cf74f30677908e8bb5c7049c474cb6bd9bab77dd",
+      "bytes": 647,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/SquishSwitch/SquishSwitch.css",
+      "url": "/components/react-bits-squish-switch/files/runtime/components/react-bits/SquishSwitch/SquishSwitch.css",
+      "sha256": "c05d751d50995b2683ea005098c8459694e03a2c2a3d532f4ab545aac5d5dfcb",
+      "bytes": 1723,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/react-bits-squish-switch/files/Example.tsx",
+      "sha256": "134891f4f64429530c5ca02812c46f82d9863131598e8b6316b5153b0acb64ef",
+      "bytes": 897,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/react-bits-squish-switch/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/react-bits-squish-switch/files/vite.config.fragment.mjs",
+      "sha256": "6c0244bb85bdf6da863a7f8563b72e149be68b5935bddb0df1a9fd0b9c3f8b63",
+      "bytes": 381,
+      "original": false
+    }
+  ]
+}

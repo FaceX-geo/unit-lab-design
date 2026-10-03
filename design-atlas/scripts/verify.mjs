@@ -16,12 +16,13 @@ const rows=[['ID','Название','Раздел','Тип','Смысл','Пр�
 fs.writeFileSync('public/catalog.csv','\uFEFF'+rows.map(row=>row.map(quote).join(';')).join('\n')+'\n');
 console.log(JSON.stringify({modules:modules.length,categories:categories.length,sourceCount:Object.keys(sources).length,uniqueIds:'pass',contentFields:'pass',sources:'pass',summary},null,2));
 // Validate personal imports without touching a browser's real localStorage.
+const componentCatalog=JSON.parse(fs.readFileSync('src/components-data/catalog.json','utf8'));
 const defaultConfig={accent:'#6959c7',radius:16,spacing:16,duration:400,easing:'cubic-bezier(.2,.8,.2,1)',platform:'ios',reduced:false};
 let storageJs=ts.transpileModule(fs.readFileSync('src/storage.ts','utf8'),{compilerOptions:{module:ts.ModuleKind.ES2022,target:ts.ScriptTarget.ES2022}}).outputText.replace(/^import .+;\s*$/gm,'');
-storageJs=`const _modules=${JSON.stringify(modules.map(m=>({id:m.id,rules:m.rules})))}; const getModule=id=>_modules.find(m=>m.id===id); const defaultConfig=${JSON.stringify(defaultConfig)};\n`+storageJs;
+storageJs=`const _components=${JSON.stringify(componentCatalog)};const getComponent=id=>_components.find(m=>m.id===id);const _modules=${JSON.stringify(modules.map(m=>({id:m.id,rules:m.rules})))}; const getModule=id=>_modules.find(m=>m.id===id); const defaultConfig=${JSON.stringify(defaultConfig)};\n`+storageJs;
 const {validateData}=await import('data:text/javascript;base64,'+Buffer.from(storageJs).toString('base64'));
 assert.throws(()=>validateData(null));
-assert.throws(()=>validateData({version:2,favorites:[]}));
+assert.throws(()=>validateData({version:3,favorites:[]}));
 assert.throws(()=>validateData({version:1,favorites:'bad'}));
 const safe=validateData({version:1,favorites:['composition-1','composition-1','unknown',2],notes:{'composition-1':'x'.repeat(5010),'unknown':'ignore'},checked:{'composition-1':[0,0,1,999,-1,'1']},config:{accent:'url(secret)',radius:-1,spacing:999,duration:null,easing:'invalid',platform:'unsupported',reduced:true}});
 assert.deepEqual(safe.favorites,['composition-1']);
@@ -31,3 +32,15 @@ assert.deepEqual(safe.checked['composition-1'],[0,1]);
 assert.deepEqual(safe.config,{...defaultConfig,reduced:true});
 assert.deepEqual(validateData(safe),safe,'Round-trip preserves valid personal data');
 console.log('Personal data: schema rejection, unknown IDs, deduplication, note length, checklist bounds, config defaults and round-trip PASS.');
+
+assert.equal(safe.version,2,'v1 migrates to v2');
+assert.deepEqual(safe.components,{favorites:[],notes:{},presets:{}});
+const id='react-bits-split-text';
+const withComponents=validateData({...safe,components:{favorites:[id,id,'unknown'],notes:{[id]:'n'.repeat(5010),unknown:'drop'},presets:{[id]:{text:'t'.repeat(200),speed:2,unknown:'drop'},'react-bits-aurora':{speed:Infinity,accent:'url(secret)'},unknown:{speed:1}}}});
+assert.deepEqual(withComponents.components.favorites,[id]);
+assert.equal(withComponents.components.notes[id].length,5000);
+assert.deepEqual(withComponents.components.presets[id],{text:'t'.repeat(180),speed:2});
+assert.deepEqual(withComponents.components.presets['react-bits-aurora'],{});
+assert.equal(withComponents.components.presets.unknown,undefined);
+assert.deepEqual(validateData(withComponents),withComponents);
+console.log('Component favorites/notes/presets, invalid values, v1 migration and v2 round-trip PASS.');

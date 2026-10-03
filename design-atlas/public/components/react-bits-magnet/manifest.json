@@ -1,0 +1,94 @@
+{
+  "id": "react-bits-magnet",
+  "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+  "bundleHash": "62e25823becb0f9c5bba9f8a6be6a4e78d0b52deafe1e8e94d5e154bfb1b2e99",
+  "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Animations/Magnet/Magnet.tsx",
+  "license": "MIT + Commons Clause",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/react-bits/Magnet/Magnet.tsx",
+  "runtimeEntry": "runtime/components/react-bits/Magnet/Magnet.jsx",
+  "author": "David Haz",
+  "dependencies": {
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/react-bits/Magnet/Magnet.tsx",
+      "url": "/components/react-bits-magnet/files/components/react-bits/Magnet/Magnet.tsx",
+      "sha256": "17227417dc61cf1cf02b88c7a291607de3eedfd4714ab642078c5ebf102f586f",
+      "bytes": 2428,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/react-bits-magnet/files/LICENSE.txt",
+      "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+      "bytes": 1303,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/react-bits-magnet/files/README.md",
+      "sha256": "dfce5c199b8f209f143719ec3352b188506356507cbb2153aea23f7881a438d6",
+      "bytes": 2036,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/react-bits-magnet/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/react-bits-magnet/files/tsconfig.paths.json",
+      "sha256": "113c9d3a7de4f46f7015d3e43fe190b854f93d6ad66bf0bccd2da5de4c9f246b",
+      "bytes": 66,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/react-bits-magnet/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/Magnet/Magnet.jsx",
+      "url": "/components/react-bits-magnet/files/runtime/components/react-bits/Magnet/Magnet.jsx",
+      "sha256": "607dfd77cf1f4d19ea7b18ea7a3d14ba8b110371b521603c249ccef420405a72",
+      "bytes": 2138,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/Magnet/Magnet.d.ts",
+      "url": "/components/react-bits-magnet/files/runtime/components/react-bits/Magnet/Magnet.d.ts",
+      "sha256": "8999394542af8674bb807477c5fca3d3caa477fc562e3fd18eb36c65be07ecef",
+      "bytes": 425,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/react-bits-magnet/files/Example.tsx",
+      "sha256": "b3d3c4d20c036f7e41c8e99196a1dc65b17df7055e36f5567409ddbadde2ad14",
+      "bytes": 909,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/react-bits-magnet/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/react-bits-magnet/files/vite.config.fragment.mjs",
+      "sha256": "5d2907e5931b21667b1e984b7311670f9d05e67a26f5b50a901b94dda9cababa",
+      "bytes": 299,
+      "original": false
+    }
+  ]
+}

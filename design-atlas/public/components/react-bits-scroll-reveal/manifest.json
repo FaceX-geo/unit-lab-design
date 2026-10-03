@@ -1,0 +1,109 @@
+{
+  "id": "react-bits-scroll-reveal",
+  "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+  "bundleHash": "a4a60559c1ba1449f5f86f7d80c3cd713c21d35a3dc83fe86a412f86f9009c21",
+  "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/TextAnimations/ScrollReveal/ScrollReveal.tsx",
+  "license": "MIT + Commons Clause",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/react-bits/ScrollReveal/ScrollReveal.tsx",
+  "runtimeEntry": "runtime/components/react-bits/ScrollReveal/ScrollReveal.jsx",
+  "author": "David Haz",
+  "dependencies": {
+    "gsap": "3.15.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/react-bits/ScrollReveal/ScrollReveal.tsx",
+      "url": "/components/react-bits-scroll-reveal/files/components/react-bits/ScrollReveal/ScrollReveal.tsx",
+      "sha256": "67110ae5a6254ba1b1c9dd92fb745773ca2fa50ab45e38ef3a6dd6b2ce90dd62",
+      "bytes": 2987,
+      "original": true
+    },
+    {
+      "path": "components/react-bits/ScrollReveal/ScrollReveal.css",
+      "url": "/components/react-bits-scroll-reveal/files/components/react-bits/ScrollReveal/ScrollReveal.css",
+      "sha256": "b16de51475c3214ba7c11dc7a8c42f4ccd8436701b3e5d60c01489a663f05938",
+      "bytes": 177,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/react-bits-scroll-reveal/files/LICENSE.txt",
+      "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+      "bytes": 1303,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/react-bits-scroll-reveal/files/README.md",
+      "sha256": "51181fc255e52d2cfc7ff22d238c97bd05f21f01f68d9f2d537deb12ec4bb84a",
+      "bytes": 2103,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/react-bits-scroll-reveal/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/react-bits-scroll-reveal/files/tsconfig.paths.json",
+      "sha256": "eca321bfc90ac102e47257537df000b01d104db837a5550da559eed7573b8d52",
+      "bytes": 181,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/react-bits-scroll-reveal/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/ScrollReveal/ScrollReveal.jsx",
+      "url": "/components/react-bits-scroll-reveal/files/runtime/components/react-bits/ScrollReveal/ScrollReveal.jsx",
+      "sha256": "d4c1c131a46e638d176628a1e5ec8c1b356447472389abad9388c46f0f5f8365",
+      "bytes": 2735,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/ScrollReveal/ScrollReveal.d.ts",
+      "url": "/components/react-bits-scroll-reveal/files/runtime/components/react-bits/ScrollReveal/ScrollReveal.d.ts",
+      "sha256": "fc08689053c32d81e05b400bf988158a3da9e0af9e8bacda0ce771ba34f1bf0c",
+      "bytes": 508,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/ScrollReveal/ScrollReveal.css",
+      "url": "/components/react-bits-scroll-reveal/files/runtime/components/react-bits/ScrollReveal/ScrollReveal.css",
+      "sha256": "b16de51475c3214ba7c11dc7a8c42f4ccd8436701b3e5d60c01489a663f05938",
+      "bytes": 177,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/react-bits-scroll-reveal/files/Example.tsx",
+      "sha256": "c2ba5ca8fd74cc7221aed02b5b8ff27bb515c84424a4effbe151a9e76a6e57f3",
+      "bytes": 962,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/react-bits-scroll-reveal/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/react-bits-scroll-reveal/files/vite.config.fragment.mjs",
+      "sha256": "223cd58f98606214cd9b7193f7265d1f6260ce93a0be483614801886701e6e24",
+      "bytes": 381,
+      "original": false
+    }
+  ]
+}

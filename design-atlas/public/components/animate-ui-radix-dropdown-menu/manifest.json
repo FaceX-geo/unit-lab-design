@@ -1,0 +1,268 @@
+{
+  "id": "animate-ui-radix-dropdown-menu",
+  "revision": "efeb96ffd7a3b7a4868667e4ac3c346620fb3044",
+  "bundleHash": "bfe419470d3ac9c0221c0e77bd98f179a2cd7f171d25141331efcd20ba8a4973",
+  "sourceUrl": "https://github.com/imskyleen/animate-ui/blob/efeb96ffd7a3b7a4868667e4ac3c346620fb3044/apps/www/registry/components/radix/dropdown-menu/index.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/animate-ui/components/radix/dropdown-menu.tsx",
+  "runtimeEntry": "runtime/components/animate-ui/components/radix/dropdown-menu.jsx",
+  "author": "Skyleen and contributors",
+  "dependencies": {
+    "class-variance-authority": "0.7.1",
+    "clsx": "2.1.1",
+    "lucide-react": "0.577.0",
+    "motion": "14.0.0",
+    "radix-ui": "1.6.7",
+    "react": "19.3.0",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/animate-ui/components/radix/dropdown-menu.tsx",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/components/animate-ui/components/radix/dropdown-menu.tsx",
+      "sha256": "de9f6a16427460ef36b38bf389d01cbe8d775a090b55a58d1945bb6202eaa0ac",
+      "bytes": 10823,
+      "original": true
+    },
+    {
+      "path": "components/animate-ui/primitives/radix/dropdown-menu.tsx",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/components/animate-ui/primitives/radix/dropdown-menu.tsx",
+      "sha256": "b412d2a2f4f95f5c350bb46cbf567c27c824df762199446367746cc920224738",
+      "bytes": 14353,
+      "original": true
+    },
+    {
+      "path": "components/animate-ui/primitives/effects/highlight.tsx",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/components/animate-ui/primitives/effects/highlight.tsx",
+      "sha256": "35295612e7cb9c27f8894ca2a552d46e7849ea0a6e783385581d09d3730c929d",
+      "bytes": 17604,
+      "original": true
+    },
+    {
+      "path": "workspace-ui/lib/utils.ts",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/workspace-ui/lib/utils.ts",
+      "sha256": "7c8c3dfc0cdd370d44932828eb067ef771c8fe7996693221d5d4b90af6d54f2d",
+      "bytes": 166,
+      "original": true
+    },
+    {
+      "path": "registry/lib/get-strict-context/index.tsx",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/registry/lib/get-strict-context/index.tsx",
+      "sha256": "11e131ad0fea82497777b9fce9e7cff17929deb3f776a9a81482c753434d7818",
+      "bytes": 749,
+      "original": true
+    },
+    {
+      "path": "registry/hooks/use-controlled-state/index.tsx",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/registry/hooks/use-controlled-state/index.tsx",
+      "sha256": "30a1a0b4a3f73ee60393c34ce18a40e3b0b420cf62aa3b32eb253ee6c61db295",
+      "bytes": 855,
+      "original": true
+    },
+    {
+      "path": "registry/hooks/use-data-state/index.tsx",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/registry/hooks/use-data-state/index.tsx",
+      "sha256": "cdfcc112d216a0bfd3f2dc1b5061057d7e869d957d48faf5996f7e5a3ba6f9d8",
+      "bytes": 1501,
+      "original": true
+    },
+    {
+      "path": "registry/demo/components/radix/dropdown-menu/index.tsx",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/registry/demo/components/radix/dropdown-menu/index.tsx",
+      "sha256": "3cbd53d1829f43d0d7b855e4424a7267b10e69aae7f4ee4c6e67fb52ed593930",
+      "bytes": 2816,
+      "original": true
+    },
+    {
+      "path": "workspace-ui/components/ui/button.tsx",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/workspace-ui/components/ui/button.tsx",
+      "sha256": "cd08862524f6915a8f7d9cd709b16d9217cd680f63d584a7d7b1ee2a964e6041",
+      "bytes": 2482,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/LICENSE.txt",
+      "sha256": "bb145c4b692008a88e8e565953d1ca258f2f9ea25190afaa86877a9e9de1c040",
+      "bytes": 1292,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/README.md",
+      "sha256": "dfd297dad1bc45edf3ed3d02d26794154f1379ff66c29644a4b3cdf82b01b2b5",
+      "bytes": 2202,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/tsconfig.paths.json",
+      "sha256": "a9421e2b6648b21b3e7ef5f97ecb826abe24773a694154f36755048e3e72a1ae",
+      "bytes": 1038,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/animate-ui/components/radix/dropdown-menu.jsx",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/runtime/components/animate-ui/components/radix/dropdown-menu.jsx",
+      "sha256": "a42eb6bff4872724d74caff90a8e809013bb16d77a6cb5ab3b1b57e508bdcbb6",
+      "bytes": 7200,
+      "original": false
+    },
+    {
+      "path": "runtime/components/animate-ui/components/radix/dropdown-menu.d.ts",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/runtime/components/animate-ui/components/radix/dropdown-menu.d.ts",
+      "sha256": "612306761351cbab01637fb752f1acef4f816d6a893f6dd33db04e0c9a5db876",
+      "bytes": 4412,
+      "original": false
+    },
+    {
+      "path": "runtime/components/animate-ui/primitives/radix/dropdown-menu.jsx",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/runtime/components/animate-ui/primitives/radix/dropdown-menu.jsx",
+      "sha256": "278493b08ff11123258d50f3647166a1290293368355ec6d32ad56d0cbfa093f",
+      "bytes": 9116,
+      "original": false
+    },
+    {
+      "path": "runtime/components/animate-ui/primitives/radix/dropdown-menu.d.ts",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/runtime/components/animate-ui/primitives/radix/dropdown-menu.d.ts",
+      "sha256": "fdc8fae5d60828543be8c97e4cb69722dc86ceb91b5b02016a651a69a4f0c3e6",
+      "bytes": 6223,
+      "original": false
+    },
+    {
+      "path": "runtime/components/animate-ui/primitives/effects/highlight.jsx",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/runtime/components/animate-ui/primitives/effects/highlight.jsx",
+      "sha256": "749b3c7ec357bb2ff956b8657e1bf1070a6d20c856f9829ee4e78bfd3407e093",
+      "bytes": 13764,
+      "original": false
+    },
+    {
+      "path": "runtime/components/animate-ui/primitives/effects/highlight.d.ts",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/runtime/components/animate-ui/primitives/effects/highlight.d.ts",
+      "sha256": "457cccd2b0a6db5e01a53cdc8615211367c8370df2e531e6df887aeffcee6ca6",
+      "bytes": 3485,
+      "original": false
+    },
+    {
+      "path": "runtime/workspace-ui/lib/utils.js",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/runtime/workspace-ui/lib/utils.js",
+      "sha256": "3ed9a6b9bbfd7777c835f14ea89f45614483f1c40eeffcacaa49766125a3df10",
+      "bytes": 139,
+      "original": false
+    },
+    {
+      "path": "runtime/workspace-ui/lib/utils.d.ts",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/runtime/workspace-ui/lib/utils.d.ts",
+      "sha256": "512960c0e955a2324b34354dac25e3e4d431a1af4cd33077935eda5e95c8b7e1",
+      "bytes": 101,
+      "original": false
+    },
+    {
+      "path": "runtime/registry/lib/get-strict-context/index.jsx",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/runtime/registry/lib/get-strict-context/index.jsx",
+      "sha256": "c8508b4970fde29ebd141f4b8139733c0a9b4f01a2b9fc59437adeb41b2b9301",
+      "bytes": 537,
+      "original": false
+    },
+    {
+      "path": "runtime/registry/lib/get-strict-context/index.d.ts",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/runtime/registry/lib/get-strict-context/index.d.ts",
+      "sha256": "6ed81ccfce236039b7dea334fcba5be9e10dd492ab6368ecdbd2ad3de8b751a0",
+      "bytes": 252,
+      "original": false
+    },
+    {
+      "path": "runtime/registry/hooks/use-controlled-state/index.jsx",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/runtime/registry/hooks/use-controlled-state/index.jsx",
+      "sha256": "3c3c098671bd9967b88b32ed380be07a195194234c18e3fadb2e1fbcc13f276a",
+      "bytes": 584,
+      "original": false
+    },
+    {
+      "path": "runtime/registry/hooks/use-controlled-state/index.d.ts",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/runtime/registry/hooks/use-controlled-state/index.d.ts",
+      "sha256": "883f330f924014006324973154d0ebac522bdbb90952f9ae528203c44d82beb8",
+      "bytes": 306,
+      "original": false
+    },
+    {
+      "path": "runtime/registry/hooks/use-data-state/index.jsx",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/runtime/registry/hooks/use-data-state/index.jsx",
+      "sha256": "9aeba15f9d3dfde34e95a8527b0a304e3c27e22e30f2d6c5d17669b2477941af",
+      "bytes": 1371,
+      "original": false
+    },
+    {
+      "path": "runtime/registry/hooks/use-data-state/index.d.ts",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/runtime/registry/hooks/use-data-state/index.d.ts",
+      "sha256": "e833ee72d8b74caf64225df253419d0f662f934f97e9ca17cdf7934a1930799f",
+      "bytes": 331,
+      "original": false
+    },
+    {
+      "path": "runtime/registry/demo/components/radix/dropdown-menu/index.jsx",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/runtime/registry/demo/components/radix/dropdown-menu/index.jsx",
+      "sha256": "ffe20e6a0f28a95f972547b78775ff7fe006e5440ef11235d74bf3e8740428c1",
+      "bytes": 2531,
+      "original": false
+    },
+    {
+      "path": "runtime/registry/demo/components/radix/dropdown-menu/index.d.ts",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/runtime/registry/demo/components/radix/dropdown-menu/index.d.ts",
+      "sha256": "1d3ce4d8622b14cee66f0e2dee9b846cf1a2ae107803976b89566e7808b32ab6",
+      "bytes": 338,
+      "original": false
+    },
+    {
+      "path": "runtime/workspace-ui/components/ui/button.jsx",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/runtime/workspace-ui/components/ui/button.jsx",
+      "sha256": "bf52db4f99ff9d493b6dd96df34ba5ddb1a741f9f8729ac2dd90a2af80490e32",
+      "bytes": 2331,
+      "original": false
+    },
+    {
+      "path": "runtime/workspace-ui/components/ui/button.d.ts",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/runtime/workspace-ui/components/ui/button.d.ts",
+      "sha256": "39f50925e509c1f7eef188b0e8aab6f67dbb8dff806bf70c506276b701d5f57c",
+      "bytes": 614,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/Example.tsx",
+      "sha256": "ff37391946cc1dd28535370c715b92718c450a6cf83a21f0280d52a382c8ecd3",
+      "bytes": 804,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/animate-ui-radix-dropdown-menu/files/vite.config.fragment.mjs",
+      "sha256": "d3ebbc7a9cc614a9b1b5eae8affabc3b6967da0de6cf67323b072317888cb644",
+      "bytes": 1042,
+      "original": false
+    }
+  ]
+}

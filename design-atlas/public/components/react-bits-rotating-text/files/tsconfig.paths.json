@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "./RotatingText.css": [
+        "./runtime/components/react-bits/RotatingText/RotatingText.css"
+      ]
+    }
+  }
+}

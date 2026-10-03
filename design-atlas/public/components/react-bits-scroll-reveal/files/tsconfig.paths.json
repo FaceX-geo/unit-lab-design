@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "./ScrollReveal.css": [
+        "./runtime/components/react-bits/ScrollReveal/ScrollReveal.css"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1 @@
+import Example from '../../../../public/components/magic-ui-border-beam/files/NextExample';import '../../../../public/components/magic-ui-border-beam/files/demo.css';export default function Page(){return <div style={{height:'100vh'}}><Example/></div>}

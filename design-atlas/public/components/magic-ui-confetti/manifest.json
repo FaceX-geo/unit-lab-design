@@ -1,0 +1,164 @@
+{
+  "id": "magic-ui-confetti",
+  "revision": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
+  "bundleHash": "c10a148ae32f34375130547510130af6da0d9e93ddcd296b9e258616f2e84f5e",
+  "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/confetti.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/magicui/confetti.tsx",
+  "runtimeEntry": "runtime/components/magicui/confetti.jsx",
+  "author": "Magic UI contributors",
+  "dependencies": {
+    "@radix-ui/react-slot": "1.3.3",
+    "canvas-confetti": "1.9.4",
+    "class-variance-authority": "0.7.1",
+    "clsx": "2.1.1",
+    "next": "16.3.8",
+    "process": "0.11.10",
+    "react": "19.3.0",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/magicui/confetti.tsx",
+      "url": "/components/magic-ui-confetti/files/components/magicui/confetti.tsx",
+      "sha256": "c2a713b9a768d0f62f2c67837c441586de02a744b528c91548d043d8cb3fc8a6",
+      "bytes": 3576,
+      "original": true
+    },
+    {
+      "path": "components/ui/button.tsx",
+      "url": "/components/magic-ui-confetti/files/components/ui/button.tsx",
+      "sha256": "881fabaf889450b7c671ffabe455bd4b4d101c36f80868f1bf4819ba5f4f4886",
+      "bytes": 4075,
+      "original": true
+    },
+    {
+      "path": "lib/utils.ts",
+      "url": "/components/magic-ui-confetti/files/lib/utils.ts",
+      "sha256": "e7c07dc285a0a7ad16ca4c94204ca97cb94face47004827fc6bece0d28a9394c",
+      "bytes": 3810,
+      "original": true
+    },
+    {
+      "path": "config/site.ts",
+      "url": "/components/magic-ui-confetti/files/config/site.ts",
+      "sha256": "a3b2ca4a9df6e9aa41fcda17fa49b9106ac0357280b25f553d8b12be36152fcd",
+      "bytes": 608,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/magic-ui-confetti/files/LICENSE.txt",
+      "sha256": "0147b84235ed916b8b4e89c1f80655351c5afe7d211b629be61f553a227b34ba",
+      "bytes": 1060,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/magic-ui-confetti/files/README.md",
+      "sha256": "8f5ceeeb1d0786887afdf9f0bc4cd1f33b752731e25e3d1d8f5e78a5e35b571b",
+      "bytes": 2154,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/magic-ui-confetti/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/magic-ui-confetti/files/tsconfig.paths.json",
+      "sha256": "bea831ca43fa8d094838c356df915410bdc4a925f544e4272cb829be0c62e1b7",
+      "bytes": 292,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/magic-ui-confetti/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/magicui/confetti.jsx",
+      "url": "/components/magic-ui-confetti/files/runtime/components/magicui/confetti.jsx",
+      "sha256": "1143b4ffa5dbf679458790499f09412770f3a3b8f921803f5ec6ba0f8d3976a5",
+      "bytes": 3046,
+      "original": false
+    },
+    {
+      "path": "runtime/components/magicui/confetti.d.ts",
+      "url": "/components/magic-ui-confetti/files/runtime/components/magicui/confetti.d.ts",
+      "sha256": "a2582dd6fbe46c8cf0ed302bae395e312e3b5dbae07f9fb12c3e467ed89a6808",
+      "bytes": 960,
+      "original": false
+    },
+    {
+      "path": "runtime/components/ui/button.jsx",
+      "url": "/components/magic-ui-confetti/files/runtime/components/ui/button.jsx",
+      "sha256": "01df16e9e1c78fb0e87d53e2beb43a761df2d637c4150622c8e201825658a4cf",
+      "bytes": 3902,
+      "original": false
+    },
+    {
+      "path": "runtime/components/ui/button.d.ts",
+      "url": "/components/magic-ui-confetti/files/runtime/components/ui/button.d.ts",
+      "sha256": "350011ccf73ade89981901a9e9dd215dad2619e91a4fbce0afcdefaee214bb4b",
+      "bytes": 592,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.js",
+      "url": "/components/magic-ui-confetti/files/runtime/lib/utils.js",
+      "sha256": "1a6c42a349e073cab6a82234c75e37c736d24569ddddd252de1f112c3021c633",
+      "bytes": 3799,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.d.ts",
+      "url": "/components/magic-ui-confetti/files/runtime/lib/utils.d.ts",
+      "sha256": "1301d7789d730617a951f1c82a70c25c6a38afd3fe7f47d33b52cf886f9f30bf",
+      "bytes": 1465,
+      "original": false
+    },
+    {
+      "path": "runtime/config/site.js",
+      "url": "/components/magic-ui-confetti/files/runtime/config/site.js",
+      "sha256": "3b7ff0d1912f2ec062d66fca56780c13c4b3026a7bce8c305c9258f7ff3cb39d",
+      "bytes": 617,
+      "original": false
+    },
+    {
+      "path": "runtime/config/site.d.ts",
+      "url": "/components/magic-ui-confetti/files/runtime/config/site.d.ts",
+      "sha256": "6df84a8db05a5455e323fdfec920cfd06abd2b7406fab0ff7132d30ac250a0cd",
+      "bytes": 308,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/magic-ui-confetti/files/Example.tsx",
+      "sha256": "ce86de45aac60b49523cc6e5c044486f8328a5c07b2674cc2991e67fc36d89fa",
+      "bytes": 921,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/magic-ui-confetti/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/magic-ui-confetti/files/vite.config.fragment.mjs",
+      "sha256": "efc8619c4f7e932f62036db4a2ef26d8ca2b2b945dc2a81913795d3a02122e98",
+      "bytes": 436,
+      "original": false
+    }
+  ]
+}

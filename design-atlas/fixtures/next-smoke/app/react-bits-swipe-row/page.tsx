@@ -1,0 +1,1 @@
+import Example from '../../../../public/components/react-bits-swipe-row/files/NextExample';import '../../../../public/components/react-bits-swipe-row/files/demo.css';export default function Page(){return <div style={{height:'100vh'}}><Example/></div>}

@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/registry/primitives/radix/dropdown-menu": [
+        "./runtime/components/animate-ui/primitives/radix/dropdown-menu.jsx"
+      ],
+      "@/registry/primitives/effects/highlight": [
+        "./runtime/components/animate-ui/primitives/effects/highlight.jsx"
+      ],
+      "@workspace/ui/lib/utils": [
+        "./runtime/workspace-ui/lib/utils.js"
+      ],
+      "@/registry/lib/get-strict-context": [
+        "./runtime/registry/lib/get-strict-context/index.jsx"
+      ],
+      "@/registry/hooks/use-controlled-state": [
+        "./runtime/registry/hooks/use-controlled-state/index.jsx"
+      ],
+      "@/registry/hooks/use-data-state": [
+        "./runtime/registry/hooks/use-data-state/index.jsx"
+      ],
+      "@workspace/ui/components/ui/button": [
+        "./runtime/workspace-ui/components/ui/button.jsx"
+      ],
+      "@/registry/components/radix/dropdown-menu": [
+        "./runtime/components/animate-ui/components/radix/dropdown-menu.jsx"
+      ]
+    }
+  }
+}

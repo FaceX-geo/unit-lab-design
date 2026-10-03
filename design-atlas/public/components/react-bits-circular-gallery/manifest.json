@@ -1,0 +1,109 @@
+{
+  "id": "react-bits-circular-gallery",
+  "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+  "bundleHash": "bd3684082e3c62f1611df89053d90225ae0b847357c72491ffee1efc3ac77a80",
+  "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Components/CircularGallery/CircularGallery.tsx",
+  "license": "MIT + Commons Clause",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/react-bits/CircularGallery/CircularGallery.tsx",
+  "runtimeEntry": "runtime/components/react-bits/CircularGallery/CircularGallery.jsx",
+  "author": "David Haz",
+  "dependencies": {
+    "ogl": "1.0.11",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/react-bits/CircularGallery/CircularGallery.tsx",
+      "url": "/components/react-bits-circular-gallery/files/components/react-bits/CircularGallery/CircularGallery.tsx",
+      "sha256": "8779bc0352eb8e844ff97bcf065a4352c27f8ebae5f09a6b618754b625b678e3",
+      "bytes": 24898,
+      "original": true
+    },
+    {
+      "path": "components/react-bits/CircularGallery/CircularGallery.css",
+      "url": "/components/react-bits-circular-gallery/files/components/react-bits/CircularGallery/CircularGallery.css",
+      "sha256": "ca7afc8e04f6309903436d421d8e6e010828838edebda43f592107ce3c72fe4d",
+      "bytes": 226,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/react-bits-circular-gallery/files/LICENSE.txt",
+      "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+      "bytes": 1303,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/react-bits-circular-gallery/files/README.md",
+      "sha256": "0e4055473b823cbd5eb7af206316ae12d118d1763729a19479f6402d31e0d678",
+      "bytes": 2083,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/react-bits-circular-gallery/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/react-bits-circular-gallery/files/tsconfig.paths.json",
+      "sha256": "42f7e671670034cf3a73012d6500689cbe6cba0edeb915256a9c7c8902cb3edd",
+      "bytes": 190,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/react-bits-circular-gallery/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/CircularGallery/CircularGallery.jsx",
+      "url": "/components/react-bits-circular-gallery/files/runtime/components/react-bits/CircularGallery/CircularGallery.jsx",
+      "sha256": "e278e73c2769b914d77f4e6674fc719d903823293ac4f0baa64928d4ad49a1a4",
+      "bytes": 24546,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/CircularGallery/CircularGallery.d.ts",
+      "url": "/components/react-bits-circular-gallery/files/runtime/components/react-bits/CircularGallery/CircularGallery.d.ts",
+      "sha256": "898f7007125a9e6d7a049f0501e77793403391c9304b91525dc8083ac7c558d4",
+      "bytes": 482,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/CircularGallery/CircularGallery.css",
+      "url": "/components/react-bits-circular-gallery/files/runtime/components/react-bits/CircularGallery/CircularGallery.css",
+      "sha256": "ca7afc8e04f6309903436d421d8e6e010828838edebda43f592107ce3c72fe4d",
+      "bytes": 226,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/react-bits-circular-gallery/files/Example.tsx",
+      "sha256": "255f821a5b23656b811a0a0cbdf4947f6f6382313189a6aa9e86d3c94ce679ae",
+      "bytes": 1423,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/react-bits-circular-gallery/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/react-bits-circular-gallery/files/vite.config.fragment.mjs",
+      "sha256": "3bb121efe4e2a760c95d245af2ac1265b32857366d9a2dd119a9fe577ec98590",
+      "bytes": 390,
+      "original": false
+    }
+  ]
+}

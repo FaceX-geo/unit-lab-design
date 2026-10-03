@@ -1,0 +1,55 @@
+{
+  "id": "uiverse-adamgiebl-big-ape-36",
+  "revision": "adbd2adde0a299a3956ea288fb444ec01891ca41",
+  "bundleHash": "ebd94f0889b32abea6265feb3ee5b4f7346bd7733f582c22985c6f7f882a38dd",
+  "sourceUrl": "https://uiverse.io/adamgiebl/big-ape-36",
+  "license": "MIT",
+  "entry": "Buttons/adamgiebl_big-ape-36.html",
+  "sourceEntry": "Buttons/adamgiebl_big-ape-36.html",
+  "author": "adamgiebl",
+  "dependencies": {},
+  "files": [
+    {
+      "path": "Buttons/adamgiebl_big-ape-36.html",
+      "url": "/components/uiverse-adamgiebl-big-ape-36/files/Buttons/adamgiebl_big-ape-36.html",
+      "sha256": "80777200501dc4b6d3463d9304a6074fa9edb69a90c75d8b2d5594ccc0ec9a7e",
+      "bytes": 1872,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/uiverse-adamgiebl-big-ape-36/files/LICENSE.txt",
+      "sha256": "7feadcd7a611d37a4546c99f63a162bdf65656137828ebcba92e57dccfa368a4",
+      "bytes": 1067,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/uiverse-adamgiebl-big-ape-36/files/README.md",
+      "sha256": "0e8b91a43bab33674d5dbf11fe275b00d3577d40e1b81965cb62fe3d039bb783",
+      "bytes": 1206,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/uiverse-adamgiebl-big-ape-36/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/uiverse-adamgiebl-big-ape-36/files/tsconfig.paths.json",
+      "sha256": "113c9d3a7de4f46f7015d3e43fe190b854f93d6ad66bf0bccd2da5de4c9f246b",
+      "bytes": 66,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/uiverse-adamgiebl-big-ape-36/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "motion-primitives-morphing-dialog",
+  "revision": "120f64f6ca60348e251f929e9c81f11ccbe45eda",
+  "bundleHash": "45175ac5697d1a9e7d62aaeeb4ecb969f760a36c3ce43653bbd29062140ef4b6",
+  "sourceUrl": "https://github.com/ibelick/motion-primitives/blob/120f64f6ca60348e251f929e9c81f11ccbe45eda/components/core/morphing-dialog.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/motion-primitives/morphing-dialog.tsx",
+  "runtimeEntry": "runtime/components/motion-primitives/morphing-dialog.jsx",
+  "author": "ibelick and contributors",
+  "dependencies": {
+    "clsx": "2.1.1",
+    "lucide-react": "0.577.0",
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "tailwind-merge": "3.7.0"
+  },
+  "files": [
+    {
+      "path": "components/motion-primitives/morphing-dialog.tsx",
+      "url": "/components/motion-primitives-morphing-dialog/files/components/motion-primitives/morphing-dialog.tsx",
+      "sha256": "3783289015c56be36cd74701468a4d2aa345b48676b7fa12964ace9558e4e33e",
+      "bytes": 9858,
+      "original": true
+    },
+    {
+      "path": "lib/utils.ts",
+      "url": "/components/motion-primitives-morphing-dialog/files/lib/utils.ts",
+      "sha256": "9304a861c8673bee09e0f12de31773abbde503b02e59dfd74763ddec2e37cf05",
+      "bytes": 169,
+      "original": true
+    },
+    {
+      "path": "hooks/useClickOutside.tsx",
+      "url": "/components/motion-primitives-morphing-dialog/files/hooks/useClickOutside.tsx",
+      "sha256": "a239b751802f4a67e13d962bdf18118f7b24c7806a3f2ab3c41eca199d624445",
+      "bytes": 755,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/motion-primitives-morphing-dialog/files/LICENSE.txt",
+      "sha256": "f668f5ef3635eb906f10b1eea9a32e449eb6e1a183ab6879ef6d56c0980dd2f3",
+      "bytes": 1077,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/motion-primitives-morphing-dialog/files/README.md",
+      "sha256": "4c8ea7b377fd9ffa9801d05ceb29bdba699f1da91212ac9e0aaef9fb2b887225",
+      "bytes": 2124,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/motion-primitives-morphing-dialog/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/motion-primitives-morphing-dialog/files/tsconfig.paths.json",
+      "sha256": "193959ef4e3eab2c854e42e9621fcbab7753f16c2d776564e8cba490a395a885",
+      "bytes": 225,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/motion-primitives-morphing-dialog/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/motion-primitives/morphing-dialog.jsx",
+      "url": "/components/motion-primitives-morphing-dialog/files/runtime/components/motion-primitives/morphing-dialog.jsx",
+      "sha256": "7f0bc92d741ab06e86378f8b0c6c0d4fffd584e25f09660ea02c732ffd7a600e",
+      "bytes": 7472,
+      "original": false
+    },
+    {
+      "path": "runtime/components/motion-primitives/morphing-dialog.d.ts",
+      "url": "/components/motion-primitives-morphing-dialog/files/runtime/components/motion-primitives/morphing-dialog.d.ts",
+      "sha256": "22eee0e2ea1c4ec23a0acd799f9c268fffb6e28294db2211571b18de7db819d5",
+      "bytes": 3091,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.js",
+      "url": "/components/motion-primitives-morphing-dialog/files/runtime/lib/utils.js",
+      "sha256": "65f369004a052eabd90633cb51b5fae3d6e22923212354e7adc073caa1b18723",
+      "bytes": 139,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.d.ts",
+      "url": "/components/motion-primitives-morphing-dialog/files/runtime/lib/utils.d.ts",
+      "sha256": "400b40fe5d5f4140993b0ac871686d2b7611ab791e8810b2e14f2d89701fc49e",
+      "bytes": 101,
+      "original": false
+    },
+    {
+      "path": "runtime/hooks/useClickOutside.jsx",
+      "url": "/components/motion-primitives-morphing-dialog/files/runtime/hooks/useClickOutside.jsx",
+      "sha256": "db961ded88f6224580f4fe1a151dde0d8a34e17cb86f0077d1718d4fccff7209",
+      "bytes": 681,
+      "original": false
+    },
+    {
+      "path": "runtime/hooks/useClickOutside.d.ts",
+      "url": "/components/motion-primitives-morphing-dialog/files/runtime/hooks/useClickOutside.d.ts",
+      "sha256": "dda7de4954a748a4a6f22b1dd76dd389de77f97d94c301a79cfe10deae537c40",
+      "bytes": 200,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/motion-primitives-morphing-dialog/files/Example.tsx",
+      "sha256": "9b1f3a7c180935b98126e66a7d9944abb7c324e8cb060bf9130ab825ef3ba296",
+      "bytes": 1552,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/motion-primitives-morphing-dialog/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/motion-primitives-morphing-dialog/files/vite.config.fragment.mjs",
+      "sha256": "6d74ad58fa9c39413bff33c23bf1166ac3cfe8c6e8d8d35d39284fc37796145c",
+      "bytes": 397,
+      "original": false
+    }
+  ]
+}

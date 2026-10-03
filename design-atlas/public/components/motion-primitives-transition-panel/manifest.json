@@ -1,0 +1,118 @@
+{
+  "id": "motion-primitives-transition-panel",
+  "revision": "120f64f6ca60348e251f929e9c81f11ccbe45eda",
+  "bundleHash": "b2c00fcb428769695f81e853399ef64b3fd213da9f8cd70c9a21376c8f2fdde0",
+  "sourceUrl": "https://github.com/ibelick/motion-primitives/blob/120f64f6ca60348e251f929e9c81f11ccbe45eda/components/core/transition-panel.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/motion-primitives/transition-panel.tsx",
+  "runtimeEntry": "runtime/components/motion-primitives/transition-panel.jsx",
+  "author": "ibelick and contributors",
+  "dependencies": {
+    "clsx": "2.1.1",
+    "motion": "14.0.0",
+    "tailwind-merge": "3.7.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/motion-primitives/transition-panel.tsx",
+      "url": "/components/motion-primitives-transition-panel/files/components/motion-primitives/transition-panel.tsx",
+      "sha256": "1b3c67058a09a560a034b7fe52ad1c205b589a63ed80055900e8a66830db0be2",
+      "bytes": 1015,
+      "original": true
+    },
+    {
+      "path": "lib/utils.ts",
+      "url": "/components/motion-primitives-transition-panel/files/lib/utils.ts",
+      "sha256": "9304a861c8673bee09e0f12de31773abbde503b02e59dfd74763ddec2e37cf05",
+      "bytes": 169,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/motion-primitives-transition-panel/files/LICENSE.txt",
+      "sha256": "f668f5ef3635eb906f10b1eea9a32e449eb6e1a183ab6879ef6d56c0980dd2f3",
+      "bytes": 1077,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/motion-primitives-transition-panel/files/README.md",
+      "sha256": "d3e910883bfb4836eadb915b11c6c4d7bd907bd6d7a516d71b184845f81bc320",
+      "bytes": 2110,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/motion-primitives-transition-panel/files/demo.css",
+      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
+      "bytes": 193376,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/motion-primitives-transition-panel/files/tsconfig.paths.json",
+      "sha256": "27c83867eb9dc7f8e19f256cc618b0e868eedff2c838e4b1ffe46504024d1bc4",
+      "bytes": 135,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/motion-primitives-transition-panel/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/motion-primitives/transition-panel.jsx",
+      "url": "/components/motion-primitives-transition-panel/files/runtime/components/motion-primitives/transition-panel.jsx",
+      "sha256": "32ad5bc42f35697f85a13edfdd0caa07e3cef534028b33317677f98953e9f301",
+      "bytes": 597,
+      "original": false
+    },
+    {
+      "path": "runtime/components/motion-primitives/transition-panel.d.ts",
+      "url": "/components/motion-primitives-transition-panel/files/runtime/components/motion-primitives/transition-panel.d.ts",
+      "sha256": "687a6e699b96a5cdbfbea2ff0aa09a151a2c418fe0a46a9e6fc381209af1bec3",
+      "bytes": 494,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.js",
+      "url": "/components/motion-primitives-transition-panel/files/runtime/lib/utils.js",
+      "sha256": "65f369004a052eabd90633cb51b5fae3d6e22923212354e7adc073caa1b18723",
+      "bytes": 139,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.d.ts",
+      "url": "/components/motion-primitives-transition-panel/files/runtime/lib/utils.d.ts",
+      "sha256": "400b40fe5d5f4140993b0ac871686d2b7611ab791e8810b2e14f2d89701fc49e",
+      "bytes": 101,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/motion-primitives-transition-panel/files/Example.tsx",
+      "sha256": "572def804a06745d8ea360b9cc74424134f9ac9bdfc3a4f124fa207a2737ab1b",
+      "bytes": 1260,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/motion-primitives-transition-panel/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/motion-primitives-transition-panel/files/vite.config.fragment.mjs",
+      "sha256": "28c2f09e8f004ac6bb0e8e1872fdd3091435b6570d2789c4905d49c40f9e616b",
+      "bytes": 335,
+      "original": false
+    }
+  ]
+}

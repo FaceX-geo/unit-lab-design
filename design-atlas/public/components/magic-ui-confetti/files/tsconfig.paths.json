@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/components/ui/button": [
+        "./runtime/components/ui/button.jsx"
+      ],
+      "@/lib/utils": [
+        "./runtime/lib/utils.js"
+      ],
+      "@/config/site": [
+        "./runtime/config/site.js"
+      ]
+    }
+  }
+}

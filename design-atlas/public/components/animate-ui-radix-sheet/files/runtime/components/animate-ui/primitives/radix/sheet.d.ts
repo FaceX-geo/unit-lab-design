@@ -1,0 +1,32 @@
+import * as React from 'react';
+import { Dialog as SheetPrimitive } from 'radix-ui';
+import { type HTMLMotionProps } from 'motion/react';
+type SheetContextType = {
+    isOpen: boolean;
+    setIsOpen: (isOpen: boolean) => void;
+};
+declare const useSheet: () => SheetContextType;
+type SheetProps = React.ComponentProps<typeof SheetPrimitive.Root>;
+declare function Sheet(props: SheetProps): React.JSX.Element;
+type SheetTriggerProps = React.ComponentProps<typeof SheetPrimitive.Trigger>;
+declare function SheetTrigger(props: SheetTriggerProps): React.JSX.Element;
+type SheetCloseProps = React.ComponentProps<typeof SheetPrimitive.Close>;
+declare function SheetClose(props: SheetCloseProps): React.JSX.Element;
+type SheetPortalProps = React.ComponentProps<typeof SheetPrimitive.Portal>;
+declare function SheetPortal(props: SheetPortalProps): React.JSX.Element;
+type SheetOverlayProps = Omit<React.ComponentProps<typeof SheetPrimitive.Overlay>, 'asChild' | 'forceMount'> & HTMLMotionProps<'div'>;
+declare function SheetOverlay({ transition, ...props }: SheetOverlayProps): React.JSX.Element;
+type Side = 'top' | 'bottom' | 'left' | 'right';
+type SheetContentProps = React.ComponentProps<typeof SheetPrimitive.Content> & HTMLMotionProps<'div'> & {
+    side?: Side;
+};
+declare function SheetContent({ side, transition, style, children, ...props }: SheetContentProps): React.JSX.Element;
+type SheetHeaderProps = React.ComponentProps<'div'>;
+declare function SheetHeader(props: SheetHeaderProps): React.JSX.Element;
+type SheetFooterProps = React.ComponentProps<'div'>;
+declare function SheetFooter(props: SheetFooterProps): React.JSX.Element;
+type SheetTitleProps = React.ComponentProps<typeof SheetPrimitive.Title>;
+declare function SheetTitle(props: SheetTitleProps): React.JSX.Element;
+type SheetDescriptionProps = React.ComponentProps<typeof SheetPrimitive.Description>;
+declare function SheetDescription(props: SheetDescriptionProps): React.JSX.Element;
+export { useSheet, Sheet, SheetPortal, SheetOverlay, SheetTrigger, SheetClose, SheetContent, SheetHeader, SheetFooter, SheetTitle, SheetDescription, type SheetProps, type SheetPortalProps, type SheetOverlayProps, type SheetTriggerProps, type SheetCloseProps, type SheetContentProps, type SheetHeaderProps, type SheetFooterProps, type SheetTitleProps, type SheetDescriptionProps, };
