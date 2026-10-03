@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-04",
+  "copy": {
+    "component": "kokonut-ui-morphic-navbar",
+    "characters": 2260,
+    "matches": true
+  },
+  "download": {
+    "component": "kokonut-ui-morphic-navbar",
+    "bytes": 90529,
+    "matches": true
+  },
+  "filters": {
+    "new": 41,
+    "extra": 20,
+    "extraBackgrounds": 12
+  },
+  "mobile": {
+    "viewport": [
+      390,
+      844
+    ],
+    "scrollWidth": 390,
+    "iframeWidth": 338
+  },
+  "reducedMotion": {
+    "beforeManualStart": 0,
+    "afterManualStart": 1,
+    "afterStop": 0
+  },
+  "fileUpload": {
+    "file": "qa-upload.txt",
+    "bytes": 40,
+    "localCallback": true
+  }
+}

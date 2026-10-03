@@ -1,13 +1,15 @@
 {
   "id": "magic-ui-number-ticker",
   "revision": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
-  "bundleHash": "cc024c1aff3ae5f4cb67bd338d28758150f5ba850bcd3fddf3335824040a12f2",
+  "bundleHash": "46d63fe52346d6871a8e562588d400c5611000d944ae3c2ad054c63ea3dd66ed",
   "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/number-ticker.tsx",
   "license": "MIT",
   "entry": "Example.tsx",
   "sourceEntry": "components/magicui/number-ticker.tsx",
   "runtimeEntry": "runtime/components/magicui/number-ticker.jsx",
   "author": "Magic UI contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "clsx": "2.1.1",
     "motion": "14.0.0",
@@ -49,15 +51,15 @@
     {
       "path": "README.md",
       "url": "/components/magic-ui-number-ticker/files/README.md",
-      "sha256": "b5f004576d1a3664c5fd03951beb5df8c2e0bc15a6ea5d7720b67bbaacc024b4",
-      "bytes": 2109,
+      "sha256": "ce1c5643ea165ff111030f8fa3067b78877fb6c1fcfd45c8109e8ce5f26db245",
+      "bytes": 2384,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/magic-ui-number-ticker/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

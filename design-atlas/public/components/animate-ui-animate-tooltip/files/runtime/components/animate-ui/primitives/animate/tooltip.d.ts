@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { type Transition, type HTMLMotionProps } from 'motion/react';
-import { type WithAsChild } from '@/registry/primitives/animate/slot';
+import { type WithAsChild } from './slot';
 type Side = 'top' | 'bottom' | 'left' | 'right';
 type Align = 'start' | 'center' | 'end';
 type TooltipData = {

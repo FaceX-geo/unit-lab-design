@@ -1,13 +1,15 @@
 {
   "id": "react-bits-pixel-transition",
   "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
-  "bundleHash": "df62428fb4cbe7b82b329d9590bd7b19f371fb4a2858f2f9cda2859116ce0752",
+  "bundleHash": "6ffd988c4516155cc559a03372ff8f5953130acf970f06851a97b9b846075a53",
   "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Animations/PixelTransition/PixelTransition.tsx",
   "license": "MIT + Commons Clause",
   "entry": "Example.tsx",
   "sourceEntry": "components/react-bits/PixelTransition/PixelTransition.tsx",
   "runtimeEntry": "runtime/components/react-bits/PixelTransition/PixelTransition.jsx",
   "author": "David Haz",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "gsap": "3.15.0",
     "react": "19.3.0",
@@ -38,15 +40,15 @@
     {
       "path": "README.md",
       "url": "/components/react-bits-pixel-transition/files/README.md",
-      "sha256": "d48a011d3311a55731d41695fb575c9823c1be07f3b6b99960e21794fa731db5",
-      "bytes": 2094,
+      "sha256": "c69956dd650f6d7c476e91922d29a6e81f32c07703a0339575db939d4d5bdddb",
+      "bytes": 2369,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/react-bits-pixel-transition/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

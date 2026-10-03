@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/animata/widget/notes": [
+        "./runtime/animata/widget/notes.jsx"
+      ],
+      "@/lib/utils": [
+        "./runtime/lib/utils.js"
+      ],
+      "@/animata/widget/shopping-list": [
+        "./runtime/animata/widget/shopping-list.jsx"
+      ],
+      "./card-spread.css": [
+        "./runtime/animata/card/card-spread.css"
+      ]
+    }
+  }
+}

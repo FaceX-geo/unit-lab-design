@@ -1,13 +1,15 @@
 {
   "id": "animate-ui-animate-tabs",
   "revision": "efeb96ffd7a3b7a4868667e4ac3c346620fb3044",
-  "bundleHash": "5850623212eee1ff92b83c3251e4d0f5ad48eae0c3e3b134fde2ea76e33d75ff",
+  "bundleHash": "f459a2c5305170592f77ffb52b509ff5178987817ff2b547930d3b9e9d42ce2c",
   "sourceUrl": "https://github.com/imskyleen/animate-ui/blob/efeb96ffd7a3b7a4868667e4ac3c346620fb3044/apps/www/registry/components/animate/tabs/index.tsx",
   "license": "MIT",
   "entry": "Example.tsx",
   "sourceEntry": "components/animate-ui/components/animate/tabs.tsx",
   "runtimeEntry": "runtime/components/animate-ui/components/animate/tabs.jsx",
   "author": "Skyleen and contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "class-variance-authority": "0.7.1",
     "clsx": "2.1.1",
@@ -105,15 +107,15 @@
     {
       "path": "README.md",
       "url": "/components/animate-ui-animate-tabs/files/README.md",
-      "sha256": "6d6174aa6f91f5b6846c0337e68e19850806889a8de03dc83f7b84c675f33a67",
-      "bytes": 2141,
+      "sha256": "68d2a1797a28f4521cd94207e8a9f1eeee4bdd0dd560844758247b126ef1e339",
+      "bytes": 2416,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/animate-ui-animate-tabs/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {
@@ -140,8 +142,8 @@
     {
       "path": "runtime/components/animate-ui/components/animate/tabs.d.ts",
       "url": "/components/animate-ui-animate-tabs/files/runtime/components/animate-ui/components/animate/tabs.d.ts",
-      "sha256": "71111d61dbe53be577fe8fd530e387cfa9728658d61d32d8bc72a6419d0b3fcb",
-      "bytes": 1162,
+      "sha256": "92e0a4303fe208ec2b3c3cfc9a6a87b5413e7d08c18621db4e25703f0c44af6f",
+      "bytes": 1157,
       "original": false
     },
     {
@@ -154,8 +156,8 @@
     {
       "path": "runtime/components/animate-ui/primitives/animate/tabs.d.ts",
       "url": "/components/animate-ui-animate-tabs/files/runtime/components/animate-ui/primitives/animate/tabs.d.ts",
-      "sha256": "7a5d6e0d04cfd91f1efaff8ad0b71095d09a7719dc950391a6d2bd22dfb8cfe7",
-      "bytes": 2465,
+      "sha256": "69202bb0e4078f69d5efedcaf9d8dba93531bc7c764251b5a5c7e40e3251fe26",
+      "bytes": 2418,
       "original": false
     },
     {

@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { DropdownMenu as DropdownMenuPrimitive } from 'radix-ui';
 import { type HTMLMotionProps } from 'motion/react';
-import { type HighlightItemProps, type HighlightProps } from '@/registry/primitives/effects/highlight';
+import { type HighlightItemProps, type HighlightProps } from '../effects/highlight';
 type DropdownMenuContextType = {
     isOpen: boolean;
     setIsOpen: (o: boolean) => void;

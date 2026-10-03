@@ -1,13 +1,15 @@
 {
   "id": "react-bits-hold-button",
   "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
-  "bundleHash": "0b4dcb7c49103b9c4f8bb124ffae55b5994f18c787d854d4261a9fad694a07b9",
+  "bundleHash": "abe23f7c8b5381f50f792a99135d140339a1eb0bf9c396c9771d555a90e6c5b5",
   "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Micro/HoldButton/HoldButton.tsx",
   "license": "MIT + Commons Clause",
   "entry": "Example.tsx",
   "sourceEntry": "components/react-bits/HoldButton/HoldButton.tsx",
   "runtimeEntry": "runtime/components/react-bits/HoldButton/HoldButton.jsx",
   "author": "David Haz",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "react": "19.3.0",
     "react-dom": "19.3.0"
@@ -37,15 +39,15 @@
     {
       "path": "README.md",
       "url": "/components/react-bits-hold-button/files/README.md",
-      "sha256": "26b953f54021efd1116080897ab3251890dce35ef386f7d2fd409f1218b62dd1",
-      "bytes": 2072,
+      "sha256": "a48d99e0293b22070e797cc437ee9a933afa1ac207c428d6825778a02c429caa",
+      "bytes": 2347,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/react-bits-hold-button/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

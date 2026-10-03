@@ -1,13 +1,15 @@
 {
   "id": "animate-ui-community-radial-menu",
   "revision": "efeb96ffd7a3b7a4868667e4ac3c346620fb3044",
-  "bundleHash": "e9305604209d66ba05035f171e0aa654bed4f061c9b46da1c6bee383732179f6",
+  "bundleHash": "39cd49597f982b8126f4e0cbd0c3d072e0f384e81244570ee3514709058a1131",
   "sourceUrl": "https://github.com/imskyleen/animate-ui/blob/efeb96ffd7a3b7a4868667e4ac3c346620fb3044/apps/www/registry/components/community/radial-menu/index.tsx",
   "license": "MIT",
   "entry": "Example.tsx",
   "sourceEntry": "components/animate-ui/components/community/radial-menu.tsx",
   "runtimeEntry": "runtime/components/animate-ui/components/community/radial-menu.jsx",
   "author": "Skyleen and contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "@base-ui-components/react": "npm:@base-ui/react@1.8.0",
     "clsx": "2.1.1",
@@ -49,15 +51,15 @@
     {
       "path": "README.md",
       "url": "/components/animate-ui-community-radial-menu/files/README.md",
-      "sha256": "2e2110de1dffe2d1ee49d7189bcb566a9559fb6201da42d623db14ff352b0be6",
-      "bytes": 2194,
+      "sha256": "f087746f9af49ab1e9e7963da9ecb01831df7f7bf5e5d3cda371bbe989ea5500",
+      "bytes": 2469,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/animate-ui-community-radial-menu/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

@@ -7,7 +7,7 @@ import {unzipSync} from 'fflate';
 import {selected} from './component-selection.mjs';
 const catalog=JSON.parse(fs.readFileSync('src/components-data/catalog.json','utf8'));
 const hash=b=>crypto.createHash('sha256').update(b).digest('hex');
-assert.equal(catalog.length,50);assert.equal(new Set(catalog.map(m=>m.id)).size,50);
+assert.equal(catalog.length,selected.length);assert.equal(new Set(catalog.map(m=>m.id)).size,selected.length);
 assert.deepEqual(catalog.map(m=>m.id).sort(),selected.map(m=>m.id).sort());
 const counts={};let checkedFiles=0;
 for(const m of catalog){
@@ -34,5 +34,5 @@ for(const m of catalog){
   assert(m.dependencies.every(dep=>m.dependencyVersions[dep]&&!m.dependencyVersions[dep].includes('latest')));
  }else{assert(m.formats.includes('HTML/CSS'));assert(!archive['NextExample.tsx']);assert.equal(m.dependencies.length,0)}
 }
-assert.deepEqual(counts,{'react-bits':20,'magic-ui':12,'animate-ui':10,'motion-primitives':3,uiverse:5});
-console.log(`50 components: pinned revisions, ${checkedFiles} file hashes, original bytes, ZIP contents, aliases, fonts, dependencies and Next client wrappers PASS.`);
+assert.deepEqual(counts,selected.reduce((a,m)=>(a[m.library]=(a[m.library]||0)+1,a),{}));
+console.log(`${catalog.length} components: pinned revisions, ${checkedFiles} file hashes, original bytes, ZIP contents, aliases, fonts, dependencies and Next client wrappers PASS.`);

@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/components/ui/dropdown-menu": [
+        "./runtime/components/ui/dropdown-menu.jsx"
+      ],
+      "@/lib/utils": [
+        "./runtime/lib/utils.js"
+      ],
+      "../icons/gemini": [
+        "./runtime/components/icons/gemini.jsx"
+      ]
+    }
+  }
+}

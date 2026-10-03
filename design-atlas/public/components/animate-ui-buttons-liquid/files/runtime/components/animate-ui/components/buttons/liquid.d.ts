@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { type VariantProps } from 'class-variance-authority';
-import { type LiquidButtonProps as LiquidButtonPrimitiveProps } from '@/registry/primitives/buttons/liquid';
+import { type LiquidButtonProps as LiquidButtonPrimitiveProps } from '../../primitives/buttons/liquid';
 declare const buttonVariants: (props?: {
     variant?: "default" | "destructive" | "secondary" | "ghost";
     size?: "default" | "icon" | "sm" | "lg" | "icon-sm" | "icon-lg";

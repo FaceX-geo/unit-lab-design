@@ -1,0 +1,142 @@
+{
+  "id": "animata-fabs-flower-menu",
+  "revision": "36674e4e9cfdc0f237693d8b736a2bf41065ca1d",
+  "bundleHash": "debb1226781328cd16670f51de3a2d120369a21e1a4617e050ecac112f4e0387",
+  "sourceUrl": "https://github.com/codse/animata/blob/36674e4e9cfdc0f237693d8b736a2bf41065ca1d/animata/fabs/flower-menu.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "animata/fabs/flower-menu.tsx",
+  "runtimeEntry": "runtime/animata/fabs/flower-menu.jsx",
+  "author": "codse and Animata contributors",
+  "typeDependencies": {},
+  "previewAliases": {
+    "next/link": "atlas-adapters/next-link.jsx"
+  },
+  "dependencies": {
+    "clsx": "2.1.1",
+    "react": "19.3.0",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "animata/fabs/flower-menu.tsx",
+      "url": "/components/animata-fabs-flower-menu/files/animata/fabs/flower-menu.tsx",
+      "sha256": "9e1be21a17a52cf7f5b24d9e313f8ec5f9e0359867d8d03e1a7228b5e6c4d09f",
+      "bytes": 8696,
+      "original": true
+    },
+    {
+      "path": "lib/utils.ts",
+      "url": "/components/animata-fabs-flower-menu/files/lib/utils.ts",
+      "sha256": "5110cb256546ec57496878e69c7e8f338a0ba9caf3ac75eed9babb51dad06ecd",
+      "bytes": 538,
+      "original": true
+    },
+    {
+      "path": "animata/fabs/flower-menu.css",
+      "url": "/components/animata-fabs-flower-menu/files/animata/fabs/flower-menu.css",
+      "sha256": "5cc1a167c5b50c300940864fcf1493f639285ce8cc70e4838a2ff790f7ab3244",
+      "bytes": 259,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/animata-fabs-flower-menu/files/LICENSE.txt",
+      "sha256": "ff78804659cbc28380d087cae79c494f243f8ef22b1e2ac5ec119b5de9314f05",
+      "bytes": 1058,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/animata-fabs-flower-menu/files/README.md",
+      "sha256": "6a7f9137c7ed7bb9f40c25fca2411ae478079e8385c973bfd2a0d45ab9fa8ba1",
+      "bytes": 2534,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/animata-fabs-flower-menu/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/animata-fabs-flower-menu/files/tsconfig.paths.json",
+      "sha256": "fe982bb0f4fd65dc0b7f409aa9dfc606febcda95694d7f79b8fc2ecae8594f46",
+      "bytes": 222,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/animata-fabs-flower-menu/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/animata/fabs/flower-menu.jsx",
+      "url": "/components/animata-fabs-flower-menu/files/runtime/animata/fabs/flower-menu.jsx",
+      "sha256": "cfe81b95b214a3f3dbf8f4fdfe2020090af020078f0df5ec3f6bdeb152e362c1",
+      "bytes": 7074,
+      "original": false
+    },
+    {
+      "path": "runtime/animata/fabs/flower-menu.d.ts",
+      "url": "/components/animata-fabs-flower-menu/files/runtime/animata/fabs/flower-menu.d.ts",
+      "sha256": "2239e843a04cc733da2ba474f18150a5d7e3a5cfb3f6090e46ca0ca41c453459",
+      "bytes": 1061,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.js",
+      "url": "/components/animata-fabs-flower-menu/files/runtime/lib/utils.js",
+      "sha256": "4b70245418e9f444da0b1f2558ab9c7a7aa01a916e77bfc40be7e95255bc421e",
+      "bytes": 447,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.d.ts",
+      "url": "/components/animata-fabs-flower-menu/files/runtime/lib/utils.d.ts",
+      "sha256": "053d36fede5db8a987c33a556fac2b8eb710fdc7b0331fbc9cee96dc7aca0295",
+      "bytes": 324,
+      "original": false
+    },
+    {
+      "path": "runtime/animata/fabs/flower-menu.css",
+      "url": "/components/animata-fabs-flower-menu/files/runtime/animata/fabs/flower-menu.css",
+      "sha256": "5cc1a167c5b50c300940864fcf1493f639285ce8cc70e4838a2ff790f7ab3244",
+      "bytes": 259,
+      "original": false
+    },
+    {
+      "path": "atlas-adapters/next-link.jsx",
+      "url": "/components/animata-fabs-flower-menu/files/atlas-adapters/next-link.jsx",
+      "sha256": "80388c3ca829d083245e33689b7a19071927698b85ed27d3db88671eba04c870",
+      "bytes": 344,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/animata-fabs-flower-menu/files/Example.tsx",
+      "sha256": "9055cbf6499032c5b0ba1fab4a368e0fe83237462be594dbaea52672e50f33f5",
+      "bytes": 944,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/animata-fabs-flower-menu/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/animata-fabs-flower-menu/files/vite.config.fragment.mjs",
+      "sha256": "a07e1147b0792f4777c91199653a288e75fba223a4069fdb895ef6b7bb314922",
+      "bytes": 437,
+      "original": false
+    }
+  ]
+}

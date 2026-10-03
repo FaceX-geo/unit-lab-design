@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { type TooltipProviderProps as TooltipProviderPrimitiveProps, type TooltipProps as TooltipPrimitiveProps, type TooltipTriggerProps as TooltipTriggerPrimitiveProps, type TooltipContentProps as TooltipContentPrimitiveProps } from '@/registry/primitives/animate/tooltip';
+import { type TooltipProviderProps as TooltipProviderPrimitiveProps, type TooltipProps as TooltipPrimitiveProps, type TooltipTriggerProps as TooltipTriggerPrimitiveProps, type TooltipContentProps as TooltipContentPrimitiveProps } from '../../primitives/animate/tooltip';
 type TooltipProviderProps = TooltipProviderPrimitiveProps;
 declare function TooltipProvider({ openDelay, ...props }: TooltipProviderProps): React.JSX.Element;
 type TooltipProps = TooltipPrimitiveProps;

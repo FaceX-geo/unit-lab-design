@@ -1,0 +1,1 @@
+import Example from '../../../../public/components/kokonut-ui-type-writer/files/NextExample';import '../../../../public/components/kokonut-ui-type-writer/files/demo.css';export default function Page(){return <div style={{height:'100vh'}}><Example/></div>}

@@ -1,13 +1,15 @@
 {
   "id": "react-bits-silk",
   "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
-  "bundleHash": "dfc4a907d4ad309901e67db334c5de7256663370fa4bde44cc60f7c1e0f31c5d",
+  "bundleHash": "1ee62b669aef1c25f43afd64e33e3aa1db70cb6b40c7b6c2a6cb538a75dd04c7",
   "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Backgrounds/Silk/Silk.tsx",
   "license": "MIT + Commons Clause",
   "entry": "Example.tsx",
   "sourceEntry": "components/react-bits/Silk/Silk.tsx",
   "runtimeEntry": "runtime/components/react-bits/Silk/Silk.jsx",
   "author": "David Haz",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "@react-three/fiber": "9.8.1",
     "react": "19.3.0",
@@ -32,15 +34,15 @@
     {
       "path": "README.md",
       "url": "/components/react-bits-silk/files/README.md",
-      "sha256": "18a12c1ca1595d39c875c592262545843f41901dce2fa176c0252995dc080ff8",
-      "bytes": 2055,
+      "sha256": "3c0a3bc3d0e0001637f791ffda1d5d317a0ed89fd669059d60de794dfa7c9655",
+      "bytes": 2330,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/react-bits-silk/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

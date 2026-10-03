@@ -1,0 +1,1 @@
+import Example from '../../../../public/components/paper-shaders-smoke-ring/files/NextExample';import '../../../../public/components/paper-shaders-smoke-ring/files/demo.css';export default function Page(){return <div style={{height:'100vh'}}><Example/></div>}

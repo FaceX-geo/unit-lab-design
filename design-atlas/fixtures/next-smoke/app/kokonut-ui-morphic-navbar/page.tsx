@@ -1,0 +1,1 @@
+import Example from '../../../../public/components/kokonut-ui-morphic-navbar/files/NextExample';import '../../../../public/components/kokonut-ui-morphic-navbar/files/demo.css';export default function Page(){return <div style={{height:'100vh'}}><Example/></div>}

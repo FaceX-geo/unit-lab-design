@@ -1,0 +1,1 @@
+import Example from '../../../../public/components/cult-ui-direction-aware-tabs/files/NextExample';import '../../../../public/components/cult-ui-direction-aware-tabs/files/demo.css';export default function Page(){return <div style={{height:'100vh'}}><Example/></div>}

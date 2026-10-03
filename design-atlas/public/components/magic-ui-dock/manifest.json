@@ -1,13 +1,15 @@
 {
   "id": "magic-ui-dock",
   "revision": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
-  "bundleHash": "1f33f6ce5d120cb30efaae55a461d11b203eb40d0057d9177f65f5625a60ede4",
+  "bundleHash": "cc9c95343c3028068d01054b12d97528940a2ebebd0f168e0f565fedaee5a3b5",
   "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/dock.tsx",
   "license": "MIT",
   "entry": "Example.tsx",
   "sourceEntry": "components/magicui/dock.tsx",
   "runtimeEntry": "runtime/components/magicui/dock.jsx",
   "author": "Magic UI contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "class-variance-authority": "0.7.1",
     "clsx": "2.1.1",
@@ -50,15 +52,15 @@
     {
       "path": "README.md",
       "url": "/components/magic-ui-dock/files/README.md",
-      "sha256": "32458381ba59dc7c628464d8bd64fd8e2991798411169ede483bf5c429535122",
-      "bytes": 2126,
+      "sha256": "ebddc7d9e4a100cc8eb90c69d7a0c5a2e17889b7cad305a50943ac005c4ec152",
+      "bytes": 2401,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/magic-ui-dock/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

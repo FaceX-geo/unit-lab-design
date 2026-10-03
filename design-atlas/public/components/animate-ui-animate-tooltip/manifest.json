@@ -1,13 +1,15 @@
 {
   "id": "animate-ui-animate-tooltip",
   "revision": "efeb96ffd7a3b7a4868667e4ac3c346620fb3044",
-  "bundleHash": "1e17e93e7674cb3e965425aee21e398ba81ae74e8966038489d9da54ee76a286",
+  "bundleHash": "a7d497f4d7fb27d8f4c11f0db771519beef3aade2f0a95b7ee67b9ff961c764d",
   "sourceUrl": "https://github.com/imskyleen/animate-ui/blob/efeb96ffd7a3b7a4868667e4ac3c346620fb3044/apps/www/registry/components/animate/tooltip/index.tsx",
   "license": "MIT",
   "entry": "Example.tsx",
   "sourceEntry": "components/animate-ui/components/animate/tooltip.tsx",
   "runtimeEntry": "runtime/components/animate-ui/components/animate/tooltip.jsx",
   "author": "Skyleen and contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "@floating-ui/react": "0.27.20",
     "class-variance-authority": "0.7.1",
@@ -78,15 +80,15 @@
     {
       "path": "README.md",
       "url": "/components/animate-ui-animate-tooltip/files/README.md",
-      "sha256": "456b288c554f0abe551a744bd14c37ceba941bc34b3759c8ac617b475a55a1e9",
-      "bytes": 2189,
+      "sha256": "40c130165abb447fe6c256e5327c2f38e0afd8163c57028b0a502c660b96a7b7",
+      "bytes": 2464,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/animate-ui-animate-tooltip/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {
@@ -113,8 +115,8 @@
     {
       "path": "runtime/components/animate-ui/components/animate/tooltip.d.ts",
       "url": "/components/animate-ui-animate-tooltip/files/runtime/components/animate-ui/components/animate/tooltip.d.ts",
-      "sha256": "e8085f6c44b86348a8552921309afe156e6615a8399d9ed85e2f692e5b464f05",
-      "bytes": 1198,
+      "sha256": "959737b56acf1ed3ab32ccc35d35c17d9e02cf959703605563dd1e92c5f1b114",
+      "bytes": 1193,
       "original": false
     },
     {
@@ -127,8 +129,8 @@
     {
       "path": "runtime/components/animate-ui/primitives/animate/tooltip.d.ts",
       "url": "/components/animate-ui-animate-tooltip/files/runtime/components/animate-ui/primitives/animate/tooltip.d.ts",
-      "sha256": "338700d705a01fb505599535e58431361a3f6037057b14b8b5bd457098c0e7f8",
-      "bytes": 24711,
+      "sha256": "72b3e975ff942a26299feba9884a80d9565cf37522e04be2ec4967b204dba931",
+      "bytes": 24683,
       "original": false
     },
     {

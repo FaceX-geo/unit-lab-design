@@ -1,13 +1,15 @@
 {
   "id": "animate-ui-radix-dropdown-menu",
   "revision": "efeb96ffd7a3b7a4868667e4ac3c346620fb3044",
-  "bundleHash": "bfe419470d3ac9c0221c0e77bd98f179a2cd7f171d25141331efcd20ba8a4973",
+  "bundleHash": "b3cec2facafadab8538250afec8be01b09223d0b0f1db7c2ff65863f5d650196",
   "sourceUrl": "https://github.com/imskyleen/animate-ui/blob/efeb96ffd7a3b7a4868667e4ac3c346620fb3044/apps/www/registry/components/radix/dropdown-menu/index.tsx",
   "license": "MIT",
   "entry": "Example.tsx",
   "sourceEntry": "components/animate-ui/components/radix/dropdown-menu.tsx",
   "runtimeEntry": "runtime/components/animate-ui/components/radix/dropdown-menu.jsx",
   "author": "Skyleen and contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "class-variance-authority": "0.7.1",
     "clsx": "2.1.1",
@@ -92,15 +94,15 @@
     {
       "path": "README.md",
       "url": "/components/animate-ui-radix-dropdown-menu/files/README.md",
-      "sha256": "dfd297dad1bc45edf3ed3d02d26794154f1379ff66c29644a4b3cdf82b01b2b5",
-      "bytes": 2202,
+      "sha256": "1339e212c2647ae297de06eaa5556ce21f31ec6d3c415ef92302572b5fc1a117",
+      "bytes": 2477,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/animate-ui-radix-dropdown-menu/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {
@@ -127,8 +129,8 @@
     {
       "path": "runtime/components/animate-ui/components/radix/dropdown-menu.d.ts",
       "url": "/components/animate-ui-radix-dropdown-menu/files/runtime/components/animate-ui/components/radix/dropdown-menu.d.ts",
-      "sha256": "612306761351cbab01637fb752f1acef4f816d6a893f6dd33db04e0c9a5db876",
-      "bytes": 4412,
+      "sha256": "2cdbb27ef329bb634a4d1a9cd2c02b487a966688139160ac102de196297628b8",
+      "bytes": 4407,
       "original": false
     },
     {
@@ -141,8 +143,8 @@
     {
       "path": "runtime/components/animate-ui/primitives/radix/dropdown-menu.d.ts",
       "url": "/components/animate-ui-radix-dropdown-menu/files/runtime/components/animate-ui/primitives/radix/dropdown-menu.d.ts",
-      "sha256": "fdc8fae5d60828543be8c97e4cb69722dc86ceb91b5b02016a651a69a4f0c3e6",
-      "bytes": 6223,
+      "sha256": "234cac97575d3d790fdfc9db08a78fc14a60fff3988131dc7e1b06bc0aaa8f30",
+      "bytes": 6204,
       "original": false
     },
     {

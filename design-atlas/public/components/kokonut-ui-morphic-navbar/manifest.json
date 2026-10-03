@@ -1,0 +1,106 @@
+{
+  "id": "kokonut-ui-morphic-navbar",
+  "revision": "83eec6d982d400a18438001a8efdbac1f159dd43",
+  "bundleHash": "ebe2a507130efcf6f2f9f8a0c2ae04d1899a2201e641aa4e2411e63121a68706",
+  "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/morphic-navbar.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/kokonutui/morphic-navbar.tsx",
+  "runtimeEntry": "runtime/components/kokonutui/morphic-navbar.jsx",
+  "author": "Dorian Baffier and Kokonut UI contributors",
+  "typeDependencies": {},
+  "previewAliases": {
+    "next/link": "atlas-adapters/next-link.jsx"
+  },
+  "dependencies": {
+    "clsx": "2.1.1",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/kokonutui/morphic-navbar.tsx",
+      "url": "/components/kokonut-ui-morphic-navbar/files/components/kokonutui/morphic-navbar.tsx",
+      "sha256": "bad139e8f5b80869102f023edae22e3b7985bab093048a2e45239e31342d6082",
+      "bytes": 2260,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/kokonut-ui-morphic-navbar/files/LICENSE.txt",
+      "sha256": "b2e018ad1fd564608cc1ee0c2ad675ce5202c8ed9f5f68e6d09e7b6bc881d5d2",
+      "bytes": 1066,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/kokonut-ui-morphic-navbar/files/README.md",
+      "sha256": "28a2979eef578fee423ebe9888ff6dedae2b3fff5c2107ad5bb388831f19cbdb",
+      "bytes": 2556,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/kokonut-ui-morphic-navbar/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/kokonut-ui-morphic-navbar/files/tsconfig.paths.json",
+      "sha256": "113c9d3a7de4f46f7015d3e43fe190b854f93d6ad66bf0bccd2da5de4c9f246b",
+      "bytes": 66,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/kokonut-ui-morphic-navbar/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/kokonutui/morphic-navbar.jsx",
+      "url": "/components/kokonut-ui-morphic-navbar/files/runtime/components/kokonutui/morphic-navbar.jsx",
+      "sha256": "7e76f3dd393b34c2f924f1ff5a52dacae5cd7881dd84181b33a8dd3f8f9cd588",
+      "bytes": 1813,
+      "original": false
+    },
+    {
+      "path": "runtime/components/kokonutui/morphic-navbar.d.ts",
+      "url": "/components/kokonut-ui-morphic-navbar/files/runtime/components/kokonutui/morphic-navbar.d.ts",
+      "sha256": "47aa64fe44e58937bcd48259381d7ef0291be8c54c3ec80d0980bcfd5f22e46d",
+      "bytes": 314,
+      "original": false
+    },
+    {
+      "path": "atlas-adapters/next-link.jsx",
+      "url": "/components/kokonut-ui-morphic-navbar/files/atlas-adapters/next-link.jsx",
+      "sha256": "80388c3ca829d083245e33689b7a19071927698b85ed27d3db88671eba04c870",
+      "bytes": 344,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/kokonut-ui-morphic-navbar/files/Example.tsx",
+      "sha256": "4f0717e727fd96ae81a6f9948a5497bbd21488b5ed11fec1f4ab6b1702786c12",
+      "bytes": 688,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/kokonut-ui-morphic-navbar/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/kokonut-ui-morphic-navbar/files/vite.config.fragment.mjs",
+      "sha256": "253b1a397792dadfcfbd4bd72174974e0460f66086943baa999d78bea03821ae",
+      "bytes": 341,
+      "original": false
+    }
+  ]
+}

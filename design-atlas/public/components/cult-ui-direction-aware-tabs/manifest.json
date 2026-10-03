@@ -1,0 +1,142 @@
+{
+  "id": "cult-ui-direction-aware-tabs",
+  "revision": "67a66c6ac1cd240914ba688a907611b3437a7a2b",
+  "bundleHash": "5fbf79502d5f60b0a66ebd7f0e6c4d182d89efead0e612fbfd69899d2d6caef7",
+  "sourceUrl": "https://github.com/nolly-studio/cult-ui/blob/67a66c6ac1cd240914ba688a907611b3437a7a2b/apps/www/registry/default/ui/direction-aware-tabs.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "registry/default/ui/direction-aware-tabs.tsx",
+  "runtimeEntry": "runtime/registry/default/ui/direction-aware-tabs.jsx",
+  "author": "nolly-studio and Cult UI contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "clsx": "2.1.1",
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "react-use-measure": "2.1.7",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "registry/default/ui/direction-aware-tabs.tsx",
+      "url": "/components/cult-ui-direction-aware-tabs/files/registry/default/ui/direction-aware-tabs.tsx",
+      "sha256": "e0fd337557453325a9cfcd25c803aa5aa57d137ebccbe12658415c7162c6a260",
+      "bytes": 4091,
+      "original": true
+    },
+    {
+      "path": "lib/utils.ts",
+      "url": "/components/cult-ui-direction-aware-tabs/files/lib/utils.ts",
+      "sha256": "7cf92ac6e9a70c0c68a993becf674ec7c373653bc5dc3379e366c352e5ee1a41",
+      "bytes": 450,
+      "original": true
+    },
+    {
+      "path": "config/site.ts",
+      "url": "/components/cult-ui-direction-aware-tabs/files/config/site.ts",
+      "sha256": "204248fa4d13b2e06f723b476304df36d80512d918b93ed4d7fa7c1a784f5962",
+      "bytes": 791,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/cult-ui-direction-aware-tabs/files/LICENSE.txt",
+      "sha256": "78045e58dfd5f039ad350ad293da2ad9a2c0362b82dadb069b1c10be382ddac7",
+      "bytes": 1071,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/cult-ui-direction-aware-tabs/files/README.md",
+      "sha256": "6a8712cf8b6235a85cf32967e056983d8c783428528735d9222fad6fee4240a4",
+      "bytes": 2444,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/cult-ui-direction-aware-tabs/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/cult-ui-direction-aware-tabs/files/tsconfig.paths.json",
+      "sha256": "a33accdb4710214f20eaea586616b39c8d6f605b3357ba2dc8cdabb8b2449a39",
+      "bytes": 204,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/cult-ui-direction-aware-tabs/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/registry/default/ui/direction-aware-tabs.jsx",
+      "url": "/components/cult-ui-direction-aware-tabs/files/runtime/registry/default/ui/direction-aware-tabs.jsx",
+      "sha256": "aad1d4151301c6d59491ad17cdecf9e9727227ab9f9decbff8d83c6473400b7b",
+      "bytes": 3252,
+      "original": false
+    },
+    {
+      "path": "runtime/registry/default/ui/direction-aware-tabs.d.ts",
+      "url": "/components/cult-ui-direction-aware-tabs/files/runtime/registry/default/ui/direction-aware-tabs.d.ts",
+      "sha256": "4c64b626fdd4a19d6382f31e836b9d91a76237b4df88d89984684bad91a1384d",
+      "bytes": 581,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.js",
+      "url": "/components/cult-ui-direction-aware-tabs/files/runtime/lib/utils.js",
+      "sha256": "3a18fb4164b6dfc0279b2a3cdc39c6617b2fda0981bdcc69d1b9bea9c0aab265",
+      "bytes": 435,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.d.ts",
+      "url": "/components/cult-ui-direction-aware-tabs/files/runtime/lib/utils.d.ts",
+      "sha256": "81d1488dfe0263b8af75f0a7b306deb343ce4815fc3d5c21841b41d05fa4f824",
+      "bytes": 160,
+      "original": false
+    },
+    {
+      "path": "runtime/config/site.js",
+      "url": "/components/cult-ui-direction-aware-tabs/files/runtime/config/site.js",
+      "sha256": "cd691aab8d843058cad9cfb198e2ceac024c72e4a6d5fed8de2f4aba3c80ba51",
+      "bytes": 760,
+      "original": false
+    },
+    {
+      "path": "runtime/config/site.d.ts",
+      "url": "/components/cult-ui-direction-aware-tabs/files/runtime/config/site.d.ts",
+      "sha256": "f1aec14191c7c1ab6430e10050bb0783f7c62eb28725b197b21ede36d3fe5f9c",
+      "bytes": 622,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/cult-ui-direction-aware-tabs/files/Example.tsx",
+      "sha256": "471a4b3db1aab5556bee3f595f6b90fe7903617fa94533693599ad38b78a164e",
+      "bytes": 881,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/cult-ui-direction-aware-tabs/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/cult-ui-direction-aware-tabs/files/vite.config.fragment.mjs",
+      "sha256": "367d77cef09e8a76e69208d669c6a923160a0a1c9978f68ec47044f66dd1980f",
+      "bytes": 376,
+      "original": false
+    }
+  ]
+}

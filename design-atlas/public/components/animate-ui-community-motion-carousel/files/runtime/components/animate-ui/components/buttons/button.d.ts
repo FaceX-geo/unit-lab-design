@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { type VariantProps } from 'class-variance-authority';
-import { type ButtonProps as ButtonPrimitiveProps } from '@/registry/primitives/buttons/button';
+import { type ButtonProps as ButtonPrimitiveProps } from '../../primitives/buttons/button';
 declare const buttonVariants: (props?: {
     variant?: "link" | "default" | "outline" | "accent" | "destructive" | "secondary" | "ghost";
     size?: "default" | "icon" | "sm" | "lg" | "icon-sm" | "icon-lg";

@@ -1,6 +1,8 @@
+import {expansionExample} from './expansion-examples.mjs';
 // Atlas-authored usage examples; the imported component implementation stays unchanged.
 export function exampleFor(m){
  const entry='./'+(m.runtimeEntry||m.entry).replace(/\.(tsx|jsx|js)$/,'');
+ const expansion=expansionExample(m,entry);if(expansion)return expansion;
  const css=m.library==='react-bits'?'': '';
  const defaults={accent:'#a78bfa',speed:1,text:'Design that moves.',amount:100,delay:200,holdTime:1000,gradientSize:220,bend:3,rotationInterval:2400};
  let imports='',body='',controls=[];

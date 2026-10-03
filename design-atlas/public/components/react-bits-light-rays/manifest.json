@@ -1,0 +1,111 @@
+{
+  "id": "react-bits-light-rays",
+  "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+  "bundleHash": "43a237e44903a3ed7d47dfcf8dddcad85efec3f883a059f7701e331481731b9f",
+  "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Backgrounds/LightRays/LightRays.tsx",
+  "license": "MIT + Commons Clause",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/react-bits/LightRays/LightRays.tsx",
+  "runtimeEntry": "runtime/components/react-bits/LightRays/LightRays.jsx",
+  "author": "David Haz",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "ogl": "1.0.11",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/react-bits/LightRays/LightRays.tsx",
+      "url": "/components/react-bits-light-rays/files/components/react-bits/LightRays/LightRays.tsx",
+      "sha256": "db2457a3de4c7b18810e6c996af5b367e844a6546f6fe728cbdfc4b99a09c1d6",
+      "bytes": 13668,
+      "original": true
+    },
+    {
+      "path": "components/react-bits/LightRays/LightRays.css",
+      "url": "/components/react-bits-light-rays/files/components/react-bits/LightRays/LightRays.css",
+      "sha256": "99c675bf97ed23b24188df6c3aabe2524fae003167bfdac464b913b81538411e",
+      "bytes": 137,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/react-bits-light-rays/files/LICENSE.txt",
+      "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+      "bytes": 1303,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/react-bits-light-rays/files/README.md",
+      "sha256": "f0dbc5319d4cda75cd28a6b6289c114b905cff48ffe1cc41eb3419a606c225fb",
+      "bytes": 2347,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/react-bits-light-rays/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/react-bits-light-rays/files/tsconfig.paths.json",
+      "sha256": "9b33ae1bbe9145787286f42b13044cb63fa5f57786ad8488005388d832b47f12",
+      "bytes": 172,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/react-bits-light-rays/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/LightRays/LightRays.jsx",
+      "url": "/components/react-bits-light-rays/files/runtime/components/react-bits/LightRays/LightRays.jsx",
+      "sha256": "cdf4dc9b9ba03d671813bfdec6acb7ab8f34536252e4b3bb816c9b79b767e3b0",
+      "bytes": 13616,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/LightRays/LightRays.d.ts",
+      "url": "/components/react-bits-light-rays/files/runtime/components/react-bits/LightRays/LightRays.d.ts",
+      "sha256": "75ad69ffc5949f40bc0a0b23678d7d85ab00244c1efab3d55de18cb9ba622f83",
+      "bytes": 628,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/LightRays/LightRays.css",
+      "url": "/components/react-bits-light-rays/files/runtime/components/react-bits/LightRays/LightRays.css",
+      "sha256": "99c675bf97ed23b24188df6c3aabe2524fae003167bfdac464b913b81538411e",
+      "bytes": 137,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/react-bits-light-rays/files/Example.tsx",
+      "sha256": "d4ef12a67b0b20187a016af68aefab33998d5d4d46e0977a9009e238c5d39669",
+      "bytes": 746,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/react-bits-light-rays/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/react-bits-light-rays/files/vite.config.fragment.mjs",
+      "sha256": "c33b925c308b1fa0fe2382bdaa4ef1d7344bfa8d05e09ef21d580c1ce960bdf7",
+      "bytes": 372,
+      "original": false
+    }
+  ]
+}

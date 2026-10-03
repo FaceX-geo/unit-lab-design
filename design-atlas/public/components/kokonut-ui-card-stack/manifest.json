@@ -1,0 +1,194 @@
+{
+  "id": "kokonut-ui-card-stack",
+  "revision": "83eec6d982d400a18438001a8efdbac1f159dd43",
+  "bundleHash": "221175687c3eceb2689a86a4455e87da6fb11439ba675e0c00956d8cca49b5fc",
+  "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/card-stack.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/kokonutui/card-stack.tsx",
+  "runtimeEntry": "runtime/components/kokonutui/card-stack.jsx",
+  "author": "Dorian Baffier and Kokonut UI contributors",
+  "typeDependencies": {},
+  "demoAssets": [
+    {
+      "path": "atlas-assets/object-0.svg",
+      "author": "Design Atlas",
+      "license": "CC0-1.0",
+      "purpose": "Local sample artwork; replaces only default demo media in compiled runtime",
+      "originalUrl": "/undraw.svg"
+    },
+    {
+      "path": "atlas-assets/object-1.svg",
+      "author": "Design Atlas",
+      "license": "CC0-1.0",
+      "purpose": "Local sample artwork; replaces only default demo media in compiled runtime",
+      "originalUrl": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&auto=format&fit=crop&q=80"
+    },
+    {
+      "path": "atlas-assets/object-2.svg",
+      "author": "Design Atlas",
+      "license": "CC0-1.0",
+      "purpose": "Local sample artwork; replaces only default demo media in compiled runtime",
+      "originalUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800&auto=format&fit=crop&q=80"
+    },
+    {
+      "path": "atlas-assets/object-3.svg",
+      "author": "Design Atlas",
+      "license": "CC0-1.0",
+      "purpose": "Local sample artwork; replaces only default demo media in compiled runtime",
+      "originalUrl": "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?w=800&auto=format&fit=crop&q=80"
+    }
+  ],
+  "previewAliases": {
+    "next/image": "atlas-adapters/next-image.jsx"
+  },
+  "dependencies": {
+    "clsx": "2.1.1",
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/kokonutui/card-stack.tsx",
+      "url": "/components/kokonut-ui-card-stack/files/components/kokonutui/card-stack.tsx",
+      "sha256": "08852db2a7ac4587d586e4989099f63e6eb76dc769a4c9521493e40ece8fc0b6",
+      "bytes": 7535,
+      "original": true
+    },
+    {
+      "path": "lib/utils.ts",
+      "url": "/components/kokonut-ui-card-stack/files/lib/utils.ts",
+      "sha256": "4acbc7165a8d54738ff62b51414e772c08fe78434e524e6d8770180d3ba2925f",
+      "bytes": 169,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/kokonut-ui-card-stack/files/LICENSE.txt",
+      "sha256": "b2e018ad1fd564608cc1ee0c2ad675ce5202c8ed9f5f68e6d09e7b6bc881d5d2",
+      "bytes": 1066,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/kokonut-ui-card-stack/files/README.md",
+      "sha256": "d6e5581d0f6b7e122005e7bcd3b70c2589c4cff6419980ff6663b75922348d7a",
+      "bytes": 2771,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/kokonut-ui-card-stack/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/kokonut-ui-card-stack/files/tsconfig.paths.json",
+      "sha256": "27c83867eb9dc7f8e19f256cc618b0e868eedff2c838e4b1ffe46504024d1bc4",
+      "bytes": 135,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/kokonut-ui-card-stack/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/kokonutui/card-stack.jsx",
+      "url": "/components/kokonut-ui-card-stack/files/runtime/components/kokonutui/card-stack.jsx",
+      "sha256": "259b3c047a88af2c8ebc76ea02058dfb4459e8f2db64c0c453f21fa9c57688e3",
+      "bytes": 10907,
+      "original": false
+    },
+    {
+      "path": "runtime/components/kokonutui/card-stack.d.ts",
+      "url": "/components/kokonut-ui-card-stack/files/runtime/components/kokonutui/card-stack.d.ts",
+      "sha256": "f002a70aa0f067a42b17390797be6c63343dae97830a72e006a8afdf354371d5",
+      "bytes": 166,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.js",
+      "url": "/components/kokonut-ui-card-stack/files/runtime/lib/utils.js",
+      "sha256": "3ed9a6b9bbfd7777c835f14ea89f45614483f1c40eeffcacaa49766125a3df10",
+      "bytes": 139,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.d.ts",
+      "url": "/components/kokonut-ui-card-stack/files/runtime/lib/utils.d.ts",
+      "sha256": "512960c0e955a2324b34354dac25e3e4d431a1af4cd33077935eda5e95c8b7e1",
+      "bytes": 101,
+      "original": false
+    },
+    {
+      "path": "atlas-adapters/next-image.jsx",
+      "url": "/components/kokonut-ui-card-stack/files/atlas-adapters/next-image.jsx",
+      "sha256": "12366a06ce29c847ff0161a369e1558514084e74e10da14e1d767a1b5a9d3dab",
+      "bytes": 436,
+      "original": false
+    },
+    {
+      "path": "atlas-assets/object-0.svg",
+      "url": "/components/kokonut-ui-card-stack/files/atlas-assets/object-0.svg",
+      "sha256": "04b1fef620cd4c4b7d0e2ab9e81293885369aea5dd18e597be6ea9b25bc2cd51",
+      "bytes": 555,
+      "original": false
+    },
+    {
+      "path": "atlas-assets/object-1.svg",
+      "url": "/components/kokonut-ui-card-stack/files/atlas-assets/object-1.svg",
+      "sha256": "921dab131a25f4006c0f81d85b1584b96f75d734d55d312e8211bd3806de5266",
+      "bytes": 675,
+      "original": false
+    },
+    {
+      "path": "atlas-assets/object-2.svg",
+      "url": "/components/kokonut-ui-card-stack/files/atlas-assets/object-2.svg",
+      "sha256": "9d42531d39da82d083b6563d569e521195cfb0b8e4ca90d7d6cc8638aa407c99",
+      "bytes": 676,
+      "original": false
+    },
+    {
+      "path": "atlas-assets/object-3.svg",
+      "url": "/components/kokonut-ui-card-stack/files/atlas-assets/object-3.svg",
+      "sha256": "04e3d4eba8dfce2a74673b1f90b3b0b374a375d186b3b6cd430773ea7c9f2b43",
+      "bytes": 676,
+      "original": false
+    },
+    {
+      "path": "atlas-assets/LICENSE.txt",
+      "url": "/components/kokonut-ui-card-stack/files/atlas-assets/LICENSE.txt",
+      "sha256": "c954ac2d53c5dc0bf95c315037675028642148b660a15e515e13ffa9f9ad1002",
+      "bytes": 134,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/kokonut-ui-card-stack/files/Example.tsx",
+      "sha256": "e42ee85f31929a9b716a779f5a770b1f52e289b8274de9c0bbb2a1dc98823ad7",
+      "bytes": 586,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/kokonut-ui-card-stack/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/kokonut-ui-card-stack/files/vite.config.fragment.mjs",
+      "sha256": "deb51718c72943acbbf4248f64dc33bbfccc12af319b4b29d83c833785d52a7d",
+      "bytes": 380,
+      "original": false
+    }
+  ]
+}

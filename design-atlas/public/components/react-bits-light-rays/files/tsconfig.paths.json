@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "./LightRays.css": [
+        "./runtime/components/react-bits/LightRays/LightRays.css"
+      ]
+    }
+  }
+}

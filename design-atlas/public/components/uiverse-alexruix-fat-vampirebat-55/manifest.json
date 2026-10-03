@@ -1,12 +1,14 @@
 {
   "id": "uiverse-alexruix-fat-vampirebat-55",
   "revision": "adbd2adde0a299a3956ea288fb444ec01891ca41",
-  "bundleHash": "3407ed5a3f855009c279c92540afd57ad4bd3e2b032e88e3d6530b0c9b50b5da",
+  "bundleHash": "2c7730106bfb1e22006f22dd278be64c21c91b6fedf80b3f99b9e2c9177a88c4",
   "sourceUrl": "https://uiverse.io/alexruix/fat-vampirebat-55",
   "license": "MIT",
   "entry": "Inputs/alexruix_fat-vampirebat-55.html",
   "sourceEntry": "Inputs/alexruix_fat-vampirebat-55.html",
   "author": "alexruix",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {},
   "files": [
     {
@@ -33,8 +35,8 @@
     {
       "path": "demo.css",
       "url": "/components/uiverse-alexruix-fat-vampirebat-55/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

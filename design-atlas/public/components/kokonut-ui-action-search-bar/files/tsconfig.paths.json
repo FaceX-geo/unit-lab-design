@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/components/ui/input": [
+        "./runtime/components/ui/input.jsx"
+      ],
+      "@/lib/utils": [
+        "./runtime/lib/utils.js"
+      ],
+      "@/hooks/use-debounce": [
+        "./runtime/hooks/use-debounce.js"
+      ]
+    }
+  }
+}

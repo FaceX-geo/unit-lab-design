@@ -1,0 +1,1 @@
+import Example from '../../../../public/components/paper-shaders-god-rays/files/NextExample';import '../../../../public/components/paper-shaders-god-rays/files/demo.css';export default function Page(){return <div style={{height:'100vh'}}><Example/></div>}

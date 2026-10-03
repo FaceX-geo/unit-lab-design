@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { type TabsProps as TabsPrimitiveProps, type TabsListProps as TabsListPrimitiveProps, type TabsTriggerProps as TabsTriggerPrimitiveProps, type TabsContentProps as TabsContentPrimitiveProps, type TabsContentsProps as TabsContentsPrimitiveProps } from '@/registry/primitives/animate/tabs';
+import { type TabsProps as TabsPrimitiveProps, type TabsListProps as TabsListPrimitiveProps, type TabsTriggerProps as TabsTriggerPrimitiveProps, type TabsContentProps as TabsContentPrimitiveProps, type TabsContentsProps as TabsContentsPrimitiveProps } from '../../primitives/animate/tabs';
 type TabsProps = TabsPrimitiveProps;
 declare function Tabs({ className, ...props }: TabsProps): React.JSX.Element;
 type TabsListProps = TabsListPrimitiveProps;

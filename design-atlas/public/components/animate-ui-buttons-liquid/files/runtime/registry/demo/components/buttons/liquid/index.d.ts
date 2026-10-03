@@ -1,4 +1,4 @@
-import { type LiquidButtonProps } from '@/registry/components/buttons/liquid';
+import { type LiquidButtonProps } from '../../../../../components/animate-ui/components/buttons/liquid';
 interface LiquidButtonDemoProps {
     variant: LiquidButtonProps['variant'];
     size: LiquidButtonProps['size'];

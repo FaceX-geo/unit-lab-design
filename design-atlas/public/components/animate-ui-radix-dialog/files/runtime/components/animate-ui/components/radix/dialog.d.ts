@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { type DialogProps as DialogPrimitiveProps, type DialogContentProps as DialogContentPrimitiveProps, type DialogDescriptionProps as DialogDescriptionPrimitiveProps, type DialogFooterProps as DialogFooterPrimitiveProps, type DialogHeaderProps as DialogHeaderPrimitiveProps, type DialogTitleProps as DialogTitlePrimitiveProps, type DialogTriggerProps as DialogTriggerPrimitiveProps, type DialogCloseProps as DialogClosePrimitiveProps } from '@/registry/primitives/radix/dialog';
+import { type DialogProps as DialogPrimitiveProps, type DialogContentProps as DialogContentPrimitiveProps, type DialogDescriptionProps as DialogDescriptionPrimitiveProps, type DialogFooterProps as DialogFooterPrimitiveProps, type DialogHeaderProps as DialogHeaderPrimitiveProps, type DialogTitleProps as DialogTitlePrimitiveProps, type DialogTriggerProps as DialogTriggerPrimitiveProps, type DialogCloseProps as DialogClosePrimitiveProps } from '../../primitives/radix/dialog';
 type DialogProps = DialogPrimitiveProps;
 declare function Dialog(props: DialogProps): React.JSX.Element;
 type DialogTriggerProps = DialogTriggerPrimitiveProps;

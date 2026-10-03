@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { type Transition, type HTMLMotionProps } from 'motion/react';
-import { type HighlightItemProps, type HighlightProps } from '@/registry/primitives/effects/highlight';
-import { type WithAsChild } from '@/registry/primitives/animate/slot';
+import { type HighlightItemProps, type HighlightProps } from '../effects/highlight';
+import { type WithAsChild } from './slot';
 type TabsContextType = {
     activeValue: string;
     handleValueChange: (value: string) => void;

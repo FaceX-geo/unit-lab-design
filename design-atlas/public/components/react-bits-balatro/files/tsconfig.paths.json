@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "./Balatro.css": [
+        "./runtime/components/react-bits/Balatro/Balatro.css"
+      ]
+    }
+  }
+}

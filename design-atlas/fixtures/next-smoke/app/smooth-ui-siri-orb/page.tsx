@@ -1,0 +1,1 @@
+import Example from '../../../../public/components/smooth-ui-siri-orb/files/NextExample';import '../../../../public/components/smooth-ui-siri-orb/files/demo.css';export default function Page(){return <div style={{height:'100vh'}}><Example/></div>}

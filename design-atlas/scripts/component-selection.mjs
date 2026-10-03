@@ -19,4 +19,72 @@ add('motion-primitives',[
  ['morphing-dialog','Morphing Dialog','transitions','Карточка превращается в развёрнутый диалог.'],['transition-panel','Transition Panel','transitions','Переходы между панелями с изменением размеров.'],['toolbar-expandable','Expandable Toolbar','navigation','Компактная панель раскрывает инструменты.']]);
 add('uiverse',[
  ['Nawsome/wet-mayfly-23','Hamster Wheel','transitions','Хомяк бежит в колесе: детальная CSS анимация.'],['Nawsome/silent-owl-45','Plane Switch','controls','Самолёт вылетает при включении переключателя.'],['Nawsome/short-dolphin-98','Bubble Toggle','controls','Полупрозрачный пузырь меняет форму при нажатии.'],['adamgiebl/big-ape-36','Layered Button','controls','Слои объёмной кнопки расходятся при наведении.'],['alexruix/fat-vampirebat-55','Focus Input','controls','Поле меняет форму и отступы при фокусе.']]);
+Object.assign(libraries, {
+ 'kokonut-ui':{title:'Kokonut UI',repo:'kokonut-labs/kokonutui',url:'https://kokonutui.com/docs',author:'Dorian Baffier and Kokonut UI contributors',license:'MIT',licenseFile:'LICENSE',root:'',color:'#e6a658'},
+ 'smooth-ui':{title:'SmoothUI',repo:'educlopez/smoothui',url:'https://smoothui.dev',author:'Eduardo Calvo and SmoothUI contributors',license:'MIT',licenseFile:'LICENSE',root:'',color:'#ed936e'},
+ 'fancy-components':{title:'Fancy Components',repo:'danielpetho/fancy',url:'https://www.fancycomponents.dev',author:'Daniel Petho and contributors',license:'MIT',licenseFile:'LICENSE',root:'src',color:'#df81b4'},
+ 'cult-ui':{title:'Cult UI',repo:'nolly-studio/cult-ui',url:'https://www.cult-ui.com',author:'nolly-studio and Cult UI contributors',license:'MIT',licenseFile:'LICENSE.md',root:'apps/www',color:'#9acb72'},
+ 'animata':{title:'Animata',repo:'codse/animata',url:'https://animata.design',author:'codse and Animata contributors',license:'MIT',licenseFile:'LICENSE.md',root:'',color:'#68bcce'},
+ 'paper-shaders':{title:'Paper Shaders',repo:'paper-design/shaders',url:'https://shaders.paper.design',author:'Lost Coast Labs, Inc.',license:'Apache-2.0',licenseFile:'LICENSE',root:'packages/shaders-react/src',color:'#91a6ee'}
+});
+const previousCount=selected.length;
+add('kokonut-ui',[
+ ['particle-button','Particle Button','controls','Частицы разлетаются из кнопки при нажатии.'],
+ ['liquid-glass-card','Liquid Glass','cards','Стеклянная поверхность с SVG преломлением и бликами.'],
+ ['card-stack','Card Stack','cards','Стопка карточек раскрывается с пружинной анимацией.'],
+ ['file-upload','Animated File Upload','controls','Перетаскивание файла, прогресс и состояния загрузки.'],
+ ['action-search-bar','Action Search Bar','navigation','Поиск с анимированными подсказками действий.'],
+ ['morphic-navbar','Morphic Navbar','navigation','Активный пункт навигации превращается в плавную капсулу.'],
+ ['toolbar','Kokonut Toolbar','navigation','Панель инструментов раскрывает название выбранного действия.'],
+ ['smooth-tab','Smooth Tab','navigation','Вкладки с движущимся индикатором и анимированным содержимым.'],
+ ['profile-dropdown','Profile Dropdown','navigation','Меню профиля с карточкой пользователя и действиями.'],
+ ['scroll-text','Scroll Text','text','Прокрутка выделяет активную строку типографической композиции.'],
+ ['type-writer','Typing Text','text','Последовательная печать и удаление фраз с курсором.'],
+ ['matrix-text','Matrix Text','text','Двоичный шум собирается в читаемый текст.'],
+ ['dynamic-text','Dynamic Text','text','Плавная смена слов с переходом между состояниями.'],
+ ['glitch-text','Glitch Text','text','Цифровые сбои текста с цветным смещением слоёв.'],
+ ['shimmer-text','Shimmer Text','text','Световой градиент проходит по буквам.']
+]);
+add('smooth-ui',[
+ ['dynamic-island','Dynamic Island','navigation','Пружинная капсула раскрывает уведомления, таймер и плеер.'],
+ ['siri-orb','Siri Orb','background','Светящаяся сфера меняет движение по состоянию помощника.']
+]);
+add('fancy-components', [['physics/gravity','Gravity','controls','Элементы падают, сталкиваются и перетаскиваются с настоящей физикой.']]);
+add('cult-ui',[['family-drawer','Family Drawer','transitions','Несколько экранов внутри панели с плавным изменением высоты.']]);
+add('animata',[
+ ['button/swipe-button','Swipe Button','controls','Два слоя текста сменяют друг друга при наведении.'],
+ ['fabs/flower-menu','Flower Menu','navigation','Кнопка раскрывает действия в лепестки вокруг центра.']
+]);
+const extraStart=selected.length;
+add('paper-shaders',[
+ ['liquid-metal','Liquid Metal','background','Текучий металл с движущимися отражениями.'],
+ ['water','Water','background','Живая поверхность воды с регулируемой рябью.'],
+ ['metaballs','Metaballs','background','Органические капли сливаются и расходятся.'],
+ ['god-rays','God Rays','background','Объёмные световые лучи заполняют пространство.'],
+ ['smoke-ring','Smoke Ring','background','Кольцо дыма с плавной деформацией и свечением.'],
+ ['warp','Warp','background','Искажение цветовых потоков в движущемся поле.']
+]);
+add('react-bits',[
+ ['Galaxy','Galaxy','background','Звёздная галактика с вращением и реакцией на указатель.'],
+ ['LightRays','Light Rays','background','Лучи света меняют направление за курсором.'],
+ ['Balatro','Balatro','background','Гипнотическое вращение цветовых потоков.'],
+ ['PixelBlast','Pixel Blast','background','Пиксельное поле реагирует волнами на указатель.'],
+ ['Threads','Threads','background','Светящиеся нити складываются в подвижный рисунок.'],
+ ['DarkVeil','Dark Veil','background','Тёмная кинематографичная завеса с зерном и волнами.']
+]);
+add('fancy-components',[
+ ['text/letter-3d-swap','Letter 3D Swap','text','Буквы переворачиваются как грани объёмного блока.'],
+ ['physics/elastic-line','Elastic Line','controls','Линия натягивается за указателем и упруго возвращается.'],
+ ['physics/cursor-attractor-and-gravity','Cursor Attractor & Gravity','controls','Физические объекты притягиваются к указателю и сталкиваются.']
+]);
+add('cult-ui',[
+ ['direction-aware-tabs','Direction Aware Tabs','navigation','Содержимое вкладок движется в направлении выбора.'],
+ ['sortable-list','Sortable List','controls','Список перетаскивается с плавным перестроением строк.']
+]);
+add('smooth-ui',[
+ ['card-swipe-deck','Card Swipe Deck','cards','Карточки улетают по свайпу с инерцией и вращением.'],
+ ['morph-surface','Morph Surface','transitions','Компактная поверхность превращается в раскрытую панель.']
+]);
+add('animata',[['card/card-spread','Card Spread','cards','Стопка виджетов раскрывается в ряд; наведение добавляет лёгкий наклон.']]);
+for(let i=previousCount;i<selected.length;i++){selected[i].batch='october-2026';selected[i].extra=i>=extraStart;}
 export {selected};

@@ -1,0 +1,120 @@
+{
+  "id": "kokonut-ui-scroll-text",
+  "revision": "83eec6d982d400a18438001a8efdbac1f159dd43",
+  "bundleHash": "21b12e3b4b4b1168b87df239330fd90ca65cc0ace141aa2eff3cc1ca5ce88015",
+  "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/scroll-text.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/kokonutui/scroll-text.tsx",
+  "runtimeEntry": "runtime/components/kokonutui/scroll-text.jsx",
+  "author": "Dorian Baffier and Kokonut UI contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "clsx": "2.1.1",
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/kokonutui/scroll-text.tsx",
+      "url": "/components/kokonut-ui-scroll-text/files/components/kokonutui/scroll-text.tsx",
+      "sha256": "05e021c8a5a946e7206e3ab12d75505c4975b3cb4e82d261c8629c758d6d253e",
+      "bytes": 3907,
+      "original": true
+    },
+    {
+      "path": "lib/utils.ts",
+      "url": "/components/kokonut-ui-scroll-text/files/lib/utils.ts",
+      "sha256": "4acbc7165a8d54738ff62b51414e772c08fe78434e524e6d8770180d3ba2925f",
+      "bytes": 169,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/kokonut-ui-scroll-text/files/LICENSE.txt",
+      "sha256": "b2e018ad1fd564608cc1ee0c2ad675ce5202c8ed9f5f68e6d09e7b6bc881d5d2",
+      "bytes": 1066,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/kokonut-ui-scroll-text/files/README.md",
+      "sha256": "1eedf62732046ea632bc21f1193b5a6891c09e45c53a472c2ac4f656afce7062",
+      "bytes": 2427,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/kokonut-ui-scroll-text/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/kokonut-ui-scroll-text/files/tsconfig.paths.json",
+      "sha256": "27c83867eb9dc7f8e19f256cc618b0e868eedff2c838e4b1ffe46504024d1bc4",
+      "bytes": 135,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/kokonut-ui-scroll-text/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/kokonutui/scroll-text.jsx",
+      "url": "/components/kokonut-ui-scroll-text/files/runtime/components/kokonutui/scroll-text.jsx",
+      "sha256": "b778f9ab51dddc389bcfc6d4136c54140f4f737d54b54b01cd795b1b64943cbb",
+      "bytes": 3562,
+      "original": false
+    },
+    {
+      "path": "runtime/components/kokonutui/scroll-text.d.ts",
+      "url": "/components/kokonut-ui-scroll-text/files/runtime/components/kokonutui/scroll-text.d.ts",
+      "sha256": "0e358b136bceb8729ae6f1efb566ee9b47db24748e0e47915ca594c59037f421",
+      "bytes": 192,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.js",
+      "url": "/components/kokonut-ui-scroll-text/files/runtime/lib/utils.js",
+      "sha256": "3ed9a6b9bbfd7777c835f14ea89f45614483f1c40eeffcacaa49766125a3df10",
+      "bytes": 139,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.d.ts",
+      "url": "/components/kokonut-ui-scroll-text/files/runtime/lib/utils.d.ts",
+      "sha256": "512960c0e955a2324b34354dac25e3e4d431a1af4cd33077935eda5e95c8b7e1",
+      "bytes": 101,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/kokonut-ui-scroll-text/files/Example.tsx",
+      "sha256": "4df04db0548d82dabda7e016bc1144dfc371f79c5474100be67be841e8acc194",
+      "bytes": 679,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/kokonut-ui-scroll-text/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/kokonut-ui-scroll-text/files/vite.config.fragment.mjs",
+      "sha256": "28c2f09e8f004ac6bb0e8e1872fdd3091435b6570d2789c4905d49c40f9e616b",
+      "bytes": 335,
+      "original": false
+    }
+  ]
+}

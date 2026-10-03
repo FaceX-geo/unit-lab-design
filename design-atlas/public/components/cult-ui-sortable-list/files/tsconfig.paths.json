@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/lib/utils": [
+        "./runtime/lib/utils.js"
+      ],
+      "@/config/site": [
+        "./runtime/config/site.js"
+      ],
+      "@/components/ui/checkbox": [
+        "./runtime/components/ui/checkbox.jsx"
+      ]
+    }
+  }
+}

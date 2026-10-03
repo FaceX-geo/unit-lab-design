@@ -1,12 +1,14 @@
 {
   "id": "uiverse-nawsome-wet-mayfly-23",
   "revision": "adbd2adde0a299a3956ea288fb444ec01891ca41",
-  "bundleHash": "73451695bde822b186ae25e9d23e133c7c8caaea8b79af3f6e882c57d87ea931",
+  "bundleHash": "b3a524041ef82e1375190f6c58ba616bb5bdbeedccbbec492d8735d1c9d98bb8",
   "sourceUrl": "https://uiverse.io/Nawsome/wet-mayfly-23",
   "license": "MIT",
   "entry": "loaders/Nawsome_wet-mayfly-23.html",
   "sourceEntry": "loaders/Nawsome_wet-mayfly-23.html",
   "author": "Nawsome",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {},
   "files": [
     {
@@ -33,8 +35,8 @@
     {
       "path": "demo.css",
       "url": "/components/uiverse-nawsome-wet-mayfly-23/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

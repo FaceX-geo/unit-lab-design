@@ -1,0 +1,163 @@
+{
+  "id": "kokonut-ui-action-search-bar",
+  "revision": "83eec6d982d400a18438001a8efdbac1f159dd43",
+  "bundleHash": "c28dd74a1bcc72691884a825875ca6365d21f7502383653f6c821e7238515dc3",
+  "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/action-search-bar.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/kokonutui/action-search-bar.tsx",
+  "runtimeEntry": "runtime/components/kokonutui/action-search-bar.jsx",
+  "author": "Dorian Baffier and Kokonut UI contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "clsx": "2.1.1",
+    "lucide-react": "0.577.0",
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/kokonutui/action-search-bar.tsx",
+      "url": "/components/kokonut-ui-action-search-bar/files/components/kokonutui/action-search-bar.tsx",
+      "sha256": "c36b256f6f7526423ede140b1644f171cef6aa665d73af368ed39d4b0e27d2ac",
+      "bytes": 10637,
+      "original": true
+    },
+    {
+      "path": "components/ui/input.tsx",
+      "url": "/components/kokonut-ui-action-search-bar/files/components/ui/input.tsx",
+      "sha256": "9adbd99c422abbdd8fc742254b18a376e9cc0ba46f03effb6d24a79d8528d665",
+      "bytes": 1004,
+      "original": true
+    },
+    {
+      "path": "lib/utils.ts",
+      "url": "/components/kokonut-ui-action-search-bar/files/lib/utils.ts",
+      "sha256": "4acbc7165a8d54738ff62b51414e772c08fe78434e524e6d8770180d3ba2925f",
+      "bytes": 169,
+      "original": true
+    },
+    {
+      "path": "hooks/use-debounce.ts",
+      "url": "/components/kokonut-ui-action-search-bar/files/hooks/use-debounce.ts",
+      "sha256": "b9be9fe86d974a4ae317844aaff567b115bbc5fc862309c57f453586afef4dda",
+      "bytes": 402,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/kokonut-ui-action-search-bar/files/LICENSE.txt",
+      "sha256": "b2e018ad1fd564608cc1ee0c2ad675ce5202c8ed9f5f68e6d09e7b6bc881d5d2",
+      "bytes": 1066,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/kokonut-ui-action-search-bar/files/README.md",
+      "sha256": "2f1c069fd023a6943970dcfbed4dc031617de0a1265ad7b5c3231d0bfc6a2d54",
+      "bytes": 2425,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/kokonut-ui-action-search-bar/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/kokonut-ui-action-search-bar/files/tsconfig.paths.json",
+      "sha256": "5531d80a17c9e01d5ba969de349eb365cdae37cb06df2f95557d7c2b2746867b",
+      "bytes": 304,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/kokonut-ui-action-search-bar/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/kokonutui/action-search-bar.jsx",
+      "url": "/components/kokonut-ui-action-search-bar/files/runtime/components/kokonutui/action-search-bar.jsx",
+      "sha256": "c24d81e1fe3a82b6ad932d1a84982286b6b63c7125d0aedda6f4720d5d8c280e",
+      "bytes": 9382,
+      "original": false
+    },
+    {
+      "path": "runtime/components/kokonutui/action-search-bar.d.ts",
+      "url": "/components/kokonut-ui-action-search-bar/files/runtime/components/kokonutui/action-search-bar.d.ts",
+      "sha256": "c51e78485050282b6b03f75ce694e9492076fc9e566ff6a182d0519e6715ee0b",
+      "bytes": 325,
+      "original": false
+    },
+    {
+      "path": "runtime/components/ui/input.jsx",
+      "url": "/components/kokonut-ui-action-search-bar/files/runtime/components/ui/input.jsx",
+      "sha256": "1ab9903930ae6be11c93268aecd1c1e2502c52360de300eacc9390703e55b922",
+      "bytes": 798,
+      "original": false
+    },
+    {
+      "path": "runtime/components/ui/input.d.ts",
+      "url": "/components/kokonut-ui-action-search-bar/files/runtime/components/ui/input.d.ts",
+      "sha256": "d27a9356be69b5c023f5284d747415f8716cfea95d3c7da1736c2a8312327027",
+      "bytes": 240,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.js",
+      "url": "/components/kokonut-ui-action-search-bar/files/runtime/lib/utils.js",
+      "sha256": "3ed9a6b9bbfd7777c835f14ea89f45614483f1c40eeffcacaa49766125a3df10",
+      "bytes": 139,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.d.ts",
+      "url": "/components/kokonut-ui-action-search-bar/files/runtime/lib/utils.d.ts",
+      "sha256": "512960c0e955a2324b34354dac25e3e4d431a1af4cd33077935eda5e95c8b7e1",
+      "bytes": 101,
+      "original": false
+    },
+    {
+      "path": "runtime/hooks/use-debounce.js",
+      "url": "/components/kokonut-ui-action-search-bar/files/runtime/hooks/use-debounce.js",
+      "sha256": "1cfba1362e58e41885e446aa9a53cf74d43caeb35f68f2b462c21f0acef9cd99",
+      "bytes": 421,
+      "original": false
+    },
+    {
+      "path": "runtime/hooks/use-debounce.d.ts",
+      "url": "/components/kokonut-ui-action-search-bar/files/runtime/hooks/use-debounce.d.ts",
+      "sha256": "1387dd227ea8adf19f70835ba5195a8ae01ecc4148df4cafc07d7ef2f04348fb",
+      "bytes": 90,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/kokonut-ui-action-search-bar/files/Example.tsx",
+      "sha256": "0bd6d401a9932fbc61a84fe1cea78f2b40b9e5a93a27c5550ba4a9f700564bda",
+      "bytes": 957,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/kokonut-ui-action-search-bar/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/kokonut-ui-action-search-bar/files/vite.config.fragment.mjs",
+      "sha256": "f32d7f33b67ba664120f4ef85690c25287c402f927a1fc8d8523d84c11b38006",
+      "bytes": 448,
+      "original": false
+    }
+  ]
+}

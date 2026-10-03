@@ -1,0 +1,160 @@
+{
+  "id": "fancy-components-physics-elastic-line",
+  "revision": "f9f62c61207b2dd3210476dd98af3c9a5be24094",
+  "bundleHash": "405a197d8f595dd44e8d31458e02dc60bbb894949f4e01a2e3937d881cea2b00",
+  "sourceUrl": "https://github.com/danielpetho/fancy/blob/f9f62c61207b2dd3210476dd98af3c9a5be24094/src/fancy/components/physics/elastic-line.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "fancy/components/physics/elastic-line.tsx",
+  "runtimeEntry": "runtime/fancy/components/physics/elastic-line.jsx",
+  "author": "Daniel Petho and contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "fancy/components/physics/elastic-line.tsx",
+      "url": "/components/fancy-components-physics-elastic-line/files/fancy/components/physics/elastic-line.tsx",
+      "sha256": "f07d9470968e8255d2939b9c268015d0379509f8cdd3813ae4e5611623a68cc9",
+      "bytes": 3120,
+      "original": true
+    },
+    {
+      "path": "hooks/use-dimensions.ts",
+      "url": "/components/fancy-components-physics-elastic-line/files/hooks/use-dimensions.ts",
+      "sha256": "b0cd18872b3e69dc5bd91c8cba7dae0ec8b5d8c1bac9a35f2d38269d492b9012",
+      "bytes": 703,
+      "original": true
+    },
+    {
+      "path": "hooks/use-elastic-line-events.ts",
+      "url": "/components/fancy-components-physics-elastic-line/files/hooks/use-elastic-line-events.ts",
+      "sha256": "44d0ee49e2b00ccc7f218a22964925e9fa83818ea4a5a50296f0bc261e7683c4",
+      "bytes": 1880,
+      "original": true
+    },
+    {
+      "path": "hooks/use-mouse-position.ts",
+      "url": "/components/fancy-components-physics-elastic-line/files/hooks/use-mouse-position.ts",
+      "sha256": "827ab212dfe21afb73ca5916016c022c21993c69d347e3cb460383c28d3a4ef1",
+      "bytes": 1271,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/fancy-components-physics-elastic-line/files/LICENSE.txt",
+      "sha256": "39b0d9c112b4e80383da88660cbaa64972f741e80205c14fa1b779ff1989cc09",
+      "bytes": 1069,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/fancy-components-physics-elastic-line/files/README.md",
+      "sha256": "566f93d2c8bd9a0c1e50245be7261cf3a81283e5017c388a0dffea3efe1958ce",
+      "bytes": 2372,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/fancy-components-physics-elastic-line/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/fancy-components-physics-elastic-line/files/tsconfig.paths.json",
+      "sha256": "4d1de26f144a19b30644afe8f6933736fa40e089130ec5c20937bb7565148aa7",
+      "bytes": 357,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/fancy-components-physics-elastic-line/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/fancy/components/physics/elastic-line.jsx",
+      "url": "/components/fancy-components-physics-elastic-line/files/runtime/fancy/components/physics/elastic-line.jsx",
+      "sha256": "253a34b2be604856db8d5679d19d122e2b10227682a22e0009ee1ec9cb13e7eb",
+      "bytes": 2735,
+      "original": false
+    },
+    {
+      "path": "runtime/fancy/components/physics/elastic-line.d.ts",
+      "url": "/components/fancy-components-physics-elastic-line/files/runtime/fancy/components/physics/elastic-line.d.ts",
+      "sha256": "792f9220e117d33b72090fd48e0ba4e96fea757a5a891784214cd5ef02ca9984",
+      "bytes": 428,
+      "original": false
+    },
+    {
+      "path": "runtime/hooks/use-dimensions.js",
+      "url": "/components/fancy-components-physics-elastic-line/files/runtime/hooks/use-dimensions.js",
+      "sha256": "50451c3287062b8d1072efafa67bfabd4da707a5a9160d7286ef9ef33474925a",
+      "bytes": 632,
+      "original": false
+    },
+    {
+      "path": "runtime/hooks/use-dimensions.d.ts",
+      "url": "/components/fancy-components-physics-elastic-line/files/runtime/hooks/use-dimensions.d.ts",
+      "sha256": "f9b12890beb1b11356987e7f146d59b104d8c806fe7b8aa73d04a509123ec0d6",
+      "bytes": 210,
+      "original": false
+    },
+    {
+      "path": "runtime/hooks/use-elastic-line-events.js",
+      "url": "/components/fancy-components-physics-elastic-line/files/runtime/hooks/use-elastic-line-events.js",
+      "sha256": "05fa709495a51e518c30e197d6bde31b7b4407b597c53baf8ab2642c56b4b623",
+      "bytes": 1962,
+      "original": false
+    },
+    {
+      "path": "runtime/hooks/use-elastic-line-events.d.ts",
+      "url": "/components/fancy-components-physics-elastic-line/files/runtime/hooks/use-elastic-line-events.d.ts",
+      "sha256": "620a9d118b52e8d9979260cf1941cf9be1ced17ab2e47a38cde814692f9359ea",
+      "bytes": 320,
+      "original": false
+    },
+    {
+      "path": "runtime/hooks/use-mouse-position.js",
+      "url": "/components/fancy-components-physics-elastic-line/files/runtime/hooks/use-mouse-position.js",
+      "sha256": "e1644e8bd0dcede6f5ebf0a1a0af807b7d58789a49af82e47f4fa0f3a1a27a76",
+      "bytes": 1344,
+      "original": false
+    },
+    {
+      "path": "runtime/hooks/use-mouse-position.d.ts",
+      "url": "/components/fancy-components-physics-elastic-line/files/runtime/hooks/use-mouse-position.d.ts",
+      "sha256": "a703eacc40cb200df91ca9c16c12515287c5696491aec14ecc1a412008aa1367",
+      "bytes": 172,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/fancy-components-physics-elastic-line/files/Example.tsx",
+      "sha256": "73b9615f311b8de2b4eca17709fa356280473202ba09cac42fead5c7a48f52a0",
+      "bytes": 848,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/fancy-components-physics-elastic-line/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/fancy-components-physics-elastic-line/files/vite.config.fragment.mjs",
+      "sha256": "1238bbc5a22ea88e7df82a2d7207fe66fc54f95c921e7befab3af8586f09179f",
+      "bytes": 501,
+      "original": false
+    }
+  ]
+}

@@ -1,12 +1,14 @@
 {
   "id": "uiverse-nawsome-silent-owl-45",
   "revision": "adbd2adde0a299a3956ea288fb444ec01891ca41",
-  "bundleHash": "c57410bef9e68eeae32c191827874fa715f0b98ae8b93acf6cece535e0dc29ae",
+  "bundleHash": "e322bc1bc097ac81d546a753cab0038ea9ef2e833d87ed37a2b384947799b0fe",
   "sourceUrl": "https://uiverse.io/Nawsome/silent-owl-45",
   "license": "MIT",
   "entry": "Toggle-switches/Nawsome_silent-owl-45.html",
   "sourceEntry": "Toggle-switches/Nawsome_silent-owl-45.html",
   "author": "Nawsome",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {},
   "files": [
     {
@@ -33,8 +35,8 @@
     {
       "path": "demo.css",
       "url": "/components/uiverse-nawsome-silent-owl-45/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

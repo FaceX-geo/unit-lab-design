@@ -1,0 +1,120 @@
+{
+  "id": "kokonut-ui-shimmer-text",
+  "revision": "83eec6d982d400a18438001a8efdbac1f159dd43",
+  "bundleHash": "4c18a427eb7ec76d87163d9e0ce1c2f9e2a049325aff466f78e5b61d84e99e0c",
+  "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/shimmer-text.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/kokonutui/shimmer-text.tsx",
+  "runtimeEntry": "runtime/components/kokonutui/shimmer-text.jsx",
+  "author": "Dorian Baffier and Kokonut UI contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "clsx": "2.1.1",
+    "motion": "14.0.0",
+    "tailwind-merge": "3.7.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/kokonutui/shimmer-text.tsx",
+      "url": "/components/kokonut-ui-shimmer-text/files/components/kokonutui/shimmer-text.tsx",
+      "sha256": "b87779c25c71c21d2c4f02ad8632e94d478b699748a93db30db04a327e0d786a",
+      "bytes": 1335,
+      "original": true
+    },
+    {
+      "path": "lib/utils.ts",
+      "url": "/components/kokonut-ui-shimmer-text/files/lib/utils.ts",
+      "sha256": "4acbc7165a8d54738ff62b51414e772c08fe78434e524e6d8770180d3ba2925f",
+      "bytes": 169,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/kokonut-ui-shimmer-text/files/LICENSE.txt",
+      "sha256": "b2e018ad1fd564608cc1ee0c2ad675ce5202c8ed9f5f68e6d09e7b6bc881d5d2",
+      "bytes": 1066,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/kokonut-ui-shimmer-text/files/README.md",
+      "sha256": "24b48c7183126fe73e968c38e301c6e7655b62ae33848dd137d38727d87d9bd4",
+      "bytes": 2380,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/kokonut-ui-shimmer-text/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/kokonut-ui-shimmer-text/files/tsconfig.paths.json",
+      "sha256": "27c83867eb9dc7f8e19f256cc618b0e868eedff2c838e4b1ffe46504024d1bc4",
+      "bytes": 135,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/kokonut-ui-shimmer-text/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/kokonutui/shimmer-text.jsx",
+      "url": "/components/kokonut-ui-shimmer-text/files/runtime/components/kokonutui/shimmer-text.jsx",
+      "sha256": "8bf5cbdc191e1da2a96cdae580a9f5c6e69f0f2d3a6dd21a3e9860d0e5e70f74",
+      "bytes": 1124,
+      "original": false
+    },
+    {
+      "path": "runtime/components/kokonutui/shimmer-text.d.ts",
+      "url": "/components/kokonut-ui-shimmer-text/files/runtime/components/kokonutui/shimmer-text.d.ts",
+      "sha256": "fec7a56b86231203fa27e42ea45b159b76286054801605230c9758f2388c2f17",
+      "bytes": 182,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.js",
+      "url": "/components/kokonut-ui-shimmer-text/files/runtime/lib/utils.js",
+      "sha256": "3ed9a6b9bbfd7777c835f14ea89f45614483f1c40eeffcacaa49766125a3df10",
+      "bytes": 139,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.d.ts",
+      "url": "/components/kokonut-ui-shimmer-text/files/runtime/lib/utils.d.ts",
+      "sha256": "512960c0e955a2324b34354dac25e3e4d431a1af4cd33077935eda5e95c8b7e1",
+      "bytes": 101,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/kokonut-ui-shimmer-text/files/Example.tsx",
+      "sha256": "2d9e24510ab72399d7cc19b55eabfd683c79f0723de9e6bc5fa1fedf044ab7cd",
+      "bytes": 600,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/kokonut-ui-shimmer-text/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/kokonut-ui-shimmer-text/files/vite.config.fragment.mjs",
+      "sha256": "28c2f09e8f004ac6bb0e8e1872fdd3091435b6570d2789c4905d49c40f9e616b",
+      "bytes": 335,
+      "original": false
+    }
+  ]
+}

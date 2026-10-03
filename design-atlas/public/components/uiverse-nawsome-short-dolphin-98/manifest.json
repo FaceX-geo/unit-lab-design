@@ -1,12 +1,14 @@
 {
   "id": "uiverse-nawsome-short-dolphin-98",
   "revision": "adbd2adde0a299a3956ea288fb444ec01891ca41",
-  "bundleHash": "233674f74e7bc3d8be3e37f4953d839d0587faf8894f26555d7112998fe6111c",
+  "bundleHash": "281abf94a9639d08ed7c47103b6957a1e0ff55927752cf9446c63db62dd8d115",
   "sourceUrl": "https://uiverse.io/Nawsome/short-dolphin-98",
   "license": "MIT",
   "entry": "Toggle-switches/Nawsome_short-dolphin-98.html",
   "sourceEntry": "Toggle-switches/Nawsome_short-dolphin-98.html",
   "author": "Nawsome",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {},
   "files": [
     {
@@ -33,8 +35,8 @@
     {
       "path": "demo.css",
       "url": "/components/uiverse-nawsome-short-dolphin-98/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

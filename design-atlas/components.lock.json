@@ -18,5 +18,29 @@
   "uiverse": {
     "revision": "adbd2adde0a299a3956ea288fb444ec01891ca41",
     "repo": "uiverse-io/galaxy"
+  },
+  "kokonut-ui": {
+    "revision": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "repo": "kokonut-labs/kokonutui"
+  },
+  "smooth-ui": {
+    "revision": "b6312bce2b6f2ed95d8a6e98a592857884f5ea9e",
+    "repo": "educlopez/smoothui"
+  },
+  "fancy-components": {
+    "revision": "f9f62c61207b2dd3210476dd98af3c9a5be24094",
+    "repo": "danielpetho/fancy"
+  },
+  "cult-ui": {
+    "revision": "67a66c6ac1cd240914ba688a907611b3437a7a2b",
+    "repo": "nolly-studio/cult-ui"
+  },
+  "animata": {
+    "revision": "36674e4e9cfdc0f237693d8b736a2bf41065ca1d",
+    "repo": "codse/animata"
+  },
+  "paper-shaders": {
+    "revision": "43cd68db79fa0b1759f72ffc941b3238e2a3954c",
+    "repo": "paper-design/shaders"
   }
 }

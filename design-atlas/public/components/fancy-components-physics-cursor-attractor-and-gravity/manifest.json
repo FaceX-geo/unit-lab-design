@@ -1,0 +1,189 @@
+{
+  "id": "fancy-components-physics-cursor-attractor-and-gravity",
+  "revision": "f9f62c61207b2dd3210476dd98af3c9a5be24094",
+  "bundleHash": "68c361868bbfb8da38d2fb5e1bcb231e6b9020041558244aa1fbe8d7a6c6d73a",
+  "sourceUrl": "https://github.com/danielpetho/fancy/blob/f9f62c61207b2dd3210476dd98af3c9a5be24094/src/fancy/components/physics/cursor-attractor-and-gravity.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "fancy/components/physics/cursor-attractor-and-gravity.tsx",
+  "runtimeEntry": "runtime/fancy/components/physics/cursor-attractor-and-gravity.jsx",
+  "author": "Daniel Petho and contributors",
+  "typeDependencies": {
+    "@types/matter-js": "0.20.2",
+    "@types/lodash": "4.17.25"
+  },
+  "previewAliases": {},
+  "dependencies": {
+    "clsx": "2.1.1",
+    "lodash": "4.18.1",
+    "matter-js": "0.20.0",
+    "react": "19.3.0",
+    "svg-path-commander": "2.3.3",
+    "tailwind-merge": "3.7.0",
+    "poly-decomp": "0.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "fancy/components/physics/cursor-attractor-and-gravity.tsx",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/fancy/components/physics/cursor-attractor-and-gravity.tsx",
+      "sha256": "d3747be4166fe3bd19b05290ae6083ebb225ff970eb012d25cb7df878244af39",
+      "bytes": 13204,
+      "original": true
+    },
+    {
+      "path": "utils/calculate-position.ts",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/utils/calculate-position.ts",
+      "sha256": "cb9d64ac050281e75bced5225d03fd6a2547de9584807fa95adba0d0e4b11836",
+      "bytes": 504,
+      "original": true
+    },
+    {
+      "path": "utils/svg-path-to-vertices.ts",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/utils/svg-path-to-vertices.ts",
+      "sha256": "044a0500cacff7891f777b3f94f39d038387b2a21350f934338954a28dc4dcff",
+      "bytes": 1095,
+      "original": true
+    },
+    {
+      "path": "lib/utils.ts",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/lib/utils.ts",
+      "sha256": "7f7082a8e4a8137a17d45372a67c6272dbc8eca95451cc2f4645fe866249e3f9",
+      "bytes": 266,
+      "original": true
+    },
+    {
+      "path": "hooks/use-mouse-position-ref.ts",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/hooks/use-mouse-position-ref.ts",
+      "sha256": "27cb64c83c6fe0ebfbcfbb232f4191f75bb0b4e40b7107d6846caa834c5a3828",
+      "bytes": 1279,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/LICENSE.txt",
+      "sha256": "39b0d9c112b4e80383da88660cbaa64972f741e80205c14fa1b779ff1989cc09",
+      "bytes": 1069,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/README.md",
+      "sha256": "123bca405497a9a2dc6951f4f51eec0657e8f3922de6a761fac9eb8865a3c84d",
+      "bytes": 2565,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/tsconfig.paths.json",
+      "sha256": "13cc7be95d54434661660efe2c6b5a919570bd8da3fd18e02b5e26370deaf5a2",
+      "bytes": 432,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/fancy/components/physics/cursor-attractor-and-gravity.jsx",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/runtime/fancy/components/physics/cursor-attractor-and-gravity.jsx",
+      "sha256": "17837d3da1815bed27ec64faa0b745943dd8a99eb281841bb87bd1cd47d8874c",
+      "bytes": 12812,
+      "original": false
+    },
+    {
+      "path": "runtime/fancy/components/physics/cursor-attractor-and-gravity.d.ts",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/runtime/fancy/components/physics/cursor-attractor-and-gravity.d.ts",
+      "sha256": "b6d1d573f662506b6a0bf892d1b4e16b25c8dab3e2c6cddf930af383bdc79040",
+      "bytes": 1150,
+      "original": false
+    },
+    {
+      "path": "runtime/utils/calculate-position.js",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/runtime/utils/calculate-position.js",
+      "sha256": "ba67d4b5a1c6b54d3af0e0e1f57f754da80b812d74ec31d524ceb1ff90404131",
+      "bytes": 473,
+      "original": false
+    },
+    {
+      "path": "runtime/utils/calculate-position.d.ts",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/runtime/utils/calculate-position.d.ts",
+      "sha256": "63fee6b80c18b227bc6cf98f66b9889909801f5af1f6b119456cd171259b72ba",
+      "bytes": 131,
+      "original": false
+    },
+    {
+      "path": "runtime/utils/svg-path-to-vertices.js",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/runtime/utils/svg-path-to-vertices.js",
+      "sha256": "7509a7b4a44573c41dd8be7a37cf45a5f6cf4ac9d46692eae87e7513898249e3",
+      "bytes": 1094,
+      "original": false
+    },
+    {
+      "path": "runtime/utils/svg-path-to-vertices.d.ts",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/runtime/utils/svg-path-to-vertices.d.ts",
+      "sha256": "a9f58ed55b979de6732700433fa404a43ae73214e257717f391c108358e6c99b",
+      "bytes": 119,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.js",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/runtime/lib/utils.js",
+      "sha256": "48f050523ebf5178b90f1252df661927f52dbeaf7059016e2d08fe2d64019401",
+      "bytes": 233,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.d.ts",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/runtime/lib/utils.d.ts",
+      "sha256": "81d1488dfe0263b8af75f0a7b306deb343ce4815fc3d5c21841b41d05fa4f824",
+      "bytes": 160,
+      "original": false
+    },
+    {
+      "path": "runtime/hooks/use-mouse-position-ref.js",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/runtime/hooks/use-mouse-position-ref.js",
+      "sha256": "4e278ea9fa556b174b1861de30c8b799332d64d11546162aa9876fc146df896d",
+      "bytes": 1352,
+      "original": false
+    },
+    {
+      "path": "runtime/hooks/use-mouse-position-ref.d.ts",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/runtime/hooks/use-mouse-position-ref.d.ts",
+      "sha256": "45f3e94cf0fb17276c8b278f5159dc11f11be73ed0cea7946b5d306bea6b81b6",
+      "bytes": 186,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/Example.tsx",
+      "sha256": "50a37dbea5315a260e24f25bf010f7f7464baeadd535cc8945095f8d2d8468a9",
+      "bytes": 1093,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/fancy-components-physics-cursor-attractor-and-gravity/files/vite.config.fragment.mjs",
+      "sha256": "44b184cfcfc2c2b0ce98e6636a2ddd7377809e363d32712ae5612852edf016cb",
+      "bytes": 548,
+      "original": false
+    }
+  ]
+}

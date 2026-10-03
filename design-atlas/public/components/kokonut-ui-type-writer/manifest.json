@@ -1,0 +1,97 @@
+{
+  "id": "kokonut-ui-type-writer",
+  "revision": "83eec6d982d400a18438001a8efdbac1f159dd43",
+  "bundleHash": "988715bbb46783fd56d950224de1e41a1190de639bdfc359ee04538198a8ae4f",
+  "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/type-writer.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/kokonutui/type-writer.tsx",
+  "runtimeEntry": "runtime/components/kokonutui/type-writer.jsx",
+  "author": "Dorian Baffier and Kokonut UI contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/kokonutui/type-writer.tsx",
+      "url": "/components/kokonut-ui-type-writer/files/components/kokonutui/type-writer.tsx",
+      "sha256": "b01eec3b2b4c69ded9fa393d16d610e7f9c787db3d5110649a4181a83041c591",
+      "bytes": 5874,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/kokonut-ui-type-writer/files/LICENSE.txt",
+      "sha256": "b2e018ad1fd564608cc1ee0c2ad675ce5202c8ed9f5f68e6d09e7b6bc881d5d2",
+      "bytes": 1066,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/kokonut-ui-type-writer/files/README.md",
+      "sha256": "1ab1423e49d55ae8d4ed591e79dac20c8816e6bbed6a2e0efff71f57d44fa724",
+      "bytes": 2372,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/kokonut-ui-type-writer/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/kokonut-ui-type-writer/files/tsconfig.paths.json",
+      "sha256": "113c9d3a7de4f46f7015d3e43fe190b854f93d6ad66bf0bccd2da5de4c9f246b",
+      "bytes": 66,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/kokonut-ui-type-writer/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/kokonutui/type-writer.jsx",
+      "url": "/components/kokonut-ui-type-writer/files/runtime/components/kokonutui/type-writer.jsx",
+      "sha256": "219f325619fe29abe1cf1d79dfe81696e64477ee251155e399834cbd8eafa65c",
+      "bytes": 6179,
+      "original": false
+    },
+    {
+      "path": "runtime/components/kokonutui/type-writer.d.ts",
+      "url": "/components/kokonut-ui-type-writer/files/runtime/components/kokonutui/type-writer.d.ts",
+      "sha256": "14833e8203b710fcdcc5507d1d5f5307a8ec8d3efa19885df79e95c4aca0ebac",
+      "bytes": 574,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/kokonut-ui-type-writer/files/Example.tsx",
+      "sha256": "83a39ef4c810e309d185f56bd388ae62666fc879268ba4acba819f8c34159254",
+      "bytes": 733,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/kokonut-ui-type-writer/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/kokonut-ui-type-writer/files/vite.config.fragment.mjs",
+      "sha256": "5d2907e5931b21667b1e984b7311670f9d05e67a26f5b50a901b94dda9cababa",
+      "bytes": 299,
+      "original": false
+    }
+  ]
+}

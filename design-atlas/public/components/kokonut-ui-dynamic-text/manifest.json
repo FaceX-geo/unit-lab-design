@@ -1,0 +1,97 @@
+{
+  "id": "kokonut-ui-dynamic-text",
+  "revision": "83eec6d982d400a18438001a8efdbac1f159dd43",
+  "bundleHash": "7c9dfc89ee4af534b6c918e592b52d2218fee793fd314244c5cd63e99342657d",
+  "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/dynamic-text.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/kokonutui/dynamic-text.tsx",
+  "runtimeEntry": "runtime/components/kokonutui/dynamic-text.jsx",
+  "author": "Dorian Baffier and Kokonut UI contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/kokonutui/dynamic-text.tsx",
+      "url": "/components/kokonut-ui-dynamic-text/files/components/kokonutui/dynamic-text.tsx",
+      "sha256": "0cb1d29f5a8a3e6da6e3c885e10cbd9a367c56420bea5d8ace9e7d29a34d3136",
+      "bytes": 2906,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/kokonut-ui-dynamic-text/files/LICENSE.txt",
+      "sha256": "b2e018ad1fd564608cc1ee0c2ad675ce5202c8ed9f5f68e6d09e7b6bc881d5d2",
+      "bytes": 1066,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/kokonut-ui-dynamic-text/files/README.md",
+      "sha256": "b65757f6e925d8752b12ae01941c91f3e37bbf56746cc5993d524cf9ebd6d32b",
+      "bytes": 2370,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/kokonut-ui-dynamic-text/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/kokonut-ui-dynamic-text/files/tsconfig.paths.json",
+      "sha256": "113c9d3a7de4f46f7015d3e43fe190b854f93d6ad66bf0bccd2da5de4c9f246b",
+      "bytes": 66,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/kokonut-ui-dynamic-text/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/kokonutui/dynamic-text.jsx",
+      "url": "/components/kokonut-ui-dynamic-text/files/runtime/components/kokonutui/dynamic-text.jsx",
+      "sha256": "3982589a06e85fb15212efcbc5672a890eb0a263655b6363214981300c328828",
+      "bytes": 2704,
+      "original": false
+    },
+    {
+      "path": "runtime/components/kokonutui/dynamic-text.d.ts",
+      "url": "/components/kokonut-ui-dynamic-text/files/runtime/components/kokonutui/dynamic-text.d.ts",
+      "sha256": "a1118071a9c3e37914c112cb2abc03bf0eca6da0d19e24d78ea7d5c8293a5d5b",
+      "bytes": 90,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/kokonut-ui-dynamic-text/files/Example.tsx",
+      "sha256": "af8f7ddf704d6a5672fe5ef72c3155fd3abb4a4a79875f94dc861f61cfae36a9",
+      "bytes": 554,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/kokonut-ui-dynamic-text/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/kokonut-ui-dynamic-text/files/vite.config.fragment.mjs",
+      "sha256": "5d2907e5931b21667b1e984b7311670f9d05e67a26f5b50a901b94dda9cababa",
+      "bytes": 299,
+      "original": false
+    }
+  ]
+}

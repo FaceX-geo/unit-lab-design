@@ -1,13 +1,15 @@
 {
   "id": "magic-ui-marquee",
   "revision": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
-  "bundleHash": "5177026f574dfaa5298fb58c996b19fd8af89f92f531bed2288b6fc5f10ffc30",
+  "bundleHash": "20f6f1d6bd4917c2bad625ab263d91fa26920a6d867848a4a6fcd9fe430d476f",
   "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/marquee.tsx",
   "license": "MIT",
   "entry": "Example.tsx",
   "sourceEntry": "components/magicui/marquee.tsx",
   "runtimeEntry": "runtime/components/magicui/marquee.jsx",
   "author": "Magic UI contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "clsx": "2.1.1",
     "next": "16.3.8",
@@ -48,15 +50,15 @@
     {
       "path": "README.md",
       "url": "/components/magic-ui-marquee/files/README.md",
-      "sha256": "6e50c6a1ab4e1989a44ab585fb80323208bfd204971c8833df03068f1f600bfd",
-      "bytes": 2112,
+      "sha256": "5b4bdc8579a1ce730265230ba1e7c72db83e94a6663e65958465b6e56fc6fdf0",
+      "bytes": 2387,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/magic-ui-marquee/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

@@ -1,13 +1,15 @@
 {
   "id": "magic-ui-shimmer-button",
   "revision": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
-  "bundleHash": "720c337d255bef181f18f3eb3e45169a4137f04558c6f84886957972bc0e86be",
+  "bundleHash": "b634e7dcb9af953cd8f8eea35b8ccfcddb1a436c04b15f0cc230015291c577be",
   "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/shimmer-button.tsx",
   "license": "MIT",
   "entry": "Example.tsx",
   "sourceEntry": "components/magicui/shimmer-button.tsx",
   "runtimeEntry": "runtime/components/magicui/shimmer-button.jsx",
   "author": "Magic UI contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "clsx": "2.1.1",
     "next": "16.3.8",
@@ -48,15 +50,15 @@
     {
       "path": "README.md",
       "url": "/components/magic-ui-shimmer-button/files/README.md",
-      "sha256": "3f99f1a9d851429879b2a030510f3c4d0eea2dd9d7848d1508a63b63e074d07e",
-      "bytes": 2091,
+      "sha256": "ddb4b318f27793e1310de35ebc2701e97cf041f9d04a73e4d67f87fece907ff0",
+      "bytes": 2366,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/magic-ui-shimmer-button/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

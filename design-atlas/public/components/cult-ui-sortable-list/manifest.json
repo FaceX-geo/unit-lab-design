@@ -1,0 +1,165 @@
+{
+  "id": "cult-ui-sortable-list",
+  "revision": "67a66c6ac1cd240914ba688a907611b3437a7a2b",
+  "bundleHash": "e6b74c836ddab53383755ebd92b3b192a9b53164e9dd8ed2cb025f5a2056a718",
+  "sourceUrl": "https://github.com/nolly-studio/cult-ui/blob/67a66c6ac1cd240914ba688a907611b3437a7a2b/apps/www/registry/default/ui/sortable-list.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "registry/default/ui/sortable-list.tsx",
+  "runtimeEntry": "runtime/registry/default/ui/sortable-list.jsx",
+  "author": "nolly-studio and Cult UI contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "@radix-ui/react-checkbox": "1.3.11",
+    "clsx": "2.1.1",
+    "lucide-react": "0.577.0",
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "react-use-measure": "2.1.7",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "registry/default/ui/sortable-list.tsx",
+      "url": "/components/cult-ui-sortable-list/files/registry/default/ui/sortable-list.tsx",
+      "sha256": "6fd3712c00ba6d721b9481f3786c34a6d1b5eb3cdc8fd3c511bff208a51e55ee",
+      "bytes": 9543,
+      "original": true
+    },
+    {
+      "path": "lib/utils.ts",
+      "url": "/components/cult-ui-sortable-list/files/lib/utils.ts",
+      "sha256": "7cf92ac6e9a70c0c68a993becf674ec7c373653bc5dc3379e366c352e5ee1a41",
+      "bytes": 450,
+      "original": true
+    },
+    {
+      "path": "config/site.ts",
+      "url": "/components/cult-ui-sortable-list/files/config/site.ts",
+      "sha256": "204248fa4d13b2e06f723b476304df36d80512d918b93ed4d7fa7c1a784f5962",
+      "bytes": 791,
+      "original": true
+    },
+    {
+      "path": "components/ui/checkbox.tsx",
+      "url": "/components/cult-ui-sortable-list/files/components/ui/checkbox.tsx",
+      "sha256": "b2d8f762fe7d717dc3d9e828b6b608ef1f225523a6bc3eb1946821aab9eadbc0",
+      "bytes": 1034,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/cult-ui-sortable-list/files/LICENSE.txt",
+      "sha256": "78045e58dfd5f039ad350ad293da2ad9a2c0362b82dadb069b1c10be382ddac7",
+      "bytes": 1071,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/cult-ui-sortable-list/files/README.md",
+      "sha256": "c61b855d621ee5e485bc308599823f79519bdd7fe49de1e376ccb93a9f49c9b1",
+      "bytes": 2491,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/cult-ui-sortable-list/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/cult-ui-sortable-list/files/tsconfig.paths.json",
+      "sha256": "1a31adfe58f1ba74b9993e03047bdb01e4afd6074836ba74e1820950bb620446",
+      "bytes": 296,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/cult-ui-sortable-list/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/registry/default/ui/sortable-list.jsx",
+      "url": "/components/cult-ui-sortable-list/files/runtime/registry/default/ui/sortable-list.jsx",
+      "sha256": "5b64ab51ecb5cf6779a501965061e9180c4e23b06e6fde9d4b924867014376cf",
+      "bytes": 7508,
+      "original": false
+    },
+    {
+      "path": "runtime/registry/default/ui/sortable-list.d.ts",
+      "url": "/components/cult-ui-sortable-list/files/runtime/registry/default/ui/sortable-list.d.ts",
+      "sha256": "d237d4972164a09ac649e325227fb0dc079281e85d6295ee29db9d483aca6302",
+      "bytes": 1237,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.js",
+      "url": "/components/cult-ui-sortable-list/files/runtime/lib/utils.js",
+      "sha256": "3a18fb4164b6dfc0279b2a3cdc39c6617b2fda0981bdcc69d1b9bea9c0aab265",
+      "bytes": 435,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.d.ts",
+      "url": "/components/cult-ui-sortable-list/files/runtime/lib/utils.d.ts",
+      "sha256": "81d1488dfe0263b8af75f0a7b306deb343ce4815fc3d5c21841b41d05fa4f824",
+      "bytes": 160,
+      "original": false
+    },
+    {
+      "path": "runtime/config/site.js",
+      "url": "/components/cult-ui-sortable-list/files/runtime/config/site.js",
+      "sha256": "cd691aab8d843058cad9cfb198e2ceac024c72e4a6d5fed8de2f4aba3c80ba51",
+      "bytes": 760,
+      "original": false
+    },
+    {
+      "path": "runtime/config/site.d.ts",
+      "url": "/components/cult-ui-sortable-list/files/runtime/config/site.d.ts",
+      "sha256": "f1aec14191c7c1ab6430e10050bb0783f7c62eb28725b197b21ede36d3fe5f9c",
+      "bytes": 622,
+      "original": false
+    },
+    {
+      "path": "runtime/components/ui/checkbox.jsx",
+      "url": "/components/cult-ui-sortable-list/files/runtime/components/ui/checkbox.jsx",
+      "sha256": "56b76df8567bcf68c42131500a7c231babafb5323160da06e07e744e57e04214",
+      "bytes": 863,
+      "original": false
+    },
+    {
+      "path": "runtime/components/ui/checkbox.d.ts",
+      "url": "/components/cult-ui-sortable-list/files/runtime/components/ui/checkbox.d.ts",
+      "sha256": "da3537e2632522f6e22825f1282e763bee9da612ef1ab5853ea914393c48aead",
+      "bytes": 301,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/cult-ui-sortable-list/files/Example.tsx",
+      "sha256": "76b04074a8a452e2bb7cc106770c05de9010cb81a6a73e44c381bc785ef4e157",
+      "bytes": 1308,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/cult-ui-sortable-list/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/cult-ui-sortable-list/files/vite.config.fragment.mjs",
+      "sha256": "17c681699be5aafac636e3c10bd4650cb4d27550076e0128e12558f25f4ddf84",
+      "bytes": 440,
+      "original": false
+    }
+  ]
+}

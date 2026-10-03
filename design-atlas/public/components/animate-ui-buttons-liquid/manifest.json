@@ -1,13 +1,15 @@
 {
   "id": "animate-ui-buttons-liquid",
   "revision": "efeb96ffd7a3b7a4868667e4ac3c346620fb3044",
-  "bundleHash": "330b9eb89f1abc75a55df94d556e4126e2a1527f8324bcc3292bb2a6a20a002f",
+  "bundleHash": "559ac34d3dab912c09824ae02b36fc131f4d1e43392a31f4f1858c9cde207d33",
   "sourceUrl": "https://github.com/imskyleen/animate-ui/blob/efeb96ffd7a3b7a4868667e4ac3c346620fb3044/apps/www/registry/components/buttons/liquid/index.tsx",
   "license": "MIT",
   "entry": "Example.tsx",
   "sourceEntry": "components/animate-ui/components/buttons/liquid.tsx",
   "runtimeEntry": "runtime/components/animate-ui/components/buttons/liquid.jsx",
   "author": "Skyleen and contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "class-variance-authority": "0.7.1",
     "clsx": "2.1.1",
@@ -63,15 +65,15 @@
     {
       "path": "README.md",
       "url": "/components/animate-ui-buttons-liquid/files/README.md",
-      "sha256": "be65929e6d479f1f1db563e433ac35f9ffc450231cd7df7a948969fcc274e777",
-      "bytes": 2155,
+      "sha256": "5fc50616b23d9846ad970f54dbf9392d309e07fd72aa8882a910eb8c60287e19",
+      "bytes": 2430,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/animate-ui-buttons-liquid/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {
@@ -98,8 +100,8 @@
     {
       "path": "runtime/components/animate-ui/components/buttons/liquid.d.ts",
       "url": "/components/animate-ui-buttons-liquid/files/runtime/components/animate-ui/components/buttons/liquid.d.ts",
-      "sha256": "8215ac781e7ea4a871dc941c2b45caea1e66c2f0a8f0e70c00bee231b9f50c4c",
-      "bytes": 710,
+      "sha256": "be29cc2249fa5a02a29a0d3b0ece45a95a219eed20ca2d8497d69df96d1a4669",
+      "bytes": 705,
       "original": false
     },
     {
@@ -112,8 +114,8 @@
     {
       "path": "runtime/components/animate-ui/primitives/buttons/liquid.d.ts",
       "url": "/components/animate-ui-buttons-liquid/files/runtime/components/animate-ui/primitives/buttons/liquid.d.ts",
-      "sha256": "e77c2defb40f82b3825d7b22bef9addc327b7ea25d2d19a323daa14d4fc49f24",
-      "bytes": 502,
+      "sha256": "b2879eaf540681f2216a6b43a6ce7956ba548a5a3aace2ed1bac669a7629463b",
+      "bytes": 483,
       "original": false
     },
     {
@@ -154,8 +156,8 @@
     {
       "path": "runtime/registry/demo/components/buttons/liquid/index.d.ts",
       "url": "/components/animate-ui-buttons-liquid/files/runtime/registry/demo/components/buttons/liquid/index.d.ts",
-      "sha256": "aec4be850628c234a81c49384245f38616fb3decc155718b4bbb29bcd8db7282",
-      "bytes": 320,
+      "sha256": "d06d031d92ec554959cab61c7b1fffe749e75cafd4f8919e05dd64afb780ad0f",
+      "bytes": 346,
       "original": false
     },
     {

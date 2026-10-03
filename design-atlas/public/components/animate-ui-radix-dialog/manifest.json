@@ -1,13 +1,15 @@
 {
   "id": "animate-ui-radix-dialog",
   "revision": "efeb96ffd7a3b7a4868667e4ac3c346620fb3044",
-  "bundleHash": "44b1ed3fba244c21e78800e0287eb55494a99b8ee80ea4bfe7b8368232f7c971",
+  "bundleHash": "e963534647c1aa2c24277a8999071ebc0c3ab9890613ba6aaea7ff8bef83c154",
   "sourceUrl": "https://github.com/imskyleen/animate-ui/blob/efeb96ffd7a3b7a4868667e4ac3c346620fb3044/apps/www/registry/components/radix/dialog/index.tsx",
   "license": "MIT",
   "entry": "Example.tsx",
   "sourceEntry": "components/animate-ui/components/radix/dialog.tsx",
   "runtimeEntry": "runtime/components/animate-ui/components/radix/dialog.jsx",
   "author": "Skyleen and contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "class-variance-authority": "0.7.1",
     "clsx": "2.1.1",
@@ -92,15 +94,15 @@
     {
       "path": "README.md",
       "url": "/components/animate-ui-radix-dialog/files/README.md",
-      "sha256": "56cd3865940774b5df08617bb7255693e1b804e3760aa017e999e16cbe10a191",
-      "bytes": 2196,
+      "sha256": "b266c8b04ddd77494c58aacc7efa7754b1c766a55de54089bd4a8096b6446cab",
+      "bytes": 2471,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/animate-ui-radix-dialog/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {
@@ -127,8 +129,8 @@
     {
       "path": "runtime/components/animate-ui/components/radix/dialog.d.ts",
       "url": "/components/animate-ui-radix-dialog/files/runtime/components/animate-ui/components/radix/dialog.d.ts",
-      "sha256": "ae7b591def53b5a8fe46e6e3e1f0e57f82d04797bed86f4d70477ed5d57937f0",
-      "bytes": 2011,
+      "sha256": "dab06958eea6fd097e83b8af10f750ac237a9d5f0484f90d84c47b2bef77bb54",
+      "bytes": 2006,
       "original": false
     },
     {
@@ -197,8 +199,8 @@
     {
       "path": "runtime/registry/demo/components/radix/dialog/index.d.ts",
       "url": "/components/animate-ui-radix-dialog/files/runtime/registry/demo/components/radix/dialog/index.d.ts",
-      "sha256": "2ba9b3a28932c8618f93a9db003d290aae8aa9ef4f51a771523b0a1f2de656ed",
-      "bytes": 335,
+      "sha256": "57ae4688449621e54f3ded34e8c0413f21de83e82b8b0f4cff59de9883ef0bb0",
+      "bytes": 361,
       "original": false
     },
     {

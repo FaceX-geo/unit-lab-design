@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/utils/calculate-position": [
+        "./runtime/utils/calculate-position.js"
+      ],
+      "@/utils/svg-path-to-vertices": [
+        "./runtime/utils/svg-path-to-vertices.js"
+      ],
+      "@/lib/utils": [
+        "./runtime/lib/utils.js"
+      ],
+      "@/hooks/use-mouse-position-ref": [
+        "./runtime/hooks/use-mouse-position-ref.js"
+      ]
+    }
+  }
+}

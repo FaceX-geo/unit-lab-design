@@ -1,0 +1,362 @@
+{
+  "date": "2026-10-04",
+  "components": [
+    {
+      "id": "kokonut-ui-particle-button",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "A small celebration ✦"
+    },
+    {
+      "id": "kokonut-ui-liquid-glass-card",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "LIGHT / REFRACTION\nThrough a\ndifferent lens.\n\nAn original liquid glass surface.\n\nExplore ↗"
+    },
+    {
+      "id": "kokonut-ui-card-stack",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "Instant\nSpeed\n256-bit\nSecurity\n$50,000\nLimit\n0.5%\nFee\nQuick Pay\nInstant Transfers\n\nMove money in seconds with bank-grade security and zero surprises.\n\nMulti-chain\nNetwork\nOptimized\nGas\n24/7\nSupport\nTop-tier\nSecurity\nCrypto Pay\nWeb3 Payments\n\nAccept crypto across every major chain with optimized gas routing.\n\nUnlimited\nVolume\nREST/SDK\nAPI\nPremium\nSupport\nCustom\nFeatures\nBusiness Pay\nEnterprise Solu"
+    },
+    {
+      "id": "kokonut-ui-file-upload",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "Drag and drop or\n\nPNG, JPEG, PDF, PLAIN up to 5 MB\n\nUpload File\n\nor drag and drop your file here\n\nДемонстрация прогресса. Файлы остаются в браузере."
+    },
+    {
+      "id": "kokonut-ui-action-search-bar",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "Search Commands\nFind a component\nExplore the collection\nSave an idea\nAdd to your library\nCreate something\nStart your next project\nPress ⌘K to open commands\nESC to cancel"
+    },
+    {
+      "id": "kokonut-ui-morphic-navbar",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "Explore\nMotion\nCollection\nAbout"
+    },
+    {
+      "id": "kokonut-ui-toolbar",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "Select\nOff"
+    },
+    {
+      "id": "kokonut-ui-smooth-tab",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "01 / YOUR WORKSPACEModelsA new perspective.◉ModelsMCPsAgentsUsers"
+    },
+    {
+      "id": "kokonut-ui-profile-dropdown",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "Alex Designer\nalex@atlas.local"
+    },
+    {
+      "id": "kokonut-ui-scroll-text",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "Composition\nTypography\nInteraction\nAtmosphere\nMotion\nDesign Atlas"
+    },
+    {
+      "id": "kokonut-ui-type-writer",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": ""
+    },
+    {
+      "id": "kokonut-ui-matrix-text",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "D\ne\ns\ni\ng\nn\n \ni\nn\n \nm\no\nt\ni\no\nn\n."
+    },
+    {
+      "id": "kokonut-ui-dynamic-text",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "Hello"
+    },
+    {
+      "id": "kokonut-ui-glitch-text",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "Design in motion.\nDesign in motion.\nDesign in motion."
+    },
+    {
+      "id": "kokonut-ui-shimmer-text",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "Design in motion."
+    },
+    {
+      "id": "smooth-ui-dynamic-island",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": ""
+    },
+    {
+      "id": "smooth-ui-siri-orb",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "idle\nlistening\nthinking\nstreaming\ndone\nerror\n\nСостояния помощника · без доступа к микрофону"
+    },
+    {
+      "id": "fancy-components-physics-gravity",
+      "brokenImages": 0,
+      "canvas": [
+        [
+          1015,
+          830
+        ]
+      ],
+      "error": "",
+      "text": "FORM / PLAY / PHYSICS\nLet your ideas fall.\n\nMove. Drag. Explore.\n\nDESIGN\nMOTION\nCURIOUS\nPLAY\n✦\nFORM"
+    },
+    {
+      "id": "cult-ui-family-drawer",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "Open a little world ↗"
+    },
+    {
+      "id": "animata-button-swipe-button",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "Make it happen ↗\nHover for a new perspective"
+    },
+    {
+      "id": "animata-fabs-flower-menu",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "Home\nSaved\nSearch\nInspiration"
+    },
+    {
+      "id": "paper-shaders-liquid-metal",
+      "brokenImages": 0,
+      "canvas": [
+        [
+          2030,
+          1660
+        ]
+      ],
+      "error": "",
+      "text": "PAPER / LIQUID METAL\nReflect a new idea."
+    },
+    {
+      "id": "paper-shaders-water",
+      "brokenImages": 0,
+      "canvas": [
+        [
+          2030,
+          1660
+        ]
+      ],
+      "error": "",
+      "text": "PAPER / WATER\nLet it flow."
+    },
+    {
+      "id": "paper-shaders-metaballs",
+      "brokenImages": 0,
+      "canvas": [
+        [
+          2030,
+          1660
+        ]
+      ],
+      "error": "",
+      "text": "PAPER / METABALLS\nBeautifully connected."
+    },
+    {
+      "id": "paper-shaders-god-rays",
+      "brokenImages": 0,
+      "canvas": [
+        [
+          2030,
+          1660
+        ]
+      ],
+      "error": "",
+      "text": "PAPER / GOD RAYS\nFind your light."
+    },
+    {
+      "id": "paper-shaders-smoke-ring",
+      "brokenImages": 0,
+      "canvas": [
+        [
+          2030,
+          1660
+        ]
+      ],
+      "error": "",
+      "text": "PAPER / SMOKE RING\nAn atmosphere of ideas."
+    },
+    {
+      "id": "paper-shaders-warp",
+      "brokenImages": 0,
+      "canvas": [
+        [
+          2030,
+          1660
+        ]
+      ],
+      "error": "",
+      "text": "PAPER / WARP\nA different dimension."
+    },
+    {
+      "id": "react-bits-galaxy",
+      "brokenImages": 0,
+      "canvas": [
+        [
+          1015,
+          830
+        ]
+      ],
+      "error": "",
+      "text": "REACT BITS / GALAXY\nStay curious."
+    },
+    {
+      "id": "react-bits-light-rays",
+      "brokenImages": 0,
+      "canvas": [
+        [
+          2030,
+          1660
+        ]
+      ],
+      "error": "",
+      "text": "REACT BITS / LIGHT RAYS\nA moment of clarity."
+    },
+    {
+      "id": "react-bits-balatro",
+      "brokenImages": 0,
+      "canvas": [
+        [
+          1015,
+          830
+        ]
+      ],
+      "error": "",
+      "text": "REACT BITS / BALATRO\nA playful perspective."
+    },
+    {
+      "id": "react-bits-pixel-blast",
+      "brokenImages": 0,
+      "canvas": [
+        [
+          2030,
+          1660
+        ]
+      ],
+      "error": "",
+      "text": "REACT BITS / PIXEL BLAST\nMake a little wave."
+    },
+    {
+      "id": "react-bits-threads",
+      "brokenImages": 0,
+      "canvas": [
+        [
+          1920,
+          1570
+        ]
+      ],
+      "error": "",
+      "text": "REACT BITS / THREADS\nFollow the thread."
+    },
+    {
+      "id": "react-bits-dark-veil",
+      "brokenImages": 0,
+      "canvas": [
+        [
+          2030,
+          1660
+        ]
+      ],
+      "error": "",
+      "text": "REACT BITS / DARK VEIL\nBeyond the surface."
+    },
+    {
+      "id": "fancy-components-text-letter-3d-swap",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "Design in motion.\nD\nD\ne\ne\ns\ns\ni\ni\ng\ng\nn\nn\n \ni\ni\nn\nn\n \nm\nm\no\no\nt\nt\ni\ni\no\no\nn\nn\n.\n.\n\nНаведите на буквы · 3D rotation"
+    },
+    {
+      "id": "fancy-components-physics-elastic-line",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "STRETCH YOUR PERSPECTIVE\nGive it a little pull.\n\nПроведите указателем через линию"
+    },
+    {
+      "id": "fancy-components-physics-cursor-attractor-and-gravity",
+      "brokenImages": 0,
+      "canvas": [
+        [
+          1015,
+          830
+        ]
+      ],
+      "error": "",
+      "text": "FORM / PLAY / PHYSICS\nFollow the field.\n\nMove. Drag. Explore.\n\nDESIGN\nMOTION\nCURIOUS\nPLAY\n✦\nFORM"
+    },
+    {
+      "id": "cult-ui-direction-aware-tabs",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "Form\nMotion\nTexture\n01 / PERSPECTIVE\n◉\nA little structure."
+    },
+    {
+      "id": "cult-ui-sortable-list",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "1 Collect an idea2 Try a different perspective3 Make a little motion4 Keep the detailsПеретаскивание · отметки · удаление"
+    },
+    {
+      "id": "smooth-ui-card-swipe-deck",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "01 / COLLECTION\n✦\nA new perspective\nKEEP\nPASS\n02 / COLLECTION\n✦\nSomething to remember\n03 / COLLECTION\n✦\nMade for your next idea\n04 / COLLECTION\n✦\nStay curious\n4 cards remaining\n← Pass\nReset\nKeep →"
+    },
+    {
+      "id": "smooth-ui-morph-surface",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "Ask AI"
+    },
+    {
+      "id": "animata-card-card-spread",
+      "brokenImages": 0,
+      "canvas": [],
+      "error": "",
+      "text": "Spread cardsStack cards\n\nAbout John\n\nHas worked with ABC for the last 10 years\n\nBuilt two dozen web apps\n\nLatest work is live in stores\n\nA cool guy\n\nShopping list\n\nMilk\nEggs\nGround pepper\nSpaghetti\nButter\n\nKitchen Remodel Ideas\n\nInstall a farmhouse sink for a rustic touch\nUse classic subway tiles\nAdd an island for extra counter space\nOpt for open shelving\n\nReminders\n\nBook museum tickets\nBuy grocer"
+    }
+  ]
+}

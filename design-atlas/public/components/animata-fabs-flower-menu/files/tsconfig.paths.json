@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/lib/utils": [
+        "./runtime/lib/utils.js"
+      ],
+      "./flower-menu.css": [
+        "./runtime/animata/fabs/flower-menu.css"
+      ]
+    }
+  }
+}

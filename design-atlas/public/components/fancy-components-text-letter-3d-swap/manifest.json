@@ -1,0 +1,120 @@
+{
+  "id": "fancy-components-text-letter-3d-swap",
+  "revision": "f9f62c61207b2dd3210476dd98af3c9a5be24094",
+  "bundleHash": "907c98d0b4cc6ea557e9897aedee298d48806cacf0046d445b077bfcbe364909",
+  "sourceUrl": "https://github.com/danielpetho/fancy/blob/f9f62c61207b2dd3210476dd98af3c9a5be24094/src/fancy/components/text/letter-3d-swap.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "fancy/components/text/letter-3d-swap.tsx",
+  "runtimeEntry": "runtime/fancy/components/text/letter-3d-swap.jsx",
+  "author": "Daniel Petho and contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "clsx": "2.1.1",
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "fancy/components/text/letter-3d-swap.tsx",
+      "url": "/components/fancy-components-text-letter-3d-swap/files/fancy/components/text/letter-3d-swap.tsx",
+      "sha256": "3fbd19aca00e671a8b80611adf36504d2f2851b4c6d71a9f42d4dcd214d66f19",
+      "bytes": 9572,
+      "original": true
+    },
+    {
+      "path": "lib/utils.ts",
+      "url": "/components/fancy-components-text-letter-3d-swap/files/lib/utils.ts",
+      "sha256": "7f7082a8e4a8137a17d45372a67c6272dbc8eca95451cc2f4645fe866249e3f9",
+      "bytes": 266,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/fancy-components-text-letter-3d-swap/files/LICENSE.txt",
+      "sha256": "39b0d9c112b4e80383da88660cbaa64972f741e80205c14fa1b779ff1989cc09",
+      "bytes": 1069,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/fancy-components-text-letter-3d-swap/files/README.md",
+      "sha256": "6636ffe0889a0d272a445724aa73406e946debc35b2e02bf8148fc49141c32f0",
+      "bytes": 2394,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/fancy-components-text-letter-3d-swap/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/fancy-components-text-letter-3d-swap/files/tsconfig.paths.json",
+      "sha256": "27c83867eb9dc7f8e19f256cc618b0e868eedff2c838e4b1ffe46504024d1bc4",
+      "bytes": 135,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/fancy-components-text-letter-3d-swap/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/fancy/components/text/letter-3d-swap.jsx",
+      "url": "/components/fancy-components-text-letter-3d-swap/files/runtime/fancy/components/text/letter-3d-swap.jsx",
+      "sha256": "cc42b06b4ea931910d633e68a338c98122df068422a6735fc3e891e6b0a4db65",
+      "bytes": 7876,
+      "original": false
+    },
+    {
+      "path": "runtime/fancy/components/text/letter-3d-swap.d.ts",
+      "url": "/components/fancy-components-text-letter-3d-swap/files/runtime/fancy/components/text/letter-3d-swap.d.ts",
+      "sha256": "1d9f44cc96d67d52585aafe2339084feedf99d2f5c1c4543923fc40c14e339ec",
+      "bytes": 1484,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.js",
+      "url": "/components/fancy-components-text-letter-3d-swap/files/runtime/lib/utils.js",
+      "sha256": "48f050523ebf5178b90f1252df661927f52dbeaf7059016e2d08fe2d64019401",
+      "bytes": 233,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.d.ts",
+      "url": "/components/fancy-components-text-letter-3d-swap/files/runtime/lib/utils.d.ts",
+      "sha256": "81d1488dfe0263b8af75f0a7b306deb343ce4815fc3d5c21841b41d05fa4f824",
+      "bytes": 160,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/fancy-components-text-letter-3d-swap/files/Example.tsx",
+      "sha256": "777fa515316f7bebe489dd6f410090fea9d3d0787d530edad37d5193d7ca1287",
+      "bytes": 798,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/fancy-components-text-letter-3d-swap/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/fancy-components-text-letter-3d-swap/files/vite.config.fragment.mjs",
+      "sha256": "28c2f09e8f004ac6bb0e8e1872fdd3091435b6570d2789c4905d49c40f9e616b",
+      "bytes": 335,
+      "original": false
+    }
+  ]
+}

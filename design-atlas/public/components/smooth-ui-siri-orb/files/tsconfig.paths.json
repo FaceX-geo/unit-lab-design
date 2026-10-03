@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@repo/shadcn-ui/lib/utils": [
+        "./runtime/packages/shadcn-ui/lib/utils.js"
+      ],
+      "../ai-core": [
+        "./runtime/packages/smoothui/components/ai-core/index.jsx"
+      ]
+    }
+  }
+}

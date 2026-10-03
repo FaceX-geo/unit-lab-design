@@ -1,13 +1,15 @@
 {
   "id": "react-bits-iridescence",
   "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
-  "bundleHash": "72d9c7ef71640893f09b6e2859910c0d379fce245ff83c995b13c41cd43989d7",
+  "bundleHash": "07e59d9a50aa9f722c1f722d9f00deea0e69d708b6fc83a3a7a7f5d2cd34886d",
   "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Backgrounds/Iridescence/Iridescence.tsx",
   "license": "MIT + Commons Clause",
   "entry": "Example.tsx",
   "sourceEntry": "components/react-bits/Iridescence/Iridescence.tsx",
   "runtimeEntry": "runtime/components/react-bits/Iridescence/Iridescence.jsx",
   "author": "David Haz",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "ogl": "1.0.11",
     "react": "19.3.0",
@@ -38,15 +40,15 @@
     {
       "path": "README.md",
       "url": "/components/react-bits-iridescence/files/README.md",
-      "sha256": "8123cd9a09cdb71b10296ac90055ec05e71f2a6aaea7022b059c6fb9d12e8e7b",
-      "bytes": 2078,
+      "sha256": "1debc55de2c934d0f56eac39df9b395bbed95b89790533468cb7f40fbab3830d",
+      "bytes": 2353,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/react-bits-iridescence/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

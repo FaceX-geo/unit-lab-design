@@ -1,13 +1,15 @@
 {
   "id": "react-bits-hyperspeed",
   "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
-  "bundleHash": "484c97bce8c8e3e669cbfa492dad451a71e2b139739ef01ce9217214e977019a",
+  "bundleHash": "7d53f25cd8c735856f02799a0e967ddd859ada2ea8feeae45fad8eac366ebc2a",
   "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Backgrounds/Hyperspeed/Hyperspeed.tsx",
   "license": "MIT + Commons Clause",
   "entry": "Example.tsx",
   "sourceEntry": "components/react-bits/Hyperspeed/Hyperspeed.tsx",
   "runtimeEntry": "runtime/components/react-bits/Hyperspeed/Hyperspeed.jsx",
   "author": "David Haz",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "postprocessing": "6.39.5",
     "react": "19.3.0",
@@ -39,15 +41,15 @@
     {
       "path": "README.md",
       "url": "/components/react-bits-hyperspeed/files/README.md",
-      "sha256": "677168ca8da7c56539276445415a7586f41d38da87f103bdb8b2de9f78bf7107",
-      "bytes": 2102,
+      "sha256": "1ac4ec2431244c8163ae390f47727f067451d9c2dcd02817b59e00e22afb356e",
+      "bytes": 2377,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/react-bits-hyperspeed/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

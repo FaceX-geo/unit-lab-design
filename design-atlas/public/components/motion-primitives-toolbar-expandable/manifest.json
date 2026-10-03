@@ -1,13 +1,15 @@
 {
   "id": "motion-primitives-toolbar-expandable",
   "revision": "120f64f6ca60348e251f929e9c81f11ccbe45eda",
-  "bundleHash": "ce7a41b9d8337951f8fcbf069c8f7daabdb5d6139b3a5aad62a8e315745dd5f1",
+  "bundleHash": "a8f2d9985c8d1fe86c2bbdc714ed4833ec618fb4409bfdd52f28a3711bf61f12",
   "sourceUrl": "https://github.com/ibelick/motion-primitives/blob/120f64f6ca60348e251f929e9c81f11ccbe45eda/components/core/toolbar-expandable.tsx",
   "license": "MIT",
   "entry": "Example.tsx",
   "sourceEntry": "components/motion-primitives/toolbar-expandable.tsx",
   "runtimeEntry": "runtime/components/motion-primitives/toolbar-expandable.jsx",
   "author": "ibelick and contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "clsx": "2.1.1",
     "lucide-react": "0.577.0",
@@ -49,15 +51,15 @@
     {
       "path": "README.md",
       "url": "/components/motion-primitives-toolbar-expandable/files/README.md",
-      "sha256": "a1916829c166e9aa98dbbae8f73d211db98da8ce25eb9e974f7e4c476a597bb2",
-      "bytes": 2151,
+      "sha256": "35bb3054011fa3481a3f9be85e5ba785f8bb3c0e2f250dd1a6339d4e029562a0",
+      "bytes": 2426,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/motion-primitives-toolbar-expandable/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

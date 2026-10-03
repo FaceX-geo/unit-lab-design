@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { type SwitchProps as SwitchPrimitiveProps } from '@/registry/primitives/radix/switch';
+import { type SwitchProps as SwitchPrimitiveProps } from '../../primitives/radix/switch';
 type SwitchProps = SwitchPrimitiveProps & {
     pressedWidth?: number;
     startIcon?: React.ReactElement;

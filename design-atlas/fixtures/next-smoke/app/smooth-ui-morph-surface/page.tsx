@@ -1,0 +1,1 @@
+import Example from '../../../../public/components/smooth-ui-morph-surface/files/NextExample';import '../../../../public/components/smooth-ui-morph-surface/files/demo.css';export default function Page(){return <div style={{height:'100vh'}}><Example/></div>}

@@ -1,12 +1,14 @@
 {
   "id": "uiverse-adamgiebl-big-ape-36",
   "revision": "adbd2adde0a299a3956ea288fb444ec01891ca41",
-  "bundleHash": "ebd94f0889b32abea6265feb3ee5b4f7346bd7733f582c22985c6f7f882a38dd",
+  "bundleHash": "5ee95130caa065f9930380145058a74108ed92ae49e6598ae5687644c1bb3549",
   "sourceUrl": "https://uiverse.io/adamgiebl/big-ape-36",
   "license": "MIT",
   "entry": "Buttons/adamgiebl_big-ape-36.html",
   "sourceEntry": "Buttons/adamgiebl_big-ape-36.html",
   "author": "adamgiebl",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {},
   "files": [
     {
@@ -33,8 +35,8 @@
     {
       "path": "demo.css",
       "url": "/components/uiverse-adamgiebl-big-ape-36/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

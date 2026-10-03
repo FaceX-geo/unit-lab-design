@@ -1,0 +1,111 @@
+{
+  "id": "react-bits-dark-veil",
+  "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+  "bundleHash": "bd341115cea7c25c1fbb0e8235e24f1521f9722c55aa3862d3059c36c7756d6f",
+  "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Backgrounds/DarkVeil/DarkVeil.tsx",
+  "license": "MIT + Commons Clause",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/react-bits/DarkVeil/DarkVeil.tsx",
+  "runtimeEntry": "runtime/components/react-bits/DarkVeil/DarkVeil.jsx",
+  "author": "David Haz",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "ogl": "1.0.11",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/react-bits/DarkVeil/DarkVeil.tsx",
+      "url": "/components/react-bits-dark-veil/files/components/react-bits/DarkVeil/DarkVeil.tsx",
+      "sha256": "9bce74b6787aacf3c9786086d79342596476d7aeef07dc771cac3b41dc045c58",
+      "bytes": 12635,
+      "original": true
+    },
+    {
+      "path": "components/react-bits/DarkVeil/DarkVeil.css",
+      "url": "/components/react-bits-dark-veil/files/components/react-bits/DarkVeil/DarkVeil.css",
+      "sha256": "5e1658de28e5446be8d43c03d0db74a2a99798969cbdc1a921a1fecfe19f1112",
+      "bytes": 70,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/react-bits-dark-veil/files/LICENSE.txt",
+      "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+      "bytes": 1303,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/react-bits-dark-veil/files/README.md",
+      "sha256": "a606bb25fde467d9157ec65d2566401ecec0045fc927ee7e2b36b6c2c6d705d4",
+      "bytes": 2361,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/react-bits-dark-veil/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/react-bits-dark-veil/files/tsconfig.paths.json",
+      "sha256": "279b7fece65d4def98ac06b833b206c05891b073718422f986f783745fdb57b7",
+      "bytes": 169,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/react-bits-dark-veil/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/DarkVeil/DarkVeil.jsx",
+      "url": "/components/react-bits-dark-veil/files/runtime/components/react-bits/DarkVeil/DarkVeil.jsx",
+      "sha256": "2ad97c6d4d6d04f8573ffc96bf7bd3562c55c7dd4721684542487804702e6bb5",
+      "bytes": 12290,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/DarkVeil/DarkVeil.d.ts",
+      "url": "/components/react-bits-dark-veil/files/runtime/components/react-bits/DarkVeil/DarkVeil.d.ts",
+      "sha256": "b6b2b16b62cf7daec90d1ceae28474ed17fa49e3f88693b317417119f42659ef",
+      "bytes": 455,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/DarkVeil/DarkVeil.css",
+      "url": "/components/react-bits-dark-veil/files/runtime/components/react-bits/DarkVeil/DarkVeil.css",
+      "sha256": "5e1658de28e5446be8d43c03d0db74a2a99798969cbdc1a921a1fecfe19f1112",
+      "bytes": 70,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/react-bits-dark-veil/files/Example.tsx",
+      "sha256": "13fb008d710404b125e07a00e6bcd23d83b4b74e0eac827f91678394af8ab9e6",
+      "bytes": 726,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/react-bits-dark-veil/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/react-bits-dark-veil/files/vite.config.fragment.mjs",
+      "sha256": "ed21f9ac87e1afc7502fe1765f43c32fc9ef9fa164e39bc536f9310e5ffd966b",
+      "bytes": 369,
+      "original": false
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "smooth-ui-siri-orb",
+  "revision": "b6312bce2b6f2ed95d8a6e98a592857884f5ea9e",
+  "bundleHash": "57bdca173331b018de6a52433b714eb0a6cbde59fa069a6dd33dae1a0dab9531",
+  "sourceUrl": "https://github.com/educlopez/smoothui/blob/b6312bce2b6f2ed95d8a6e98a592857884f5ea9e/packages/smoothui/components/siri-orb/index.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "packages/smoothui/components/siri-orb/index.tsx",
+  "runtimeEntry": "runtime/packages/smoothui/components/siri-orb/index.jsx",
+  "author": "Eduardo Calvo and SmoothUI contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "clsx": "2.1.1",
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "packages/smoothui/components/siri-orb/index.tsx",
+      "url": "/components/smooth-ui-siri-orb/files/packages/smoothui/components/siri-orb/index.tsx",
+      "sha256": "8e81e9f0c016ef90dd8ee7397cafe164433bfabb723e836fa776f1684e1b339b",
+      "bytes": 14545,
+      "original": true
+    },
+    {
+      "path": "packages/shadcn-ui/lib/utils.ts",
+      "url": "/components/smooth-ui-siri-orb/files/packages/shadcn-ui/lib/utils.ts",
+      "sha256": "7c8c3dfc0cdd370d44932828eb067ef771c8fe7996693221d5d4b90af6d54f2d",
+      "bytes": 166,
+      "original": true
+    },
+    {
+      "path": "packages/smoothui/components/ai-core/index.tsx",
+      "url": "/components/smooth-ui-siri-orb/files/packages/smoothui/components/ai-core/index.tsx",
+      "sha256": "28b7020d185b0b013aff8e1e3075c282bc80550615ac1d757e054a978dcd7416",
+      "bytes": 11469,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/smooth-ui-siri-orb/files/LICENSE.txt",
+      "sha256": "9877f4310c0549e5ce26affe52ba97c4e60325472bdcdd308a92fccd90f119cc",
+      "bytes": 1070,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/smooth-ui-siri-orb/files/README.md",
+      "sha256": "de054795bc3934c9e21f35f316b2310193f580fbcb94ec848d210825b83a202a",
+      "bytes": 2415,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/smooth-ui-siri-orb/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/smooth-ui-siri-orb/files/tsconfig.paths.json",
+      "sha256": "e157db4580cc8b0bcb706ea9a3b9d6d3f1a954a875eb0fafcbed0892caeee19e",
+      "bytes": 266,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/smooth-ui-siri-orb/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/smoothui/components/siri-orb/index.jsx",
+      "url": "/components/smooth-ui-siri-orb/files/runtime/packages/smoothui/components/siri-orb/index.jsx",
+      "sha256": "813a50c33270a16610d20245effe75d79698ab95590277a9d967b27402d730de",
+      "bytes": 13830,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/smoothui/components/siri-orb/index.d.ts",
+      "url": "/components/smooth-ui-siri-orb/files/runtime/packages/smoothui/components/siri-orb/index.d.ts",
+      "sha256": "515a46be73d70623cc51e6cf8bf04806f24c562f44be48899bf25e5fa74fc485",
+      "bytes": 803,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/shadcn-ui/lib/utils.js",
+      "url": "/components/smooth-ui-siri-orb/files/runtime/packages/shadcn-ui/lib/utils.js",
+      "sha256": "3ed9a6b9bbfd7777c835f14ea89f45614483f1c40eeffcacaa49766125a3df10",
+      "bytes": 139,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/shadcn-ui/lib/utils.d.ts",
+      "url": "/components/smooth-ui-siri-orb/files/runtime/packages/shadcn-ui/lib/utils.d.ts",
+      "sha256": "512960c0e955a2324b34354dac25e3e4d431a1af4cd33077935eda5e95c8b7e1",
+      "bytes": 101,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/smoothui/components/ai-core/index.jsx",
+      "url": "/components/smooth-ui-siri-orb/files/runtime/packages/smoothui/components/ai-core/index.jsx",
+      "sha256": "7fde1dc42dd58279d34c1cf03368f3d185a6a8576fe0363a61f76f67c528667e",
+      "bytes": 8314,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/smoothui/components/ai-core/index.d.ts",
+      "url": "/components/smooth-ui-siri-orb/files/runtime/packages/smoothui/components/ai-core/index.d.ts",
+      "sha256": "9c4897d9135e0d2485847f842adb60212f6e14920bb2edeee3a5af3d7a249324",
+      "bytes": 5485,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/smooth-ui-siri-orb/files/Example.tsx",
+      "sha256": "904fd92fe2ae62129fa009788a764ca5dfbf7d8f17be81871ef6408a499ae731",
+      "bytes": 1120,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/smooth-ui-siri-orb/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/smooth-ui-siri-orb/files/vite.config.fragment.mjs",
+      "sha256": "d067dd0db1140c7f825a92f44d288a42a0721bbaa03e0fefd12420a8290c4961",
+      "bytes": 438,
+      "original": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "./PixelBlast.css": [
+        "./runtime/components/react-bits/PixelBlast/PixelBlast.css"
+      ]
+    }
+  }
+}

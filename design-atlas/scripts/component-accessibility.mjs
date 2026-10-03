@@ -1,5 +1,15 @@
 // Usage-specific notes; these do not claim an accessibility certification.
 export function interactionNotes(m){
+ if(m.technologies?.includes('Physics'))return{keyboard:'Физическое перетаскивание управляется мышью; клавиатурный эквивалент не реализован.',mobile:'Проверьте сенсорные жесты; симуляция использует CPU и останавливается при закрытии демо.'};
+ if(m.name==='physics/elastic-line'||m.name==='text/letter-3d-swap')return{keyboard:'Визуальный hover эффект не имеет клавиатурного эквивалента.',mobile:'Эффект наведения требует указателя; на touch остаётся статичная композиция.'};
+ if(m.name==='card-swipe-deck')return{keyboard:'Кнопки Pass / Keep / Reset доступны с Tab, Enter и Space.',mobile:'Перетаскивание карточки с порогом свайпа и инерцией.'};
+ if(m.name==='sortable-list')return{keyboard:'Флажки и удаление доступны с Tab. Перестановка оригинала выполняется указателем.',mobile:'Перетаскивание строки, отметки и удаление.'};
+ if(m.name==='button/swipe-button')return{keyboard:'Нативная кнопка: Enter / Space. Смена текста — эффект наведения.',mobile:'Касание кнопки; hover переход может отличаться.'};
+ if(m.name==='fabs/flower-menu')return{keyboard:'Enter / Space раскрывают меню, Escape закрывает; пункты доступны с Tab.',mobile:'Касание центральной кнопки раскрывает лепестки.'};
+ if(m.name==='card/card-spread')return{keyboard:'Tab / Space переключают раскладку; флажки виджетов доступны с клавиатуры.',mobile:'Касание раскрывает карточки; широкий ряд прокручивается горизонтально.'};
+ if(m.name==='file-upload')return{keyboard:'Нативный выбор файла через фокусируемое поле. Демо симулирует прогресс.',mobile:'Нативный выбор файла; перетаскивание доступно на desktop.'};
+ if(m.name==='scroll-text')return{keyboard:'Прокрутка контейнера выделяет строку; отдельный интерактивный выбор не предусмотрен.',mobile:'Вертикальная прокрутка списка текстов.'};
+ if(m.name==='card-stack')return{keyboard:'Enter / Space раскрывают и сворачивают карточки.',mobile:'Касание стопки переключает состояние.'};
  const pointerOnly=['SpotlightCard','TiltedCard','Magnet','magic-card','interactive-grid-pattern'];
  const drag=['CircularGallery','Hyperspeed','LiquidEther','globe'];
  if(pointerOnly.includes(m.name))return{keyboard:'Кнопки примера доступны с Tab; визуальный эффект следует за мышью.',mobile:'Эффект наведения ограничен на сенсорном экране.'};

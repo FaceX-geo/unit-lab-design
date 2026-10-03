@@ -1,0 +1,195 @@
+{
+  "id": "paper-shaders-warp",
+  "revision": "43cd68db79fa0b1759f72ffc941b3238e2a3954c",
+  "bundleHash": "50b73ef8723006e2fdc8c7ae9af60869bd4cba442721b81aa82069d627fa83f8",
+  "sourceUrl": "https://github.com/paper-design/shaders/blob/43cd68db79fa0b1759f72ffc941b3238e2a3954c/packages/shaders-react/src/shaders/warp.tsx",
+  "license": "Apache-2.0",
+  "entry": "Example.tsx",
+  "sourceEntry": "shaders/warp.tsx",
+  "runtimeEntry": "runtime/shaders/warp.jsx",
+  "author": "Lost Coast Labs, Inc.",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "@paper-design/shaders": "0.0.81",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "shaders/warp.tsx",
+      "url": "/components/paper-shaders-warp/files/shaders/warp.tsx",
+      "sha256": "27f1345d4abc183a46a5f8abaf451807ddb4e81cccb764d029ce9f744cfd2e6e",
+      "bytes": 4662,
+      "original": true
+    },
+    {
+      "path": "shader-mount.tsx",
+      "url": "/components/paper-shaders-warp/files/shader-mount.tsx",
+      "sha256": "804c799afea956a72f221ab1df6f78bf9a6ee35e0e0533e637c7b805ebbe2226",
+      "bytes": 7194,
+      "original": true
+    },
+    {
+      "path": "use-merge-refs.ts",
+      "url": "/components/paper-shaders-warp/files/use-merge-refs.ts",
+      "sha256": "363a8a6691f89dbf78cd184203cc1ca05ea1ac692f7fd4e39c5ffd58b80a77f3",
+      "bytes": 1624,
+      "original": true
+    },
+    {
+      "path": "set-min-image-size.tsx",
+      "url": "/components/paper-shaders-warp/files/set-min-image-size.tsx",
+      "sha256": "2a828df5a90ae3eb60eda675a86c07071e4f7a86e6592e97b323a0548f70c748",
+      "bytes": 573,
+      "original": true
+    },
+    {
+      "path": "color-props-are-equal.ts",
+      "url": "/components/paper-shaders-warp/files/color-props-are-equal.ts",
+      "sha256": "5a77a6b3ae488b15b2e41b5a85838494d69820aacc26f8d74eac670c772587b8",
+      "bytes": 987,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/paper-shaders-warp/files/LICENSE.txt",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "bytes": 11357,
+      "original": true
+    },
+    {
+      "path": "NOTICE",
+      "url": "/components/paper-shaders-warp/files/NOTICE",
+      "sha256": "c3155d6a359d9841d63f7feb4938d2c99bb4ef681fa20be1eb4bfa71307f746b",
+      "bytes": 55,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/paper-shaders-warp/files/README.md",
+      "sha256": "2cbc98344fbfd1cf5c43a533cc84a345bb430cfddbd7fa753e3a3a118312e1bc",
+      "bytes": 2360,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/paper-shaders-warp/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/paper-shaders-warp/files/tsconfig.paths.json",
+      "sha256": "a111d4f33f1e018a900b0cff745e16b6d42e279a96acf9fea02617ce8b9319b8",
+      "bytes": 404,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/paper-shaders-warp/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/shaders/warp.jsx",
+      "url": "/components/paper-shaders-warp/files/runtime/shaders/warp.jsx",
+      "sha256": "d0589cc23a575a36547faa8737c7f5820344ed095e966d5ae1dc1bee256f410f",
+      "bytes": 4705,
+      "original": false
+    },
+    {
+      "path": "runtime/shaders/warp.d.ts",
+      "url": "/components/paper-shaders-warp/files/runtime/shaders/warp.d.ts",
+      "sha256": "325c9eda18d6e766fa14c006d4c1c329f3ad8cbdc2ed7c117af113b71f7aaeed",
+      "bytes": 644,
+      "original": false
+    },
+    {
+      "path": "runtime/shader-mount.jsx",
+      "url": "/components/paper-shaders-warp/files/runtime/shader-mount.jsx",
+      "sha256": "c3633332b9e17f171cf60d5f9f38355f3e4ce029b68c98ee0ea2e13f146a1c6f",
+      "bytes": 5655,
+      "original": false
+    },
+    {
+      "path": "runtime/shader-mount.d.ts",
+      "url": "/components/paper-shaders-warp/files/runtime/shader-mount.d.ts",
+      "sha256": "d438883ea02e1c9e045f47b8a18ae014e4011d4c7ab8798b7b9f1be8b55bab20",
+      "bytes": 1744,
+      "original": false
+    },
+    {
+      "path": "runtime/use-merge-refs.js",
+      "url": "/components/paper-shaders-warp/files/runtime/use-merge-refs.js",
+      "sha256": "a7745c0aad0687766face5b17a596a507556334049864dccb9be66638f948814",
+      "bytes": 1549,
+      "original": false
+    },
+    {
+      "path": "runtime/use-merge-refs.d.ts",
+      "url": "/components/paper-shaders-warp/files/runtime/use-merge-refs.d.ts",
+      "sha256": "ae968c6042eec5dff300c9467c19fd8f84beade669059f7b684d92a23ce5617f",
+      "bytes": 298,
+      "original": false
+    },
+    {
+      "path": "runtime/set-min-image-size.jsx",
+      "url": "/components/paper-shaders-warp/files/runtime/set-min-image-size.jsx",
+      "sha256": "ca723c2573a4692e17c1979e9b17474056ef71ad93c28e6414ed4736ff87858e",
+      "bytes": 584,
+      "original": false
+    },
+    {
+      "path": "runtime/set-min-image-size.d.ts",
+      "url": "/components/paper-shaders-warp/files/runtime/set-min-image-size.d.ts",
+      "sha256": "f7edcd5686012f824af7d525483b44caa9e4104ff93f04d3b28101459fdd7079",
+      "bytes": 225,
+      "original": false
+    },
+    {
+      "path": "runtime/color-props-are-equal.js",
+      "url": "/components/paper-shaders-warp/files/runtime/color-props-are-equal.js",
+      "sha256": "1112fad688193cb46a6c620137437f31f2b3809aa090b05008331b21865a967e",
+      "bytes": 998,
+      "original": false
+    },
+    {
+      "path": "runtime/color-props-are-equal.d.ts",
+      "url": "/components/paper-shaders-warp/files/runtime/color-props-are-equal.d.ts",
+      "sha256": "d56b81ec623c476477314ecc4e17d5b9cb5698f0de661db79f54b939d2ca9935",
+      "bytes": 201,
+      "original": false
+    },
+    {
+      "path": "runtime/NOTICE",
+      "url": "/components/paper-shaders-warp/files/runtime/NOTICE",
+      "sha256": "c3155d6a359d9841d63f7feb4938d2c99bb4ef681fa20be1eb4bfa71307f746b",
+      "bytes": 55,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/paper-shaders-warp/files/Example.tsx",
+      "sha256": "1fff927714a429448c7f8df07745207fc3dae9f06c4bb7adf10257c857bb70e4",
+      "bytes": 794,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/paper-shaders-warp/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/paper-shaders-warp/files/vite.config.fragment.mjs",
+      "sha256": "d8015862527b1d60591be15fbaa0d6d8dd78c8eea3e52a9f3ca33e47a4d784ed",
+      "bytes": 520,
+      "original": false
+    }
+  ]
+}

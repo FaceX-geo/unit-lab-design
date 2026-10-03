@@ -1,0 +1,47 @@
+import * as React from 'react';
+/**
+ * Merges an array of refs into a single memoized callback ref or `null`.
+ * @see https://floating-ui.com/docs/react-utils#usemergerefs
+ */
+export function useMergeRefs(refs) {
+    const cleanupRef = React.useRef(undefined);
+    const refEffect = React.useCallback((instance) => {
+        const cleanups = refs.map((ref) => {
+            if (ref == null) {
+                return;
+            }
+            if (typeof ref === 'function') {
+                const refCallback = ref;
+                const refCleanup = refCallback(instance);
+                return typeof refCleanup === 'function'
+                    ? refCleanup
+                    : () => {
+                        refCallback(null);
+                    };
+            }
+            ref.current = instance;
+            return () => {
+                ref.current = null;
+            };
+        });
+        return () => {
+            cleanups.forEach((refCleanup) => refCleanup?.());
+        };
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, refs);
+    return React.useMemo(() => {
+        if (refs.every((ref) => ref == null)) {
+            return null;
+        }
+        return (value) => {
+            if (cleanupRef.current) {
+                cleanupRef.current();
+                cleanupRef.current = undefined;
+            }
+            if (value != null) {
+                cleanupRef.current = refEffect(value);
+            }
+        };
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, refs);
+}

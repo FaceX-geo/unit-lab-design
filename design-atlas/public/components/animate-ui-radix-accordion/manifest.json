@@ -1,13 +1,15 @@
 {
   "id": "animate-ui-radix-accordion",
   "revision": "efeb96ffd7a3b7a4868667e4ac3c346620fb3044",
-  "bundleHash": "677cce0137650a1258b773d6ba1d82854d1f350005701598021f600539be3e22",
+  "bundleHash": "41aae45f27ce7abb2b7ba6ce4fd9521702a686baaee2280ca9eba20d66c7889d",
   "sourceUrl": "https://github.com/imskyleen/animate-ui/blob/efeb96ffd7a3b7a4868667e4ac3c346620fb3044/apps/www/registry/components/radix/accordion/index.tsx",
   "license": "MIT",
   "entry": "Example.tsx",
   "sourceEntry": "components/animate-ui/components/radix/accordion.tsx",
   "runtimeEntry": "runtime/components/animate-ui/components/radix/accordion.jsx",
   "author": "Skyleen and contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "clsx": "2.1.1",
     "lucide-react": "0.577.0",
@@ -70,15 +72,15 @@
     {
       "path": "README.md",
       "url": "/components/animate-ui-radix-accordion/files/README.md",
-      "sha256": "e984517ec91b08b2508a3ee1bcbdc7e5b6c8506fc2126be9a42558bd327791d5",
-      "bytes": 2160,
+      "sha256": "5a461710926e8159af5541f7137c6caceef6a4d2cd81f834bf4da05979e02936",
+      "bytes": 2435,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/animate-ui-radix-accordion/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {
@@ -105,8 +107,8 @@
     {
       "path": "runtime/components/animate-ui/components/radix/accordion.d.ts",
       "url": "/components/animate-ui-radix-accordion/files/runtime/components/animate-ui/components/radix/accordion.d.ts",
-      "sha256": "110a5bb7a72fcc5a755188605635660b833e3c2d0be07ed3c250001742da5784",
-      "bytes": 1148,
+      "sha256": "83736112a08f18c1be025bcfac1e2c9e07f98bef334127b6d29b92b03f20c275",
+      "bytes": 1143,
       "original": false
     },
     {

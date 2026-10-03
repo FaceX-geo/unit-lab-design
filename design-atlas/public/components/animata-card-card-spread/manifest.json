@@ -1,0 +1,205 @@
+{
+  "id": "animata-card-card-spread",
+  "revision": "36674e4e9cfdc0f237693d8b736a2bf41065ca1d",
+  "bundleHash": "8c749e56fa2a0d05d66e8772139773bc2f9707e0e4d5314d97d3fa9c793bc042",
+  "sourceUrl": "https://github.com/codse/animata/blob/36674e4e9cfdc0f237693d8b736a2bf41065ca1d/animata/card/card-spread.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "animata/card/card-spread.tsx",
+  "runtimeEntry": "runtime/animata/card/card-spread.jsx",
+  "author": "codse and Animata contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "clsx": "2.1.1",
+    "react": "19.3.0",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0",
+    "tailwindcss": "4.3.3",
+    "tw-animate-css": "1.4.0"
+  },
+  "files": [
+    {
+      "path": "animata/card/card-spread.tsx",
+      "url": "/components/animata-card-card-spread/files/animata/card/card-spread.tsx",
+      "sha256": "3fdeabe7f60d419f7158495eda01b2c94a204327fdd4338b159440e348089dac",
+      "bytes": 1991,
+      "original": true
+    },
+    {
+      "path": "animata/widget/notes.tsx",
+      "url": "/components/animata-card-card-spread/files/animata/widget/notes.tsx",
+      "sha256": "12d58f91dc67d3466a9e49357759abfac05d62e6a908216e6af338ec5f0876a4",
+      "bytes": 1274,
+      "original": true
+    },
+    {
+      "path": "lib/utils.ts",
+      "url": "/components/animata-card-card-spread/files/lib/utils.ts",
+      "sha256": "5110cb256546ec57496878e69c7e8f338a0ba9caf3ac75eed9babb51dad06ecd",
+      "bytes": 538,
+      "original": true
+    },
+    {
+      "path": "animata/widget/shopping-list.tsx",
+      "url": "/components/animata-card-card-spread/files/animata/widget/shopping-list.tsx",
+      "sha256": "831c070e2b72c586e2480c7295d64adc441e93e8ea7003bb3179cc17c17d27f6",
+      "bytes": 3413,
+      "original": true
+    },
+    {
+      "path": "animata/card/card-spread.css",
+      "url": "/components/animata-card-card-spread/files/animata/card/card-spread.css",
+      "sha256": "2f22ae902334014d0cb8daa1dfde936de960c1dcc165a553f0114f244318b6ed",
+      "bytes": 5127,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/animata-card-card-spread/files/LICENSE.txt",
+      "sha256": "ff78804659cbc28380d087cae79c494f243f8ef22b1e2ac5ec119b5de9314f05",
+      "bytes": 1058,
+      "original": true
+    },
+    {
+      "path": "styles/globals.css",
+      "url": "/components/animata-card-card-spread/files/styles/globals.css",
+      "sha256": "a490dd37498d8ac594156ca5bd3b281440b7bfd1a6bc99141eeb29282dd062fc",
+      "bytes": 14800,
+      "original": true
+    },
+    {
+      "path": "animata/text/text-animator-demo.css",
+      "url": "/components/animata-card-card-spread/files/animata/text/text-animator-demo.css",
+      "sha256": "e997ed972bb73cb4ad42c156dcae5819ae1fa46304aa7dd357f1bb7fc7dfa163",
+      "bytes": 782,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/animata-card-card-spread/files/README.md",
+      "sha256": "f095a58423b7fdeb4d15457e2a9f927e2c9d1b9a18ec28ab0ade6f5c17a6473c",
+      "bytes": 2435,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/animata-card-card-spread/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/animata-card-card-spread/files/tsconfig.paths.json",
+      "sha256": "b8748fd6ede4a23521b64d9433d3ec2b9dea920b191bc43c023d2b6c8adefaed",
+      "bytes": 414,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/animata-card-card-spread/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/animata/card/card-spread.jsx",
+      "url": "/components/animata-card-card-spread/files/runtime/animata/card/card-spread.jsx",
+      "sha256": "34386ac81758a47ed5c5106a7c2fc3b5c8928fae290043c399c3a678585acc7f",
+      "bytes": 1932,
+      "original": false
+    },
+    {
+      "path": "runtime/animata/card/card-spread.d.ts",
+      "url": "/components/animata-card-card-spread/files/runtime/animata/card/card-spread.d.ts",
+      "sha256": "3263f872f8d05c16370a1cd11523de903f719df83c4da2af365c5ad3a85eba48",
+      "bytes": 95,
+      "original": false
+    },
+    {
+      "path": "runtime/animata/widget/notes.jsx",
+      "url": "/components/animata-card-card-spread/files/runtime/animata/widget/notes.jsx",
+      "sha256": "a2cd9ad6274b86519b87377106a551f64c8c77d7ad984f8454bf50995b92b70d",
+      "bytes": 950,
+      "original": false
+    },
+    {
+      "path": "runtime/animata/widget/notes.d.ts",
+      "url": "/components/animata-card-card-spread/files/runtime/animata/widget/notes.d.ts",
+      "sha256": "1548ab72efc0f04419f379f57077c6f8de0e1477499604804207f22798634b57",
+      "bytes": 454,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.js",
+      "url": "/components/animata-card-card-spread/files/runtime/lib/utils.js",
+      "sha256": "4b70245418e9f444da0b1f2558ab9c7a7aa01a916e77bfc40be7e95255bc421e",
+      "bytes": 447,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.d.ts",
+      "url": "/components/animata-card-card-spread/files/runtime/lib/utils.d.ts",
+      "sha256": "053d36fede5db8a987c33a556fac2b8eb710fdc7b0331fbc9cee96dc7aca0295",
+      "bytes": 324,
+      "original": false
+    },
+    {
+      "path": "runtime/animata/widget/shopping-list.jsx",
+      "url": "/components/animata-card-card-spread/files/runtime/animata/widget/shopping-list.jsx",
+      "sha256": "133b28621d6069d5e0cabc13b85c4603b76a83775c23b85c826914dc6aa2eb8a",
+      "bytes": 2673,
+      "original": false
+    },
+    {
+      "path": "runtime/animata/widget/shopping-list.d.ts",
+      "url": "/components/animata-card-card-spread/files/runtime/animata/widget/shopping-list.d.ts",
+      "sha256": "6fee6bf75a3608c3e757f5e23b1a34c3d375e31f7275fad8da38f2754f79eb3c",
+      "bytes": 323,
+      "original": false
+    },
+    {
+      "path": "runtime/animata/card/card-spread.css",
+      "url": "/components/animata-card-card-spread/files/runtime/animata/card/card-spread.css",
+      "sha256": "32f066b3d91e2910699cc52cd456d6c5e8b16cf2bb488703aee86da691f0be12",
+      "bytes": 6044,
+      "original": false
+    },
+    {
+      "path": "runtime/styles/globals.css",
+      "url": "/components/animata-card-card-spread/files/runtime/styles/globals.css",
+      "sha256": "a490dd37498d8ac594156ca5bd3b281440b7bfd1a6bc99141eeb29282dd062fc",
+      "bytes": 14800,
+      "original": false
+    },
+    {
+      "path": "runtime/animata/text/text-animator-demo.css",
+      "url": "/components/animata-card-card-spread/files/runtime/animata/text/text-animator-demo.css",
+      "sha256": "e997ed972bb73cb4ad42c156dcae5819ae1fa46304aa7dd357f1bb7fc7dfa163",
+      "bytes": 782,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/animata-card-card-spread/files/Example.tsx",
+      "sha256": "3c5f759e4e1c98aeccd9c496a32090cd3305dab86474379e6210908d9f564748",
+      "bytes": 545,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/animata-card-card-spread/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/animata-card-card-spread/files/vite.config.fragment.mjs",
+      "sha256": "e9d43a4afe72d4b1bb5557d24b56428778ec72c8d24bfeca1d85cf197041e196",
+      "bytes": 530,
+      "original": false
+    }
+  ]
+}

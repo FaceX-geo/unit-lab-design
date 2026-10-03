@@ -1,13 +1,15 @@
 {
   "id": "magic-ui-interactive-grid-pattern",
   "revision": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
-  "bundleHash": "44cbca04009690091663a3fb9d4e6026b8b079039b4caa5dcc8bd4e2365aed62",
+  "bundleHash": "6f01a5a1d59ea38bf9add5251d5ab04803e7aacf13f0e1c69bfe4f45b0078616",
   "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/interactive-grid-pattern.tsx",
   "license": "MIT",
   "entry": "Example.tsx",
   "sourceEntry": "components/magicui/interactive-grid-pattern.tsx",
   "runtimeEntry": "runtime/components/magicui/interactive-grid-pattern.jsx",
   "author": "Magic UI contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "clsx": "2.1.1",
     "next": "16.3.8",
@@ -48,15 +50,15 @@
     {
       "path": "README.md",
       "url": "/components/magic-ui-interactive-grid-pattern/files/README.md",
-      "sha256": "79dd412b7dbc46e0eccfa9f17cea5ffe3eb5d45c4b7c157cb400122dc9100274",
-      "bytes": 2108,
+      "sha256": "8916977da85580ee0956923c18190fafb7505e39403a212b264818758306a6bb",
+      "bytes": 2383,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/magic-ui-interactive-grid-pattern/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

@@ -1,0 +1,1 @@
+import Example from '../../../../public/components/fancy-components-text-letter-3d-swap/files/NextExample';import '../../../../public/components/fancy-components-text-letter-3d-swap/files/demo.css';export default function Page(){return <div style={{height:'100vh'}}><Example/></div>}

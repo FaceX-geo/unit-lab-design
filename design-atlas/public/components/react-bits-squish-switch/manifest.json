@@ -1,13 +1,15 @@
 {
   "id": "react-bits-squish-switch",
   "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
-  "bundleHash": "686dd3f0380a5659503b9dd04bf5f9a15fa83b99917462458f49b77c44a6fdd4",
+  "bundleHash": "4e4f3357017ace59a239036e589db0589e5cae3aaf61ecba32b69e70afb2e4b2",
   "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Micro/SquishSwitch/SquishSwitch.tsx",
   "license": "MIT + Commons Clause",
   "entry": "Example.tsx",
   "sourceEntry": "components/react-bits/SquishSwitch/SquishSwitch.tsx",
   "runtimeEntry": "runtime/components/react-bits/SquishSwitch/SquishSwitch.jsx",
   "author": "David Haz",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "motion": "14.0.0",
     "react": "19.3.0",
@@ -38,15 +40,15 @@
     {
       "path": "README.md",
       "url": "/components/react-bits-squish-switch/files/README.md",
-      "sha256": "00c9646d0eb1e2f4ead486eed61820349f98b12d8419cb82b7814630ee189ecd",
-      "bytes": 2074,
+      "sha256": "432e1d9f2ec174e5d9fd11cfed8fbb6018de79c8315f52a1b8eecfa4748ab836",
+      "bytes": 2349,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/react-bits-squish-switch/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

@@ -1,13 +1,15 @@
 {
   "id": "magic-ui-animated-list",
   "revision": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
-  "bundleHash": "88162ef3d77dbe5e1b1d130226d8cf6c9339c1afb3d421295aa3ff9e5369bfe0",
+  "bundleHash": "a575030e75a02a004bbc856c01cb8370b5f27e3e87b164a7bf638f6055045f3e",
   "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/animated-list.tsx",
   "license": "MIT",
   "entry": "Example.tsx",
   "sourceEntry": "components/magicui/animated-list.tsx",
   "runtimeEntry": "runtime/components/magicui/animated-list.jsx",
   "author": "Magic UI contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "clsx": "2.1.1",
     "motion": "14.0.0",
@@ -49,15 +51,15 @@
     {
       "path": "README.md",
       "url": "/components/magic-ui-animated-list/files/README.md",
-      "sha256": "5d5f6cdacf29248fa70f1905f26c0912553b70e18c6e1c1f6212cc3417254a9c",
-      "bytes": 2122,
+      "sha256": "f2b597a5be49238e05403569d19a3cff0f2fbce4df00cae895190a0bbcf76d43",
+      "bytes": 2397,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/magic-ui-animated-list/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

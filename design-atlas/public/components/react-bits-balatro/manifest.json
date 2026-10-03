@@ -1,0 +1,111 @@
+{
+  "id": "react-bits-balatro",
+  "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+  "bundleHash": "5026695d6bb0f25c7a3a72f37985d1438e2058e24ee1fc31fc9faf5cbb21c0ee",
+  "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Backgrounds/Balatro/Balatro.tsx",
+  "license": "MIT + Commons Clause",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/react-bits/Balatro/Balatro.tsx",
+  "runtimeEntry": "runtime/components/react-bits/Balatro/Balatro.jsx",
+  "author": "David Haz",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "ogl": "1.0.11",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/react-bits/Balatro/Balatro.tsx",
+      "url": "/components/react-bits-balatro/files/components/react-bits/Balatro/Balatro.tsx",
+      "sha256": "64e9f158dd9b97a3d827e59c5d5d2b5176767ad182fb7a250e694490224b535e",
+      "bytes": 6668,
+      "original": true
+    },
+    {
+      "path": "components/react-bits/Balatro/Balatro.css",
+      "url": "/components/react-bits-balatro/files/components/react-bits/Balatro/Balatro.css",
+      "sha256": "c3898c6efafc3058b4605009a280b32f7ca56389c245a85634afc161cbcc3ab2",
+      "bytes": 54,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/react-bits-balatro/files/LICENSE.txt",
+      "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+      "bytes": 1303,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/react-bits-balatro/files/README.md",
+      "sha256": "3a871772229ff581a73a29783849fc3022e2d0ebcd66e224f0b93ffc95a9cb38",
+      "bytes": 2338,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/react-bits-balatro/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/react-bits-balatro/files/tsconfig.paths.json",
+      "sha256": "f2252bc7c6fbcf3c61716d9896ffd123b53fb4e4dd637dc7bca4902b7ef8d3fe",
+      "bytes": 166,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/react-bits-balatro/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/Balatro/Balatro.jsx",
+      "url": "/components/react-bits-balatro/files/runtime/components/react-bits/Balatro/Balatro.jsx",
+      "sha256": "ab2a8cd7902a9a362f2165f1ef01ecf2aebdd1255e12ffd19bdf1d93618616b2",
+      "bytes": 6678,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/Balatro/Balatro.d.ts",
+      "url": "/components/react-bits-balatro/files/runtime/components/react-bits/Balatro/Balatro.d.ts",
+      "sha256": "9f9b4b3a3249b4074fbbf4cc34839a5df16dd699192ace51b2f06b3d2061ca0d",
+      "bytes": 603,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/Balatro/Balatro.css",
+      "url": "/components/react-bits-balatro/files/runtime/components/react-bits/Balatro/Balatro.css",
+      "sha256": "c3898c6efafc3058b4605009a280b32f7ca56389c245a85634afc161cbcc3ab2",
+      "bytes": 54,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/react-bits-balatro/files/Example.tsx",
+      "sha256": "5c6c39f248e1729bbbbacf87786cd75a796eb0404a60cd2032ac4cbb3ad2fae5",
+      "bytes": 771,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/react-bits-balatro/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/react-bits-balatro/files/vite.config.fragment.mjs",
+      "sha256": "950a455a55bf0332cea3d9fb98908f58e7c5563437d5d83ce16dde63ef4790b4",
+      "bytes": 366,
+      "original": false
+    }
+  ]
+}

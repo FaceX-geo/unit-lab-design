@@ -1,13 +1,15 @@
 {
   "id": "react-bits-magnet",
   "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
-  "bundleHash": "62e25823becb0f9c5bba9f8a6be6a4e78d0b52deafe1e8e94d5e154bfb1b2e99",
+  "bundleHash": "25a5622d97c2ac19b457a00b237289415a0f5d812a8b05390825a22d2d0d86c8",
   "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Animations/Magnet/Magnet.tsx",
   "license": "MIT + Commons Clause",
   "entry": "Example.tsx",
   "sourceEntry": "components/react-bits/Magnet/Magnet.tsx",
   "runtimeEntry": "runtime/components/react-bits/Magnet/Magnet.jsx",
   "author": "David Haz",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "react": "19.3.0",
     "react-dom": "19.3.0"
@@ -30,15 +32,15 @@
     {
       "path": "README.md",
       "url": "/components/react-bits-magnet/files/README.md",
-      "sha256": "dfce5c199b8f209f143719ec3352b188506356507cbb2153aea23f7881a438d6",
-      "bytes": 2036,
+      "sha256": "e3f38d3f128ab526cba758971d7af10278f2afc061ac7d619f5d2cd83a72d009",
+      "bytes": 2311,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/react-bits-magnet/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

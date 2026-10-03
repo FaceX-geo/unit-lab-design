@@ -1,0 +1,121 @@
+{
+  "id": "kokonut-ui-smooth-tab",
+  "revision": "83eec6d982d400a18438001a8efdbac1f159dd43",
+  "bundleHash": "fe376e534e9c9b11780d248ed48720bd2750c0987b80163c7bfa1e191637ded9",
+  "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/smooth-tab.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/kokonutui/smooth-tab.tsx",
+  "runtimeEntry": "runtime/components/kokonutui/smooth-tab.jsx",
+  "author": "Dorian Baffier and Kokonut UI contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "clsx": "2.1.1",
+    "lucide-react": "0.577.0",
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/kokonutui/smooth-tab.tsx",
+      "url": "/components/kokonut-ui-smooth-tab/files/components/kokonutui/smooth-tab.tsx",
+      "sha256": "bb2fc18f312519c009418151a26ea925ad57dcfb2b48e0a1733e66c715f7ea74",
+      "bytes": 9901,
+      "original": true
+    },
+    {
+      "path": "lib/utils.ts",
+      "url": "/components/kokonut-ui-smooth-tab/files/lib/utils.ts",
+      "sha256": "4acbc7165a8d54738ff62b51414e772c08fe78434e524e6d8770180d3ba2925f",
+      "bytes": 169,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/kokonut-ui-smooth-tab/files/LICENSE.txt",
+      "sha256": "b2e018ad1fd564608cc1ee0c2ad675ce5202c8ed9f5f68e6d09e7b6bc881d5d2",
+      "bytes": 1066,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/kokonut-ui-smooth-tab/files/README.md",
+      "sha256": "11e1a212aefd9c3a37dc1f1d9ffa572bcf92e58f8a70abb8228c192419b8518f",
+      "bytes": 2441,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/kokonut-ui-smooth-tab/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/kokonut-ui-smooth-tab/files/tsconfig.paths.json",
+      "sha256": "27c83867eb9dc7f8e19f256cc618b0e868eedff2c838e4b1ffe46504024d1bc4",
+      "bytes": 135,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/kokonut-ui-smooth-tab/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/kokonutui/smooth-tab.jsx",
+      "url": "/components/kokonut-ui-smooth-tab/files/runtime/components/kokonutui/smooth-tab.jsx",
+      "sha256": "f7b3ed85b144d6620cd8a613db433a23c55f7eab4d71dd74f9bf1ad5e5a7efd9",
+      "bytes": 8214,
+      "original": false
+    },
+    {
+      "path": "runtime/components/kokonutui/smooth-tab.d.ts",
+      "url": "/components/kokonut-ui-smooth-tab/files/runtime/components/kokonutui/smooth-tab.d.ts",
+      "sha256": "1d34e71653bc0a77c7024d8b195881aee994bf934ac82f66c5c4590971af6198",
+      "bytes": 790,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.js",
+      "url": "/components/kokonut-ui-smooth-tab/files/runtime/lib/utils.js",
+      "sha256": "3ed9a6b9bbfd7777c835f14ea89f45614483f1c40eeffcacaa49766125a3df10",
+      "bytes": 139,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.d.ts",
+      "url": "/components/kokonut-ui-smooth-tab/files/runtime/lib/utils.d.ts",
+      "sha256": "512960c0e955a2324b34354dac25e3e4d431a1af4cd33077935eda5e95c8b7e1",
+      "bytes": 101,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/kokonut-ui-smooth-tab/files/Example.tsx",
+      "sha256": "48310dcedd2d98e24a50e8c81959855eeeb598d2c5a3a811d8f9b864d48bbff9",
+      "bytes": 1304,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/kokonut-ui-smooth-tab/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/kokonut-ui-smooth-tab/files/vite.config.fragment.mjs",
+      "sha256": "28c2f09e8f004ac6bb0e8e1872fdd3091435b6570d2789c4905d49c40f9e616b",
+      "bytes": 335,
+      "original": false
+    }
+  ]
+}

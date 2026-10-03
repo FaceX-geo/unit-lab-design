@@ -1,13 +1,15 @@
 {
   "id": "react-bits-decrypted-text",
   "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
-  "bundleHash": "0f205de468d19169306f3f19d7abda4a634de7034d751c520c469c14e5cbd836",
+  "bundleHash": "54455f2fbe0bd94fd9061ce1d5d30b890c94eaef5c638b4baffb01a40f842bdb",
   "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/TextAnimations/DecryptedText/DecryptedText.tsx",
   "license": "MIT + Commons Clause",
   "entry": "Example.tsx",
   "sourceEntry": "components/react-bits/DecryptedText/DecryptedText.tsx",
   "runtimeEntry": "runtime/components/react-bits/DecryptedText/DecryptedText.jsx",
   "author": "David Haz",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "motion": "14.0.0",
     "react": "19.3.0",
@@ -31,15 +33,15 @@
     {
       "path": "README.md",
       "url": "/components/react-bits-decrypted-text/files/README.md",
-      "sha256": "86de76442b3fd48b47c7be274020d060fd1ba5b6e702b64b9334628bf7507931",
-      "bytes": 2086,
+      "sha256": "ea2a0ff1b3f8ebb543aff905f5e81cdb8cfab84bab8afc1917684c5657b0add4",
+      "bytes": 2361,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/react-bits-decrypted-text/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

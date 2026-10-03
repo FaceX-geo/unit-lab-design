@@ -1,13 +1,15 @@
 {
   "id": "motion-primitives-transition-panel",
   "revision": "120f64f6ca60348e251f929e9c81f11ccbe45eda",
-  "bundleHash": "b2c00fcb428769695f81e853399ef64b3fd213da9f8cd70c9a21376c8f2fdde0",
+  "bundleHash": "4e6e11c49f8f1b6244f4923095dfc63e4fc2bf6b5cfbf5939114622dc9080eb0",
   "sourceUrl": "https://github.com/ibelick/motion-primitives/blob/120f64f6ca60348e251f929e9c81f11ccbe45eda/components/core/transition-panel.tsx",
   "license": "MIT",
   "entry": "Example.tsx",
   "sourceEntry": "components/motion-primitives/transition-panel.tsx",
   "runtimeEntry": "runtime/components/motion-primitives/transition-panel.jsx",
   "author": "ibelick and contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "clsx": "2.1.1",
     "motion": "14.0.0",
@@ -40,15 +42,15 @@
     {
       "path": "README.md",
       "url": "/components/motion-primitives-transition-panel/files/README.md",
-      "sha256": "d3e910883bfb4836eadb915b11c6c4d7bd907bd6d7a516d71b184845f81bc320",
-      "bytes": 2110,
+      "sha256": "cad166c3ab5df0d6574ff18d4c728847d9cb8344f87adee239f0a74cdd8a2271",
+      "bytes": 2385,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/motion-primitives-transition-panel/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

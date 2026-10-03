@@ -1,0 +1,168 @@
+{
+  "id": "fancy-components-physics-gravity",
+  "revision": "f9f62c61207b2dd3210476dd98af3c9a5be24094",
+  "bundleHash": "9de4b4b7e24afe6fa537633620361efe37ec4c6a718cb29f8c2739918c04a5f8",
+  "sourceUrl": "https://github.com/danielpetho/fancy/blob/f9f62c61207b2dd3210476dd98af3c9a5be24094/src/fancy/components/physics/gravity.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "fancy/components/physics/gravity.tsx",
+  "runtimeEntry": "runtime/fancy/components/physics/gravity.jsx",
+  "author": "Daniel Petho and contributors",
+  "typeDependencies": {
+    "@types/matter-js": "0.20.2",
+    "@types/lodash": "4.17.25"
+  },
+  "previewAliases": {},
+  "dependencies": {
+    "clsx": "2.1.1",
+    "lodash": "4.18.1",
+    "matter-js": "0.20.0",
+    "react": "19.3.0",
+    "svg-path-commander": "2.3.3",
+    "tailwind-merge": "3.7.0",
+    "poly-decomp": "0.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "fancy/components/physics/gravity.tsx",
+      "url": "/components/fancy-components-physics-gravity/files/fancy/components/physics/gravity.tsx",
+      "sha256": "5995f65c4716cbaca3b70f06c084edbd1d0fbf356c596b851479870a1f57ef65",
+      "bytes": 13021,
+      "original": true
+    },
+    {
+      "path": "utils/calculate-position.ts",
+      "url": "/components/fancy-components-physics-gravity/files/utils/calculate-position.ts",
+      "sha256": "cb9d64ac050281e75bced5225d03fd6a2547de9584807fa95adba0d0e4b11836",
+      "bytes": 504,
+      "original": true
+    },
+    {
+      "path": "utils/svg-path-to-vertices.ts",
+      "url": "/components/fancy-components-physics-gravity/files/utils/svg-path-to-vertices.ts",
+      "sha256": "044a0500cacff7891f777b3f94f39d038387b2a21350f934338954a28dc4dcff",
+      "bytes": 1095,
+      "original": true
+    },
+    {
+      "path": "lib/utils.ts",
+      "url": "/components/fancy-components-physics-gravity/files/lib/utils.ts",
+      "sha256": "7f7082a8e4a8137a17d45372a67c6272dbc8eca95451cc2f4645fe866249e3f9",
+      "bytes": 266,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/fancy-components-physics-gravity/files/LICENSE.txt",
+      "sha256": "39b0d9c112b4e80383da88660cbaa64972f741e80205c14fa1b779ff1989cc09",
+      "bytes": 1069,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/fancy-components-physics-gravity/files/README.md",
+      "sha256": "c1ddaeddd9aeaf168f449e44856638757ef608d2c0dd292a58febbd845a534ae",
+      "bytes": 2539,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/fancy-components-physics-gravity/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/fancy-components-physics-gravity/files/tsconfig.paths.json",
+      "sha256": "693cb51112626cc489914ffa983c8adb2a97a25473612669b8a3ae94983b450d",
+      "bytes": 329,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/fancy-components-physics-gravity/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/fancy/components/physics/gravity.jsx",
+      "url": "/components/fancy-components-physics-gravity/files/runtime/fancy/components/physics/gravity.jsx",
+      "sha256": "cc465ff6b38f0d8e996d43925d95a98815cd64b4207caf84d205c5db4a823992",
+      "bytes": 12780,
+      "original": false
+    },
+    {
+      "path": "runtime/fancy/components/physics/gravity.d.ts",
+      "url": "/components/fancy-components-physics-gravity/files/runtime/fancy/components/physics/gravity.d.ts",
+      "sha256": "75e7e85993361b82078e242834573ffffb417476e8b2d30358d72788bea7ea88",
+      "bytes": 1058,
+      "original": false
+    },
+    {
+      "path": "runtime/utils/calculate-position.js",
+      "url": "/components/fancy-components-physics-gravity/files/runtime/utils/calculate-position.js",
+      "sha256": "ba67d4b5a1c6b54d3af0e0e1f57f754da80b812d74ec31d524ceb1ff90404131",
+      "bytes": 473,
+      "original": false
+    },
+    {
+      "path": "runtime/utils/calculate-position.d.ts",
+      "url": "/components/fancy-components-physics-gravity/files/runtime/utils/calculate-position.d.ts",
+      "sha256": "63fee6b80c18b227bc6cf98f66b9889909801f5af1f6b119456cd171259b72ba",
+      "bytes": 131,
+      "original": false
+    },
+    {
+      "path": "runtime/utils/svg-path-to-vertices.js",
+      "url": "/components/fancy-components-physics-gravity/files/runtime/utils/svg-path-to-vertices.js",
+      "sha256": "7509a7b4a44573c41dd8be7a37cf45a5f6cf4ac9d46692eae87e7513898249e3",
+      "bytes": 1094,
+      "original": false
+    },
+    {
+      "path": "runtime/utils/svg-path-to-vertices.d.ts",
+      "url": "/components/fancy-components-physics-gravity/files/runtime/utils/svg-path-to-vertices.d.ts",
+      "sha256": "a9f58ed55b979de6732700433fa404a43ae73214e257717f391c108358e6c99b",
+      "bytes": 119,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.js",
+      "url": "/components/fancy-components-physics-gravity/files/runtime/lib/utils.js",
+      "sha256": "48f050523ebf5178b90f1252df661927f52dbeaf7059016e2d08fe2d64019401",
+      "bytes": 233,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.d.ts",
+      "url": "/components/fancy-components-physics-gravity/files/runtime/lib/utils.d.ts",
+      "sha256": "81d1488dfe0263b8af75f0a7b306deb343ce4815fc3d5c21841b41d05fa4f824",
+      "bytes": 160,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/fancy-components-physics-gravity/files/Example.tsx",
+      "sha256": "c546ac7c74ab44784583f74447da3cb2b74e13237f93e02af87f17286376bdc3",
+      "bytes": 1056,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/fancy-components-physics-gravity/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/fancy-components-physics-gravity/files/vite.config.fragment.mjs",
+      "sha256": "05842aa29314963aa741b0cdca79ee2ab9dc2f33963418c1eb418c7abb8d36ce",
+      "bytes": 473,
+      "original": false
+    }
+  ]
+}

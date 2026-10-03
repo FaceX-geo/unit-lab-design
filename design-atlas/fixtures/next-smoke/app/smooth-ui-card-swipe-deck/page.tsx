@@ -1,0 +1,1 @@
+import Example from '../../../../public/components/smooth-ui-card-swipe-deck/files/NextExample';import '../../../../public/components/smooth-ui-card-swipe-deck/files/demo.css';export default function Page(){return <div style={{height:'100vh'}}><Example/></div>}

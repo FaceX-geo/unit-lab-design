@@ -1,0 +1,173 @@
+{
+  "id": "kokonut-ui-liquid-glass-card",
+  "revision": "83eec6d982d400a18438001a8efdbac1f159dd43",
+  "bundleHash": "527ebd62ed5b681ae87bb745ce278b3759db96119ad339588ea2e973a301c546",
+  "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/liquid-glass-card.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/kokonutui/liquid-glass-card.tsx",
+  "runtimeEntry": "runtime/components/kokonutui/liquid-glass-card.jsx",
+  "author": "Dorian Baffier and Kokonut UI contributors",
+  "typeDependencies": {},
+  "previewAliases": {
+    "next/image": "atlas-adapters/next-image.jsx"
+  },
+  "dependencies": {
+    "@radix-ui/react-slot": "1.3.3",
+    "class-variance-authority": "0.7.1",
+    "clsx": "2.1.1",
+    "lucide-react": "0.577.0",
+    "react": "19.3.0",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/kokonutui/liquid-glass-card.tsx",
+      "url": "/components/kokonut-ui-liquid-glass-card/files/components/kokonutui/liquid-glass-card.tsx",
+      "sha256": "483feb7ef3ef441a42ce665e6cdba123313385b2c572087b4dfadaadc429b962",
+      "bytes": 14433,
+      "original": true
+    },
+    {
+      "path": "components/ui/button.tsx",
+      "url": "/components/kokonut-ui-liquid-glass-card/files/components/ui/button.tsx",
+      "sha256": "2fdef8458b757f74223a91853177581f2c97b2ee1b62623bed9fe50726629b38",
+      "bytes": 2276,
+      "original": true
+    },
+    {
+      "path": "lib/utils.ts",
+      "url": "/components/kokonut-ui-liquid-glass-card/files/lib/utils.ts",
+      "sha256": "4acbc7165a8d54738ff62b51414e772c08fe78434e524e6d8770180d3ba2925f",
+      "bytes": 169,
+      "original": true
+    },
+    {
+      "path": "components/ui/card.tsx",
+      "url": "/components/kokonut-ui-liquid-glass-card/files/components/ui/card.tsx",
+      "sha256": "8ad48eec6eae8d9da55463d926989c036478ec811d18f690b415159e86f0aa7a",
+      "bytes": 1963,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/kokonut-ui-liquid-glass-card/files/LICENSE.txt",
+      "sha256": "b2e018ad1fd564608cc1ee0c2ad675ce5202c8ed9f5f68e6d09e7b6bc881d5d2",
+      "bytes": 1066,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/kokonut-ui-liquid-glass-card/files/README.md",
+      "sha256": "f3c8228e6b472a0f811972f7a2c60c1a1d1a61ce553aae13687a84f2cb4d444c",
+      "bytes": 2646,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/kokonut-ui-liquid-glass-card/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/kokonut-ui-liquid-glass-card/files/tsconfig.paths.json",
+      "sha256": "57d7fd14dd26d64cbf899beb5fac0555853c47ab6d82e1f1deeafa88d0de5edb",
+      "bytes": 307,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/kokonut-ui-liquid-glass-card/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/kokonutui/liquid-glass-card.jsx",
+      "url": "/components/kokonut-ui-liquid-glass-card/files/runtime/components/kokonutui/liquid-glass-card.jsx",
+      "sha256": "885efc08ede4c0c5918f1e860ea28e0b13aeba388a66bc210ad25304e14aa32b",
+      "bytes": 12504,
+      "original": false
+    },
+    {
+      "path": "runtime/components/kokonutui/liquid-glass-card.d.ts",
+      "url": "/components/kokonut-ui-liquid-glass-card/files/runtime/components/kokonutui/liquid-glass-card.d.ts",
+      "sha256": "80aecf887f7640921ee151267b245bd88cae4fd212238b1227369100b7cdf335",
+      "bytes": 1330,
+      "original": false
+    },
+    {
+      "path": "runtime/components/ui/button.jsx",
+      "url": "/components/kokonut-ui-liquid-glass-card/files/runtime/components/ui/button.jsx",
+      "sha256": "b1622809d4e2ed1b8d6f7c652a313b7e1e15223e24de59499c8b6ce252207bc9",
+      "bytes": 2014,
+      "original": false
+    },
+    {
+      "path": "runtime/components/ui/button.d.ts",
+      "url": "/components/kokonut-ui-liquid-glass-card/files/runtime/components/ui/button.d.ts",
+      "sha256": "86234e9662c5ed091ebe8dde0debf36ab6a542ed559f70d62e48d1cd4ee25f5c",
+      "bytes": 624,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.js",
+      "url": "/components/kokonut-ui-liquid-glass-card/files/runtime/lib/utils.js",
+      "sha256": "3ed9a6b9bbfd7777c835f14ea89f45614483f1c40eeffcacaa49766125a3df10",
+      "bytes": 139,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.d.ts",
+      "url": "/components/kokonut-ui-liquid-glass-card/files/runtime/lib/utils.d.ts",
+      "sha256": "512960c0e955a2324b34354dac25e3e4d431a1af4cd33077935eda5e95c8b7e1",
+      "bytes": 101,
+      "original": false
+    },
+    {
+      "path": "runtime/components/ui/card.jsx",
+      "url": "/components/kokonut-ui-liquid-glass-card/files/runtime/components/ui/card.jsx",
+      "sha256": "bb2a8eca6c46f493743cc190b2ad093df53bc7b8d506fc0e3f7af08edd069b6b",
+      "bytes": 1447,
+      "original": false
+    },
+    {
+      "path": "runtime/components/ui/card.d.ts",
+      "url": "/components/kokonut-ui-liquid-glass-card/files/runtime/components/ui/card.d.ts",
+      "sha256": "8fc67ddd42c820c7ce9d330fd429fbf2da5362b5424f80c2a5f3244f5f50f6c5",
+      "bytes": 924,
+      "original": false
+    },
+    {
+      "path": "atlas-adapters/next-image.jsx",
+      "url": "/components/kokonut-ui-liquid-glass-card/files/atlas-adapters/next-image.jsx",
+      "sha256": "12366a06ce29c847ff0161a369e1558514084e74e10da14e1d767a1b5a9d3dab",
+      "bytes": 436,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/kokonut-ui-liquid-glass-card/files/Example.tsx",
+      "sha256": "e8bfa2bd5b3f532633ebdf54c25940408adfcb11b40b76eaee16a27f890c6a1a",
+      "bytes": 993,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/kokonut-ui-liquid-glass-card/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/kokonut-ui-liquid-glass-card/files/vite.config.fragment.mjs",
+      "sha256": "fba5b64d6eea1b962a4d79a9b02a4274fdd78a47f3d567b11953f71edef8aa52",
+      "bytes": 496,
+      "original": false
+    }
+  ]
+}

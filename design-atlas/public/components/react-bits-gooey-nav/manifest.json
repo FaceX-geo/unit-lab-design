@@ -1,13 +1,15 @@
 {
   "id": "react-bits-gooey-nav",
   "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
-  "bundleHash": "d9aa4c45305e4ee494209b6c8b4ea8d9900c562dadeccd180c6eb2fad2e50ed3",
+  "bundleHash": "a0696b8ee29d52ed28862d6381d49ce7934fce49f84d167dcc6ff32ceb17bb2b",
   "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Components/GooeyNav/GooeyNav.tsx",
   "license": "MIT + Commons Clause",
   "entry": "Example.tsx",
   "sourceEntry": "components/react-bits/GooeyNav/GooeyNav.tsx",
   "runtimeEntry": "runtime/components/react-bits/GooeyNav/GooeyNav.jsx",
   "author": "David Haz",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "react": "19.3.0",
     "react-dom": "19.3.0"
@@ -37,15 +39,15 @@
     {
       "path": "README.md",
       "url": "/components/react-bits-gooey-nav/files/README.md",
-      "sha256": "57d2e9abbecc04824d0e391824de29d9de25f7ae1f0a839d62f1b0d062fae161",
-      "bytes": 2054,
+      "sha256": "93f3a95c8739dde4de0d3f64509eaa3555b921d4a82de080966abc4e3d9e5ada",
+      "bytes": 2329,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/react-bits-gooey-nav/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

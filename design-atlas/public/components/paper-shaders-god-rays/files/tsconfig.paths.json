@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "../shader-mount.js": [
+        "./runtime/shader-mount.jsx"
+      ],
+      "./use-merge-refs.js": [
+        "./runtime/use-merge-refs.js"
+      ],
+      "./set-min-image-size.js": [
+        "./runtime/set-min-image-size.jsx"
+      ],
+      "../color-props-are-equal.js": [
+        "./runtime/color-props-are-equal.js"
+      ]
+    }
+  }
+}

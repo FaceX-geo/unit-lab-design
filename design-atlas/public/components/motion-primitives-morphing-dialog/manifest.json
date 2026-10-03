@@ -1,13 +1,15 @@
 {
   "id": "motion-primitives-morphing-dialog",
   "revision": "120f64f6ca60348e251f929e9c81f11ccbe45eda",
-  "bundleHash": "45175ac5697d1a9e7d62aaeeb4ecb969f760a36c3ce43653bbd29062140ef4b6",
+  "bundleHash": "f716a28f102394171ed9e69bd2c9da59ea8061b9bdf233c3bfadfea10ae50e2d",
   "sourceUrl": "https://github.com/ibelick/motion-primitives/blob/120f64f6ca60348e251f929e9c81f11ccbe45eda/components/core/morphing-dialog.tsx",
   "license": "MIT",
   "entry": "Example.tsx",
   "sourceEntry": "components/motion-primitives/morphing-dialog.tsx",
   "runtimeEntry": "runtime/components/motion-primitives/morphing-dialog.jsx",
   "author": "ibelick and contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "clsx": "2.1.1",
     "lucide-react": "0.577.0",
@@ -48,15 +50,15 @@
     {
       "path": "README.md",
       "url": "/components/motion-primitives-morphing-dialog/files/README.md",
-      "sha256": "4c8ea7b377fd9ffa9801d05ceb29bdba699f1da91212ac9e0aaef9fb2b887225",
-      "bytes": 2124,
+      "sha256": "108478c9f6ee421d4b8f949f0da3b520762f19f3b15c4d8153b73f7f875ac154",
+      "bytes": 2399,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/motion-primitives-morphing-dialog/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

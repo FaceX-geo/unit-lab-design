@@ -1,13 +1,15 @@
 {
   "id": "react-bits-aurora",
   "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
-  "bundleHash": "ec2dc0a527a781ae774827e9faa7c60ddd354ba4c6d4f35dd8f6bb5a393e44bc",
+  "bundleHash": "0f46dc9d85df4ea19abb64f52039254cfb8135710bdef55e9ab553a45a8f5bd0",
   "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Backgrounds/Aurora/Aurora.tsx",
   "license": "MIT + Commons Clause",
   "entry": "Example.tsx",
   "sourceEntry": "components/react-bits/Aurora/Aurora.tsx",
   "runtimeEntry": "runtime/components/react-bits/Aurora/Aurora.jsx",
   "author": "David Haz",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "ogl": "1.0.11",
     "react": "19.3.0",
@@ -38,15 +40,15 @@
     {
       "path": "README.md",
       "url": "/components/react-bits-aurora/files/README.md",
-      "sha256": "8366e68347d103b93b21df795ee9b6f7a39fe99dd4f74e655f94843a18ab08e4",
-      "bytes": 2025,
+      "sha256": "cf57ac4ea70dd012563b6e3df2e4222c72fad5281a71b313c58f8f542c3682e6",
+      "bytes": 2300,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/react-bits-aurora/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

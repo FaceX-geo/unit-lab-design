@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { type AccordionProps as AccordionPrimitiveProps, type AccordionItemProps as AccordionItemPrimitiveProps, type AccordionTriggerProps as AccordionTriggerPrimitiveProps, type AccordionContentProps as AccordionContentPrimitiveProps } from '@/registry/primitives/radix/accordion';
+import { type AccordionProps as AccordionPrimitiveProps, type AccordionItemProps as AccordionItemPrimitiveProps, type AccordionTriggerProps as AccordionTriggerPrimitiveProps, type AccordionContentProps as AccordionContentPrimitiveProps } from '../../primitives/radix/accordion';
 type AccordionProps = AccordionPrimitiveProps;
 declare function Accordion(props: AccordionProps): React.JSX.Element;
 type AccordionItemProps = AccordionItemPrimitiveProps;

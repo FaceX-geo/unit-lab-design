@@ -1,13 +1,15 @@
 {
   "id": "react-bits-blur-text",
   "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
-  "bundleHash": "9f34945ad0b1e5aea4d1dfee0ac3248d2e68e55311682982a99482960091080e",
+  "bundleHash": "51dcabb95e2d07cdb9ab2ccbdc553075e1890e4b11c48b8fcd67b6f22544a3c2",
   "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/TextAnimations/BlurText/BlurText.tsx",
   "license": "MIT + Commons Clause",
   "entry": "Example.tsx",
   "sourceEntry": "components/react-bits/BlurText/BlurText.tsx",
   "runtimeEntry": "runtime/components/react-bits/BlurText/BlurText.jsx",
   "author": "David Haz",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "motion": "14.0.0",
     "react": "19.3.0",
@@ -31,15 +33,15 @@
     {
       "path": "README.md",
       "url": "/components/react-bits-blur-text/files/README.md",
-      "sha256": "8c6c22578ef7303f48c751217445cd954a3d82dcb0c7b2874c32cdae7a9d8530",
-      "bytes": 2072,
+      "sha256": "a405b2054ea8f2228f4baf4b40dd224a461a711ae245d7dbf201cd337be79c48",
+      "bytes": 2347,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/react-bits-blur-text/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

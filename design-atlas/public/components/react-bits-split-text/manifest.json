@@ -1,13 +1,15 @@
 {
   "id": "react-bits-split-text",
   "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
-  "bundleHash": "fe3f65d2a39202fbcccd96b964b693d75adcc8b59eb9233b4149b62451ff4ff6",
+  "bundleHash": "94521ae46171bedc1ecc1e2d9916ab29fdd1abd6f04e3669266f29d13153616a",
   "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/TextAnimations/SplitText/SplitText.tsx",
   "license": "MIT + Commons Clause",
   "entry": "Example.tsx",
   "sourceEntry": "components/react-bits/SplitText/SplitText.tsx",
   "runtimeEntry": "runtime/components/react-bits/SplitText/SplitText.jsx",
   "author": "David Haz",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "@gsap/react": "2.1.2",
     "gsap": "3.15.0",
@@ -32,15 +34,15 @@
     {
       "path": "README.md",
       "url": "/components/react-bits-split-text/files/README.md",
-      "sha256": "156ee7661ce451a5c1a32e8163536a41336557a269402248edf0cde0489e0085",
-      "bytes": 2116,
+      "sha256": "ee435180d0f23c243a635e6aaec77047b13bf9fdc2584386d0d262859cce1cb0",
+      "bytes": 2391,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/react-bits-split-text/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

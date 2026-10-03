@@ -1,13 +1,15 @@
 {
   "id": "magic-ui-globe",
   "revision": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
-  "bundleHash": "3d26a069a367a2703c600a6702bac878bca9411de5df624d71ad76848f72c00e",
+  "bundleHash": "73fe1ce29e08fef42e1688bf45590b40da6705036d57a3ee3feb2308c2e31b09",
   "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/globe.tsx",
   "license": "MIT",
   "entry": "Example.tsx",
   "sourceEntry": "components/magicui/globe.tsx",
   "runtimeEntry": "runtime/components/magicui/globe.jsx",
   "author": "Magic UI contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "clsx": "2.1.1",
     "cobe": "0.6.5",
@@ -50,15 +52,15 @@
     {
       "path": "README.md",
       "url": "/components/magic-ui-globe/files/README.md",
-      "sha256": "03819f542c7110c841f854a5d7bf3debfbde71f3840b62860d7380b8bf2f1e0d",
-      "bytes": 2095,
+      "sha256": "49e666f1dd8fa49710b801b3076a0b64d63df09c83cab570104a006e72235d17",
+      "bytes": 2370,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/magic-ui-globe/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

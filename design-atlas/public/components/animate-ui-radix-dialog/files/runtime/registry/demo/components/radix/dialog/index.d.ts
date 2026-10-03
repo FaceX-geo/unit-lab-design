@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { type DialogContentProps } from '@/registry/components/radix/dialog';
+import { type DialogContentProps } from '../../../../../components/animate-ui/components/radix/dialog';
 interface RadixDialogDemoProps {
     from: DialogContentProps['from'];
     showCloseButton: boolean;

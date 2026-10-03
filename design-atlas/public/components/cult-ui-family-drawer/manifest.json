@@ -1,0 +1,144 @@
+{
+  "id": "cult-ui-family-drawer",
+  "revision": "67a66c6ac1cd240914ba688a907611b3437a7a2b",
+  "bundleHash": "85ff7962d5692359bd5b845be7af72825716f2cf1f9aa02caf555b233475739d",
+  "sourceUrl": "https://github.com/nolly-studio/cult-ui/blob/67a66c6ac1cd240914ba688a907611b3437a7a2b/apps/www/registry/default/ui/family-drawer.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "registry/default/ui/family-drawer.tsx",
+  "runtimeEntry": "runtime/registry/default/ui/family-drawer.jsx",
+  "author": "nolly-studio and Cult UI contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "@radix-ui/react-slot": "1.3.3",
+    "clsx": "2.1.1",
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "react-use-measure": "2.1.7",
+    "tailwind-merge": "3.7.0",
+    "vaul": "1.1.2",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "registry/default/ui/family-drawer.tsx",
+      "url": "/components/cult-ui-family-drawer/files/registry/default/ui/family-drawer.tsx",
+      "sha256": "57d7520e6d643562049e615d8b903600f35f5a7f71a2e262f7d2e76eb34143c5",
+      "bytes": 14490,
+      "original": true
+    },
+    {
+      "path": "lib/utils.ts",
+      "url": "/components/cult-ui-family-drawer/files/lib/utils.ts",
+      "sha256": "7cf92ac6e9a70c0c68a993becf674ec7c373653bc5dc3379e366c352e5ee1a41",
+      "bytes": 450,
+      "original": true
+    },
+    {
+      "path": "config/site.ts",
+      "url": "/components/cult-ui-family-drawer/files/config/site.ts",
+      "sha256": "204248fa4d13b2e06f723b476304df36d80512d918b93ed4d7fa7c1a784f5962",
+      "bytes": 791,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/cult-ui-family-drawer/files/LICENSE.txt",
+      "sha256": "78045e58dfd5f039ad350ad293da2ad9a2c0362b82dadb069b1c10be382ddac7",
+      "bytes": 1071,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/cult-ui-family-drawer/files/README.md",
+      "sha256": "529b2eb5324f7af334327d0dea35c01160a1cfa75611010b71b01ea96ff14823",
+      "bytes": 2488,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/cult-ui-family-drawer/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/cult-ui-family-drawer/files/tsconfig.paths.json",
+      "sha256": "a33accdb4710214f20eaea586616b39c8d6f605b3357ba2dc8cdabb8b2449a39",
+      "bytes": 204,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/cult-ui-family-drawer/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/registry/default/ui/family-drawer.jsx",
+      "url": "/components/cult-ui-family-drawer/files/runtime/registry/default/ui/family-drawer.jsx",
+      "sha256": "efec6025586dc7c8c0dce6e833a5b4866f487e23ef6059a43d2c78abbe487db2",
+      "bytes": 9523,
+      "original": false
+    },
+    {
+      "path": "runtime/registry/default/ui/family-drawer.d.ts",
+      "url": "/components/cult-ui-family-drawer/files/runtime/registry/default/ui/family-drawer.d.ts",
+      "sha256": "79e9561d0eb979471fdf999e0878a31b071283acbfcf677d37d31c1591780507",
+      "bytes": 4450,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.js",
+      "url": "/components/cult-ui-family-drawer/files/runtime/lib/utils.js",
+      "sha256": "3a18fb4164b6dfc0279b2a3cdc39c6617b2fda0981bdcc69d1b9bea9c0aab265",
+      "bytes": 435,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.d.ts",
+      "url": "/components/cult-ui-family-drawer/files/runtime/lib/utils.d.ts",
+      "sha256": "81d1488dfe0263b8af75f0a7b306deb343ce4815fc3d5c21841b41d05fa4f824",
+      "bytes": 160,
+      "original": false
+    },
+    {
+      "path": "runtime/config/site.js",
+      "url": "/components/cult-ui-family-drawer/files/runtime/config/site.js",
+      "sha256": "cd691aab8d843058cad9cfb198e2ceac024c72e4a6d5fed8de2f4aba3c80ba51",
+      "bytes": 760,
+      "original": false
+    },
+    {
+      "path": "runtime/config/site.d.ts",
+      "url": "/components/cult-ui-family-drawer/files/runtime/config/site.d.ts",
+      "sha256": "f1aec14191c7c1ab6430e10050bb0783f7c62eb28725b197b21ede36d3fe5f9c",
+      "bytes": 622,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/cult-ui-family-drawer/files/Example.tsx",
+      "sha256": "8e184729f84f430bc14109061069db819a46928b49414b94bf8adbced6375ac4",
+      "bytes": 2997,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/cult-ui-family-drawer/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/cult-ui-family-drawer/files/vite.config.fragment.mjs",
+      "sha256": "367d77cef09e8a76e69208d669c6a923160a0a1c9978f68ec47044f66dd1980f",
+      "bytes": 376,
+      "original": false
+    }
+  ]
+}

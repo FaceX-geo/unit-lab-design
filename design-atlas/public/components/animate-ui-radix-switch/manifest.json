@@ -1,13 +1,15 @@
 {
   "id": "animate-ui-radix-switch",
   "revision": "efeb96ffd7a3b7a4868667e4ac3c346620fb3044",
-  "bundleHash": "058170dcde4b80a38c67ddb598f9073df6cb3ad8c1dfe446cda72a291b247d1c",
+  "bundleHash": "5ada6483f65b575cfa69f8801ace0d99140af3398699e5049c41b28c568a906e",
   "sourceUrl": "https://github.com/imskyleen/animate-ui/blob/efeb96ffd7a3b7a4868667e4ac3c346620fb3044/apps/www/registry/components/radix/switch/index.tsx",
   "license": "MIT",
   "entry": "Example.tsx",
   "sourceEntry": "components/animate-ui/components/radix/switch.tsx",
   "runtimeEntry": "runtime/components/animate-ui/components/radix/switch.jsx",
   "author": "Skyleen and contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "clsx": "2.1.1",
     "motion": "14.0.0",
@@ -76,15 +78,15 @@
     {
       "path": "README.md",
       "url": "/components/animate-ui-radix-switch/files/README.md",
-      "sha256": "735d1f0ee86c99c2f74db173edb3608c4c3367f047c9f4ae619dbf243b2b118e",
-      "bytes": 2110,
+      "sha256": "99727f26cbafdb6c1286b279a4aebbc363d06a4ea66eeee011d34bf191969a79",
+      "bytes": 2385,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/animate-ui-radix-switch/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {
@@ -111,8 +113,8 @@
     {
       "path": "runtime/components/animate-ui/components/radix/switch.d.ts",
       "url": "/components/animate-ui-radix-switch/files/runtime/components/animate-ui/components/radix/switch.d.ts",
-      "sha256": "5b759c4b7fe4091985afdd038b1d700ab60b1c53430b68b5691f79834f90f704",
-      "bytes": 471,
+      "sha256": "9b3b0af7f6afe194e3d69a1123709b7225c47e4fa1d230db5dfc4a6358e3fe8d",
+      "bytes": 466,
       "original": false
     },
     {

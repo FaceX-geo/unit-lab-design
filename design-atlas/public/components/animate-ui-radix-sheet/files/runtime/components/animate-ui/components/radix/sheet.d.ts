@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { type SheetProps as SheetPrimitiveProps, type SheetTriggerProps as SheetTriggerPrimitiveProps, type SheetCloseProps as SheetClosePrimitiveProps, type SheetContentProps as SheetContentPrimitiveProps, type SheetHeaderProps as SheetHeaderPrimitiveProps, type SheetFooterProps as SheetFooterPrimitiveProps, type SheetTitleProps as SheetTitlePrimitiveProps, type SheetDescriptionProps as SheetDescriptionPrimitiveProps } from '@/registry/primitives/radix/sheet';
+import { type SheetProps as SheetPrimitiveProps, type SheetTriggerProps as SheetTriggerPrimitiveProps, type SheetCloseProps as SheetClosePrimitiveProps, type SheetContentProps as SheetContentPrimitiveProps, type SheetHeaderProps as SheetHeaderPrimitiveProps, type SheetFooterProps as SheetFooterPrimitiveProps, type SheetTitleProps as SheetTitlePrimitiveProps, type SheetDescriptionProps as SheetDescriptionPrimitiveProps } from '../../primitives/radix/sheet';
 type SheetProps = SheetPrimitiveProps;
 declare function Sheet(props: SheetProps): React.JSX.Element;
 type SheetTriggerProps = SheetTriggerPrimitiveProps;

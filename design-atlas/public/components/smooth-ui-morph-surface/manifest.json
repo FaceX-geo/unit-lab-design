@@ -1,0 +1,206 @@
+{
+  "id": "smooth-ui-morph-surface",
+  "revision": "b6312bce2b6f2ed95d8a6e98a592857884f5ea9e",
+  "bundleHash": "cad5039a136980b807d9b8ec9764a34073438d853833ebeae90087fbcd6b724a",
+  "sourceUrl": "https://github.com/educlopez/smoothui/blob/b6312bce2b6f2ed95d8a6e98a592857884f5ea9e/packages/smoothui/components/morph-surface/index.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "packages/smoothui/components/morph-surface/index.tsx",
+  "runtimeEntry": "runtime/packages/smoothui/components/morph-surface/index.jsx",
+  "author": "Eduardo Calvo and SmoothUI contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "@radix-ui/react-slot": "1.3.3",
+    "class-variance-authority": "0.7.1",
+    "clsx": "2.1.1",
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "packages/smoothui/components/morph-surface/index.tsx",
+      "url": "/components/smooth-ui-morph-surface/files/packages/smoothui/components/morph-surface/index.tsx",
+      "sha256": "498067dbf0ca85be0accfd0b4f6f9ad58dd97b3f024ed856171aa2661f1dcb05",
+      "bytes": 9122,
+      "original": true
+    },
+    {
+      "path": "packages/smoothui/components/smooth-button/index.tsx",
+      "url": "/components/smooth-ui-morph-surface/files/packages/smoothui/components/smooth-button/index.tsx",
+      "sha256": "e2884d0f36c301e164c34f34ae401b96ee57a7f7ecf3cd6201bfbb89536526c8",
+      "bytes": 9122,
+      "original": true
+    },
+    {
+      "path": "packages/shadcn-ui/lib/utils.ts",
+      "url": "/components/smooth-ui-morph-surface/files/packages/shadcn-ui/lib/utils.ts",
+      "sha256": "7c8c3dfc0cdd370d44932828eb067ef771c8fe7996693221d5d4b90af6d54f2d",
+      "bytes": 166,
+      "original": true
+    },
+    {
+      "path": "packages/smoothui/components/siri-orb/index.tsx",
+      "url": "/components/smooth-ui-morph-surface/files/packages/smoothui/components/siri-orb/index.tsx",
+      "sha256": "8e81e9f0c016ef90dd8ee7397cafe164433bfabb723e836fa776f1684e1b339b",
+      "bytes": 14545,
+      "original": true
+    },
+    {
+      "path": "packages/smoothui/components/ai-core/index.tsx",
+      "url": "/components/smooth-ui-morph-surface/files/packages/smoothui/components/ai-core/index.tsx",
+      "sha256": "28b7020d185b0b013aff8e1e3075c282bc80550615ac1d757e054a978dcd7416",
+      "bytes": 11469,
+      "original": true
+    },
+    {
+      "path": "packages/smoothui/components/morph-surface/use-click-outside.tsx",
+      "url": "/components/smooth-ui-morph-surface/files/packages/smoothui/components/morph-surface/use-click-outside.tsx",
+      "sha256": "bc3f0b98f6c00969dc334bf5e20bbf380a7f99c468c48e39df6b673f8e8f4f07",
+      "bytes": 1073,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/smooth-ui-morph-surface/files/LICENSE.txt",
+      "sha256": "9877f4310c0549e5ce26affe52ba97c4e60325472bdcdd308a92fccd90f119cc",
+      "bytes": 1070,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/smooth-ui-morph-surface/files/README.md",
+      "sha256": "77af8b61bc8a47ab9e655a89d3650fdeab8ac94a00a35721dd2ab561f51b0b39",
+      "bytes": 2482,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/smooth-ui-morph-surface/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/smooth-ui-morph-surface/files/tsconfig.paths.json",
+      "sha256": "0a120d27c164f60c786e756e11f5bc220671c6dd1835c78797e7e41a43ac2a7e",
+      "bytes": 624,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/smooth-ui-morph-surface/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/smoothui/components/morph-surface/index.jsx",
+      "url": "/components/smooth-ui-morph-surface/files/runtime/packages/smoothui/components/morph-surface/index.jsx",
+      "sha256": "a461e680f3b20326121ef1a73744aa3e0aa467195699b2505ec1a9967168878a",
+      "bytes": 7610,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/smoothui/components/morph-surface/index.d.ts",
+      "url": "/components/smooth-ui-morph-surface/files/runtime/packages/smoothui/components/morph-surface/index.d.ts",
+      "sha256": "5d40b611e4cb95f7c3852c6242d63161ab3f20da3c6f6c99bf97cb0b87561a0d",
+      "bytes": 115,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/smoothui/components/smooth-button/index.jsx",
+      "url": "/components/smooth-ui-morph-surface/files/runtime/packages/smoothui/components/smooth-button/index.jsx",
+      "sha256": "8e2ad001bd8dfa2e59740551b77c425c92058a0cfca06070b7eaf3975606e1d0",
+      "bytes": 8127,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/smoothui/components/smooth-button/index.d.ts",
+      "url": "/components/smooth-ui-morph-surface/files/runtime/packages/smoothui/components/smooth-button/index.d.ts",
+      "sha256": "ab6f7d6d24d19e518d572299e513c980a917952ce59e964f80810364951dd884",
+      "bytes": 2178,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/shadcn-ui/lib/utils.js",
+      "url": "/components/smooth-ui-morph-surface/files/runtime/packages/shadcn-ui/lib/utils.js",
+      "sha256": "3ed9a6b9bbfd7777c835f14ea89f45614483f1c40eeffcacaa49766125a3df10",
+      "bytes": 139,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/shadcn-ui/lib/utils.d.ts",
+      "url": "/components/smooth-ui-morph-surface/files/runtime/packages/shadcn-ui/lib/utils.d.ts",
+      "sha256": "512960c0e955a2324b34354dac25e3e4d431a1af4cd33077935eda5e95c8b7e1",
+      "bytes": 101,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/smoothui/components/siri-orb/index.jsx",
+      "url": "/components/smooth-ui-morph-surface/files/runtime/packages/smoothui/components/siri-orb/index.jsx",
+      "sha256": "813a50c33270a16610d20245effe75d79698ab95590277a9d967b27402d730de",
+      "bytes": 13830,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/smoothui/components/siri-orb/index.d.ts",
+      "url": "/components/smooth-ui-morph-surface/files/runtime/packages/smoothui/components/siri-orb/index.d.ts",
+      "sha256": "515a46be73d70623cc51e6cf8bf04806f24c562f44be48899bf25e5fa74fc485",
+      "bytes": 803,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/smoothui/components/ai-core/index.jsx",
+      "url": "/components/smooth-ui-morph-surface/files/runtime/packages/smoothui/components/ai-core/index.jsx",
+      "sha256": "7fde1dc42dd58279d34c1cf03368f3d185a6a8576fe0363a61f76f67c528667e",
+      "bytes": 8314,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/smoothui/components/ai-core/index.d.ts",
+      "url": "/components/smooth-ui-morph-surface/files/runtime/packages/smoothui/components/ai-core/index.d.ts",
+      "sha256": "9c4897d9135e0d2485847f842adb60212f6e14920bb2edeee3a5af3d7a249324",
+      "bytes": 5485,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/smoothui/components/morph-surface/use-click-outside.jsx",
+      "url": "/components/smooth-ui-morph-surface/files/runtime/packages/smoothui/components/morph-surface/use-click-outside.jsx",
+      "sha256": "a8d67fe6ad9e0043580b86e269fb4fb7a25c3cbf052bf8f4ea9a2d7f2a58719a",
+      "bytes": 914,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/smoothui/components/morph-surface/use-click-outside.d.ts",
+      "url": "/components/smooth-ui-morph-surface/files/runtime/packages/smoothui/components/morph-surface/use-click-outside.d.ts",
+      "sha256": "1597526d955f60e02ce13166b22ac33ad62706fd82b2f8f62e94f9ba700adaff",
+      "bytes": 336,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/smooth-ui-morph-surface/files/Example.tsx",
+      "sha256": "0b83b89644abc46a17b27de0ecdb0e1972bb03ee93f497acd0be22ecf0d9e0b8",
+      "bytes": 604,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/smooth-ui-morph-surface/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/smooth-ui-morph-surface/files/vite.config.fragment.mjs",
+      "sha256": "d5ee1ed4a8c434c7b44569421fed68d3531d290445f630c51fe6d34c4dc90be9",
+      "bytes": 712,
+      "original": false
+    }
+  ]
+}

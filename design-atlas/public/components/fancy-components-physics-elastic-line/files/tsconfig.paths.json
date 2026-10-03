@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/hooks/use-dimensions": [
+        "./runtime/hooks/use-dimensions.js"
+      ],
+      "@/hooks/use-elastic-line-events": [
+        "./runtime/hooks/use-elastic-line-events.js"
+      ],
+      "@/hooks/use-mouse-position": [
+        "./runtime/hooks/use-mouse-position.js"
+      ]
+    }
+  }
+}

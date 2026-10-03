@@ -1,13 +1,15 @@
 {
   "id": "magic-ui-confetti",
   "revision": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
-  "bundleHash": "c10a148ae32f34375130547510130af6da0d9e93ddcd296b9e258616f2e84f5e",
+  "bundleHash": "7ae6a2d2ad7216428a9d3e6f5864552da7546d3974ec64d98e11451070e99b19",
   "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/confetti.tsx",
   "license": "MIT",
   "entry": "Example.tsx",
   "sourceEntry": "components/magicui/confetti.tsx",
   "runtimeEntry": "runtime/components/magicui/confetti.jsx",
   "author": "Magic UI contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "@radix-ui/react-slot": "1.3.3",
     "canvas-confetti": "1.9.4",
@@ -58,15 +60,15 @@
     {
       "path": "README.md",
       "url": "/components/magic-ui-confetti/files/README.md",
-      "sha256": "8f5ceeeb1d0786887afdf9f0bc4cd1f33b752731e25e3d1d8f5e78a5e35b571b",
-      "bytes": 2154,
+      "sha256": "b040aa6951e3f998a00b0074c062c934c07e4adaec10c08aa615458cab7acc34",
+      "bytes": 2429,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/magic-ui-confetti/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {
@@ -93,8 +95,8 @@
     {
       "path": "runtime/components/magicui/confetti.d.ts",
       "url": "/components/magic-ui-confetti/files/runtime/components/magicui/confetti.d.ts",
-      "sha256": "a2582dd6fbe46c8cf0ed302bae395e312e3b5dbae07f9fb12c3e467ed89a6808",
-      "bytes": 960,
+      "sha256": "1863b52b144e154230356e3fd7d3a0e761d61e56aa27964b999af495a40845b6",
+      "bytes": 950,
       "original": false
     },
     {

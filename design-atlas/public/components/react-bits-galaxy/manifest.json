@@ -1,0 +1,111 @@
+{
+  "id": "react-bits-galaxy",
+  "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+  "bundleHash": "6cd4f827d48ac8b7c5ab3c88ee098ae305934444c18d2b0bd2c025f2948b6773",
+  "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Backgrounds/Galaxy/Galaxy.tsx",
+  "license": "MIT + Commons Clause",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/react-bits/Galaxy/Galaxy.tsx",
+  "runtimeEntry": "runtime/components/react-bits/Galaxy/Galaxy.jsx",
+  "author": "David Haz",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "ogl": "1.0.11",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/react-bits/Galaxy/Galaxy.tsx",
+      "url": "/components/react-bits-galaxy/files/components/react-bits/Galaxy/Galaxy.tsx",
+      "sha256": "5e446ddb02b06a3f26f8a06e831dee3297080d1b6d539834837452158c673509",
+      "bytes": 10829,
+      "original": true
+    },
+    {
+      "path": "components/react-bits/Galaxy/Galaxy.css",
+      "url": "/components/react-bits-galaxy/files/components/react-bits/Galaxy/Galaxy.css",
+      "sha256": "3efecd1df6de1d34f861c5cb4058a335be170446f8e8ed282556e93b3109599c",
+      "bytes": 75,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/react-bits-galaxy/files/LICENSE.txt",
+      "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+      "bytes": 1303,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/react-bits-galaxy/files/README.md",
+      "sha256": "55b09249190f72a81bfdaddd1e6ca1df960d75a3500058a21da9242b224c44f1",
+      "bytes": 2361,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/react-bits-galaxy/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/react-bits-galaxy/files/tsconfig.paths.json",
+      "sha256": "622f1c19323142f244106d082f344206b1fa8738adcc12a315a853e3bf43dab5",
+      "bytes": 163,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/react-bits-galaxy/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/Galaxy/Galaxy.jsx",
+      "url": "/components/react-bits-galaxy/files/runtime/components/react-bits/Galaxy/Galaxy.jsx",
+      "sha256": "5921298d151f2e7c933c3e0c03b0ca41872302686dae14d1e54b146d66f524d0",
+      "bytes": 10903,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/Galaxy/Galaxy.d.ts",
+      "url": "/components/react-bits-galaxy/files/runtime/components/react-bits/Galaxy/Galaxy.d.ts",
+      "sha256": "c9d4ccecd8d4e82cc962f5032761bc1da2f2575931ee20a22952eaa635c9b922",
+      "bytes": 853,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/Galaxy/Galaxy.css",
+      "url": "/components/react-bits-galaxy/files/runtime/components/react-bits/Galaxy/Galaxy.css",
+      "sha256": "3efecd1df6de1d34f861c5cb4058a335be170446f8e8ed282556e93b3109599c",
+      "bytes": 75,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/react-bits-galaxy/files/Example.tsx",
+      "sha256": "d63cdfd6938e9322ee889d246db12b06350926949998f766fa081fc80399181e",
+      "bytes": 732,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/react-bits-galaxy/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/react-bits-galaxy/files/vite.config.fragment.mjs",
+      "sha256": "892713a4d895b35e9fafe07e7bb3a699ff9581d5133af23320b98c87fd3a831f",
+      "bytes": 363,
+      "original": false
+    }
+  ]
+}

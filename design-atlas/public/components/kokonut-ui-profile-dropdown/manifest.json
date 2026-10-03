@@ -1,0 +1,180 @@
+{
+  "id": "kokonut-ui-profile-dropdown",
+  "revision": "83eec6d982d400a18438001a8efdbac1f159dd43",
+  "bundleHash": "c02f7ff63c44a243d403e624cf2ba5ae93f12613286d8b9fc6b8181c6f317244",
+  "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/profile-dropdown.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/kokonutui/profile-dropdown.tsx",
+  "runtimeEntry": "runtime/components/kokonutui/profile-dropdown.jsx",
+  "author": "Dorian Baffier and Kokonut UI contributors",
+  "typeDependencies": {},
+  "previewAliases": {
+    "next/link": "atlas-adapters/next-link.jsx",
+    "next/image": "atlas-adapters/next-image.jsx"
+  },
+  "dependencies": {
+    "@radix-ui/react-dropdown-menu": "2.1.24",
+    "clsx": "2.1.1",
+    "lucide-react": "0.577.0",
+    "react": "19.3.0",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/kokonutui/profile-dropdown.tsx",
+      "url": "/components/kokonut-ui-profile-dropdown/files/components/kokonutui/profile-dropdown.tsx",
+      "sha256": "7c833663e62910dea23fcbab97c5b0fd13edffb278ed7a2fcdfa3000fea36f6d",
+      "bytes": 7693,
+      "original": true
+    },
+    {
+      "path": "components/ui/dropdown-menu.tsx",
+      "url": "/components/kokonut-ui-profile-dropdown/files/components/ui/dropdown-menu.tsx",
+      "sha256": "0edf751522827fadc6fc9bf7c435218590f87a6e66c511865f6e8eac5b20ff15",
+      "bytes": 7789,
+      "original": true
+    },
+    {
+      "path": "lib/utils.ts",
+      "url": "/components/kokonut-ui-profile-dropdown/files/lib/utils.ts",
+      "sha256": "4acbc7165a8d54738ff62b51414e772c08fe78434e524e6d8770180d3ba2925f",
+      "bytes": 169,
+      "original": true
+    },
+    {
+      "path": "components/icons/gemini.tsx",
+      "url": "/components/kokonut-ui-profile-dropdown/files/components/icons/gemini.tsx",
+      "sha256": "177b60c1f1e1022970f14bf09a3c75e01fe33def1ed314e1ae0a122e20cd335e",
+      "bytes": 845,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/kokonut-ui-profile-dropdown/files/LICENSE.txt",
+      "sha256": "b2e018ad1fd564608cc1ee0c2ad675ce5202c8ed9f5f68e6d09e7b6bc881d5d2",
+      "bytes": 1066,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/kokonut-ui-profile-dropdown/files/README.md",
+      "sha256": "1ae25fce0290005d4857c41f02bebb7e65826886770cac02b2145a1eab24b7f4",
+      "bytes": 2629,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/kokonut-ui-profile-dropdown/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/kokonut-ui-profile-dropdown/files/tsconfig.paths.json",
+      "sha256": "f1ab16adbaf38d3dfd7736e0ecfa8d11edec31e13c739710e2781199ac0455a2",
+      "bytes": 321,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/kokonut-ui-profile-dropdown/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/kokonutui/profile-dropdown.jsx",
+      "url": "/components/kokonut-ui-profile-dropdown/files/runtime/components/kokonutui/profile-dropdown.jsx",
+      "sha256": "68f5d8f659c604eb4bf54fd623853725e9a80167c1bdc3be702d53bb9ef17a84",
+      "bytes": 6538,
+      "original": false
+    },
+    {
+      "path": "runtime/components/kokonutui/profile-dropdown.d.ts",
+      "url": "/components/kokonut-ui-profile-dropdown/files/runtime/components/kokonutui/profile-dropdown.d.ts",
+      "sha256": "cee4ae28174fc3d374ae3bbb92a18c8f34327db2528e7170a4ca8814293a2162",
+      "bytes": 408,
+      "original": false
+    },
+    {
+      "path": "runtime/components/ui/dropdown-menu.jsx",
+      "url": "/components/kokonut-ui-profile-dropdown/files/runtime/components/ui/dropdown-menu.jsx",
+      "sha256": "1a071cabdc26e77223e9ddd5f13e73a6778f8e99910ebb5f76765a276e0cfa0a",
+      "bytes": 6195,
+      "original": false
+    },
+    {
+      "path": "runtime/components/ui/dropdown-menu.d.ts",
+      "url": "/components/kokonut-ui-profile-dropdown/files/runtime/components/ui/dropdown-menu.d.ts",
+      "sha256": "4c8d23fa128375bc2642800c1dbce5f2dfc665f09599ab9da0438218751e316f",
+      "bytes": 3049,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.js",
+      "url": "/components/kokonut-ui-profile-dropdown/files/runtime/lib/utils.js",
+      "sha256": "3ed9a6b9bbfd7777c835f14ea89f45614483f1c40eeffcacaa49766125a3df10",
+      "bytes": 139,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.d.ts",
+      "url": "/components/kokonut-ui-profile-dropdown/files/runtime/lib/utils.d.ts",
+      "sha256": "512960c0e955a2324b34354dac25e3e4d431a1af4cd33077935eda5e95c8b7e1",
+      "bytes": 101,
+      "original": false
+    },
+    {
+      "path": "runtime/components/icons/gemini.jsx",
+      "url": "/components/kokonut-ui-profile-dropdown/files/runtime/components/icons/gemini.jsx",
+      "sha256": "7559f711ade430a2a2931067a507e2fcc8cc394de3cf73cfac06c657cc613a33",
+      "bytes": 714,
+      "original": false
+    },
+    {
+      "path": "runtime/components/icons/gemini.d.ts",
+      "url": "/components/kokonut-ui-profile-dropdown/files/runtime/components/icons/gemini.d.ts",
+      "sha256": "aa609a62d83cbde5769d046c97e44462faaef756edbc263a4f1f96fbbcfce4cf",
+      "bytes": 116,
+      "original": false
+    },
+    {
+      "path": "atlas-adapters/next-link.jsx",
+      "url": "/components/kokonut-ui-profile-dropdown/files/atlas-adapters/next-link.jsx",
+      "sha256": "80388c3ca829d083245e33689b7a19071927698b85ed27d3db88671eba04c870",
+      "bytes": 344,
+      "original": false
+    },
+    {
+      "path": "atlas-adapters/next-image.jsx",
+      "url": "/components/kokonut-ui-profile-dropdown/files/atlas-adapters/next-image.jsx",
+      "sha256": "12366a06ce29c847ff0161a369e1558514084e74e10da14e1d767a1b5a9d3dab",
+      "bytes": 436,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/kokonut-ui-profile-dropdown/files/Example.tsx",
+      "sha256": "ca9ab0ba1f31b35f6a03aa8cc84f6c546cb7dd75558d1c45c6275e18a19bfaf7",
+      "bytes": 931,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/kokonut-ui-profile-dropdown/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/kokonut-ui-profile-dropdown/files/vite.config.fragment.mjs",
+      "sha256": "ba90143530aa6da89e509ecbb79c547eec43344aef65413d9b5c5bf40e5f43c9",
+      "bytes": 553,
+      "original": false
+    }
+  ]
+}

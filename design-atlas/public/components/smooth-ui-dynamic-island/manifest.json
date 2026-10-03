@@ -1,0 +1,98 @@
+{
+  "id": "smooth-ui-dynamic-island",
+  "revision": "b6312bce2b6f2ed95d8a6e98a592857884f5ea9e",
+  "bundleHash": "1a4bb58bc76275d05e08e90003a36a3719b0f35f451fc102ed1760106665ac09",
+  "sourceUrl": "https://github.com/educlopez/smoothui/blob/b6312bce2b6f2ed95d8a6e98a592857884f5ea9e/packages/smoothui/components/dynamic-island/index.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "packages/smoothui/components/dynamic-island/index.tsx",
+  "runtimeEntry": "runtime/packages/smoothui/components/dynamic-island/index.jsx",
+  "author": "Eduardo Calvo and SmoothUI contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "lucide-react": "0.577.0",
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "packages/smoothui/components/dynamic-island/index.tsx",
+      "url": "/components/smooth-ui-dynamic-island/files/packages/smoothui/components/dynamic-island/index.tsx",
+      "sha256": "cc67c3b2d3c7663d90f08878efb158d50456df9e7ad41ea146c03a4ff727c62b",
+      "bytes": 9045,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/smooth-ui-dynamic-island/files/LICENSE.txt",
+      "sha256": "9877f4310c0549e5ce26affe52ba97c4e60325472bdcdd308a92fccd90f119cc",
+      "bytes": 1070,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/smooth-ui-dynamic-island/files/README.md",
+      "sha256": "47ca3b5a9cfff65f5c797bcdc3a7282a93524e210f66fc7f5eb0aae01a606c05",
+      "bytes": 2417,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/smooth-ui-dynamic-island/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/smooth-ui-dynamic-island/files/tsconfig.paths.json",
+      "sha256": "113c9d3a7de4f46f7015d3e43fe190b854f93d6ad66bf0bccd2da5de4c9f246b",
+      "bytes": 66,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/smooth-ui-dynamic-island/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/smoothui/components/dynamic-island/index.jsx",
+      "url": "/components/smooth-ui-dynamic-island/files/runtime/packages/smoothui/components/dynamic-island/index.jsx",
+      "sha256": "c4ef2c32da70858267001def280f5772690802d4516e0a6cb203dbe2da47464b",
+      "bytes": 7944,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/smoothui/components/dynamic-island/index.d.ts",
+      "url": "/components/smooth-ui-dynamic-island/files/runtime/packages/smoothui/components/dynamic-island/index.d.ts",
+      "sha256": "932d0e2314d5ccf9cc37eebea0ba19923bf4c13b548e7ce152c8cdbad4304c28",
+      "bytes": 507,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/smooth-ui-dynamic-island/files/Example.tsx",
+      "sha256": "055b7402bd8cb60407504305c78c23e919d040b298a6297fd725bbcd7cbb847c",
+      "bytes": 606,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/smooth-ui-dynamic-island/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/smooth-ui-dynamic-island/files/vite.config.fragment.mjs",
+      "sha256": "5d2907e5931b21667b1e984b7311670f9d05e67a26f5b50a901b94dda9cababa",
+      "bytes": 299,
+      "original": false
+    }
+  ]
+}

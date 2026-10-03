@@ -1,0 +1,1 @@
+import Example from '../../../../public/components/animata-fabs-flower-menu/files/NextExample';import '../../../../public/components/animata-fabs-flower-menu/files/demo.css';export default function Page(){return <div style={{height:'100vh'}}><Example/></div>}

@@ -1,13 +1,15 @@
 {
   "id": "animate-ui-radix-sheet",
   "revision": "efeb96ffd7a3b7a4868667e4ac3c346620fb3044",
-  "bundleHash": "fa095614e8baa8080289fad4bd58cc7dfadf4baf13fc3e3110ebe8565154bda7",
+  "bundleHash": "699a6b21872c7d032860604156d1669f501cc378caf97fe92a242cb9c66f1266",
   "sourceUrl": "https://github.com/imskyleen/animate-ui/blob/efeb96ffd7a3b7a4868667e4ac3c346620fb3044/apps/www/registry/components/radix/sheet/index.tsx",
   "license": "MIT",
   "entry": "Example.tsx",
   "sourceEntry": "components/animate-ui/components/radix/sheet.tsx",
   "runtimeEntry": "runtime/components/animate-ui/components/radix/sheet.jsx",
   "author": "Skyleen and contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "class-variance-authority": "0.7.1",
     "clsx": "2.1.1",
@@ -92,15 +94,15 @@
     {
       "path": "README.md",
       "url": "/components/animate-ui-radix-sheet/files/README.md",
-      "sha256": "7f262b896ce277c3e270c06b2a1c10bcc925021f8b773819dcbb2cb472f6cb8d",
-      "bytes": 2174,
+      "sha256": "645f9b161a34e85d930bb90f36701f670719b34e81bd744898787195d0165186",
+      "bytes": 2449,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/animate-ui-radix-sheet/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {
@@ -127,8 +129,8 @@
     {
       "path": "runtime/components/animate-ui/components/radix/sheet.d.ts",
       "url": "/components/animate-ui-radix-sheet/files/runtime/components/animate-ui/components/radix/sheet.d.ts",
-      "sha256": "9d36b5e13d1bda39240cf71cc309ab8317ea2c8761da42d7f25f43d5765c625f",
-      "bytes": 1952,
+      "sha256": "f821274fefeba4d6b13d2fa9ee8817707dccf5d216eefc365ca4f9e437202d9d",
+      "bytes": 1947,
       "original": false
     },
     {

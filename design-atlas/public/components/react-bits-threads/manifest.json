@@ -1,0 +1,111 @@
+{
+  "id": "react-bits-threads",
+  "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
+  "bundleHash": "e13c1a2a7f39aa3cad071ad00ab33727031bd4666647af56025a1a06e1d050af",
+  "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Backgrounds/Threads/Threads.tsx",
+  "license": "MIT + Commons Clause",
+  "entry": "Example.tsx",
+  "sourceEntry": "components/react-bits/Threads/Threads.tsx",
+  "runtimeEntry": "runtime/components/react-bits/Threads/Threads.jsx",
+  "author": "David Haz",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "ogl": "1.0.11",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "components/react-bits/Threads/Threads.tsx",
+      "url": "/components/react-bits-threads/files/components/react-bits/Threads/Threads.tsx",
+      "sha256": "60968f34b880a0461e58431742836a174b0c56a7d3c66fc98192c028451fdfac",
+      "bytes": 8787,
+      "original": true
+    },
+    {
+      "path": "components/react-bits/Threads/Threads.css",
+      "url": "/components/react-bits-threads/files/components/react-bits/Threads/Threads.css",
+      "sha256": "553118f93593a3c30109f2b911fe076f89ab7d43036cdee8dc951e4497d078e2",
+      "bytes": 76,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/react-bits-threads/files/LICENSE.txt",
+      "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+      "bytes": 1303,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/react-bits-threads/files/README.md",
+      "sha256": "03d60f472067f7ce9b81abf7b9126150f205aa40bee114a127f650b0c2a96861",
+      "bytes": 2354,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/react-bits-threads/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/react-bits-threads/files/tsconfig.paths.json",
+      "sha256": "54fda5e5a8a8133cdc9efd85b09f2655b985cb2275584466d03cd4e9bf3b76c5",
+      "bytes": 166,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/react-bits-threads/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/Threads/Threads.jsx",
+      "url": "/components/react-bits-threads/files/runtime/components/react-bits/Threads/Threads.jsx",
+      "sha256": "c34054acff1a731e3670ea5f91332cd048f7dd2bea5efef0980bca8c1eff6f42",
+      "bytes": 9128,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/Threads/Threads.d.ts",
+      "url": "/components/react-bits-threads/files/runtime/components/react-bits/Threads/Threads.d.ts",
+      "sha256": "aa5de006d6ecc118ae6999aa7b9217148f44ccb664f4ec54c05f9fb0b511075b",
+      "bytes": 272,
+      "original": false
+    },
+    {
+      "path": "runtime/components/react-bits/Threads/Threads.css",
+      "url": "/components/react-bits-threads/files/runtime/components/react-bits/Threads/Threads.css",
+      "sha256": "553118f93593a3c30109f2b911fe076f89ab7d43036cdee8dc951e4497d078e2",
+      "bytes": 76,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/react-bits-threads/files/Example.tsx",
+      "sha256": "e12943774a57ec96d42941cd23e2e9987ee4bb86e62e0a12b16b6ad21d8dee02",
+      "bytes": 747,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/react-bits-threads/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/react-bits-threads/files/vite.config.fragment.mjs",
+      "sha256": "5a6b816912961fcac117ebbb775f70a741831ed3ccfb23e5e3c0b60b0f323803",
+      "bytes": 366,
+      "original": false
+    }
+  ]
+}

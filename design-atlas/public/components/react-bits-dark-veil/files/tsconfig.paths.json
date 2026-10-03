@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "./DarkVeil.css": [
+        "./runtime/components/react-bits/DarkVeil/DarkVeil.css"
+      ]
+    }
+  }
+}

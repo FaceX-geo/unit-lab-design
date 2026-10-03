@@ -1,7 +1,7 @@
 import type { ReactNode } from "react";
 import React from "react";
 import type { GlobalOptions as ConfettiGlobalOptions, Options as ConfettiOptions } from "canvas-confetti";
-import { Button } from "@/components/ui/button";
+import { Button } from "../ui/button";
 export type ConfettiRef = {
     fire: (options?: ConfettiOptions) => Promise<void> | void;
 };

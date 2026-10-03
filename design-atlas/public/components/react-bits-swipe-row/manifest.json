@@ -1,13 +1,15 @@
 {
   "id": "react-bits-swipe-row",
   "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
-  "bundleHash": "271ee085f6eae14fb63194d596085731b018f3d1beb4495acacb4e66ec130ea9",
+  "bundleHash": "db4ac81484c3fb7e2a33fbcd4736a6d07b45e6be1260ed897ed77523b4ddd973",
   "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Micro/SwipeRow/SwipeRow.tsx",
   "license": "MIT + Commons Clause",
   "entry": "Example.tsx",
   "sourceEntry": "components/react-bits/SwipeRow/SwipeRow.tsx",
   "runtimeEntry": "runtime/components/react-bits/SwipeRow/SwipeRow.jsx",
   "author": "David Haz",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "@hugeicons/core-free-icons": "4.3.5",
     "@hugeicons/react": "1.1.10",
@@ -40,15 +42,15 @@
     {
       "path": "README.md",
       "url": "/components/react-bits-swipe-row/files/README.md",
-      "sha256": "bd5658a06d885e90752a4489f7dee0e2f60839b4040e8365c12e46ebff948cb9",
-      "bytes": 2105,
+      "sha256": "05135d147d57fc4d46b4c59c3352989fae798bffef21acb482dc5dd647b511e5",
+      "bytes": 2380,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/react-bits-swipe-row/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

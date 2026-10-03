@@ -1,13 +1,15 @@
 {
   "id": "react-bits-spotlight-card",
   "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
-  "bundleHash": "9e1688cffe3f0dcbd7bd59ac3a4a9590181e95e7f6910ac51e0877f176ce6d2b",
+  "bundleHash": "dfbf5eebf5153bef9dd15833a1e32a2da690a56b861347991205a3326eb701cb",
   "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/Components/SpotlightCard/SpotlightCard.tsx",
   "license": "MIT + Commons Clause",
   "entry": "Example.tsx",
   "sourceEntry": "components/react-bits/SpotlightCard/SpotlightCard.tsx",
   "runtimeEntry": "runtime/components/react-bits/SpotlightCard/SpotlightCard.jsx",
   "author": "David Haz",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "react": "19.3.0",
     "react-dom": "19.3.0"
@@ -37,15 +39,15 @@
     {
       "path": "README.md",
       "url": "/components/react-bits-spotlight-card/files/README.md",
-      "sha256": "0c0b7ab21a3434ea2c2c7ec2490dcd435ec97815ba396132a1a6f41d5efc005b",
-      "bytes": 2091,
+      "sha256": "db341d228b0305b35a8e8c7f3a0ac13076b80908087e2f7d2d281eb072e8eecf",
+      "bytes": 2366,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/react-bits-spotlight-card/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

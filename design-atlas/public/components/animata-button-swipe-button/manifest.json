@@ -1,0 +1,119 @@
+{
+  "id": "animata-button-swipe-button",
+  "revision": "36674e4e9cfdc0f237693d8b736a2bf41065ca1d",
+  "bundleHash": "c405c54f196a3fa8e1f0ff06d7c4e6bfee1badf72a70108826c41ddedda12bab",
+  "sourceUrl": "https://github.com/codse/animata/blob/36674e4e9cfdc0f237693d8b736a2bf41065ca1d/animata/button/swipe-button.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "animata/button/swipe-button.tsx",
+  "runtimeEntry": "runtime/animata/button/swipe-button.jsx",
+  "author": "codse and Animata contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "clsx": "2.1.1",
+    "react": "19.3.0",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "animata/button/swipe-button.tsx",
+      "url": "/components/animata-button-swipe-button/files/animata/button/swipe-button.tsx",
+      "sha256": "fc3d9d622e97992deef69c699d63de176fb9109bca6ccc4ba5cbe9b42cb0710a",
+      "bytes": 1102,
+      "original": true
+    },
+    {
+      "path": "lib/utils.ts",
+      "url": "/components/animata-button-swipe-button/files/lib/utils.ts",
+      "sha256": "5110cb256546ec57496878e69c7e8f338a0ba9caf3ac75eed9babb51dad06ecd",
+      "bytes": 538,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/animata-button-swipe-button/files/LICENSE.txt",
+      "sha256": "ff78804659cbc28380d087cae79c494f243f8ef22b1e2ac5ec119b5de9314f05",
+      "bytes": 1058,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/animata-button-swipe-button/files/README.md",
+      "sha256": "60a08f637f54923d12377fd87c65498868c9e976bd5450c4627b246f48b9ec17",
+      "bytes": 2360,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/animata-button-swipe-button/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/animata-button-swipe-button/files/tsconfig.paths.json",
+      "sha256": "27c83867eb9dc7f8e19f256cc618b0e868eedff2c838e4b1ffe46504024d1bc4",
+      "bytes": 135,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/animata-button-swipe-button/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/animata/button/swipe-button.jsx",
+      "url": "/components/animata-button-swipe-button/files/runtime/animata/button/swipe-button.jsx",
+      "sha256": "b995809751f95d55ac9a792db0afc7b9a40b5e4d1b94b30630bd048e1a9eb517",
+      "bytes": 757,
+      "original": false
+    },
+    {
+      "path": "runtime/animata/button/swipe-button.d.ts",
+      "url": "/components/animata-button-swipe-button/files/runtime/animata/button/swipe-button.d.ts",
+      "sha256": "689d1e42feec7848ca980cd10477d554c7784ed72b062c4b9e578cfed27e4c5f",
+      "bytes": 397,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.js",
+      "url": "/components/animata-button-swipe-button/files/runtime/lib/utils.js",
+      "sha256": "4b70245418e9f444da0b1f2558ab9c7a7aa01a916e77bfc40be7e95255bc421e",
+      "bytes": 447,
+      "original": false
+    },
+    {
+      "path": "runtime/lib/utils.d.ts",
+      "url": "/components/animata-button-swipe-button/files/runtime/lib/utils.d.ts",
+      "sha256": "053d36fede5db8a987c33a556fac2b8eb710fdc7b0331fbc9cee96dc7aca0295",
+      "bytes": 324,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/animata-button-swipe-button/files/Example.tsx",
+      "sha256": "62901ed42ffae4d5d65949a8df5a94ffec5edde84fcced6f3ca28e63183d7879",
+      "bytes": 821,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/animata-button-swipe-button/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/animata-button-swipe-button/files/vite.config.fragment.mjs",
+      "sha256": "28c2f09e8f004ac6bb0e8e1872fdd3091435b6570d2789c4905d49c40f9e616b",
+      "bytes": 335,
+      "original": false
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "smooth-ui-card-swipe-deck",
+  "revision": "b6312bce2b6f2ed95d8a6e98a592857884f5ea9e",
+  "bundleHash": "f0535ec5694fb76356ae4a94930cbb1480354675a549dc266e2bb926fec94c1c",
+  "sourceUrl": "https://github.com/educlopez/smoothui/blob/b6312bce2b6f2ed95d8a6e98a592857884f5ea9e/packages/smoothui/components/card-swipe-deck/index.tsx",
+  "license": "MIT",
+  "entry": "Example.tsx",
+  "sourceEntry": "packages/smoothui/components/card-swipe-deck/index.tsx",
+  "runtimeEntry": "runtime/packages/smoothui/components/card-swipe-deck/index.jsx",
+  "author": "Eduardo Calvo and SmoothUI contributors",
+  "typeDependencies": {},
+  "previewAliases": {},
+  "dependencies": {
+    "clsx": "2.1.1",
+    "motion": "14.0.0",
+    "react": "19.3.0",
+    "tailwind-merge": "3.7.0",
+    "react-dom": "19.3.0"
+  },
+  "files": [
+    {
+      "path": "packages/smoothui/components/card-swipe-deck/index.tsx",
+      "url": "/components/smooth-ui-card-swipe-deck/files/packages/smoothui/components/card-swipe-deck/index.tsx",
+      "sha256": "ab153b8a51b03325009c9d78fb1b74495fcadcefb7228e7d9e7326372064bd42",
+      "bytes": 13817,
+      "original": true
+    },
+    {
+      "path": "packages/shadcn-ui/lib/utils.ts",
+      "url": "/components/smooth-ui-card-swipe-deck/files/packages/shadcn-ui/lib/utils.ts",
+      "sha256": "7c8c3dfc0cdd370d44932828eb067ef771c8fe7996693221d5d4b90af6d54f2d",
+      "bytes": 166,
+      "original": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "/components/smooth-ui-card-swipe-deck/files/LICENSE.txt",
+      "sha256": "9877f4310c0549e5ce26affe52ba97c4e60325472bdcdd308a92fccd90f119cc",
+      "bytes": 1070,
+      "original": true
+    },
+    {
+      "path": "README.md",
+      "url": "/components/smooth-ui-card-swipe-deck/files/README.md",
+      "sha256": "ce2ab1fc900462333c460975a06cf223c47949f34526c9ae277df199861b3422",
+      "bytes": 2416,
+      "original": false
+    },
+    {
+      "path": "demo.css",
+      "url": "/components/smooth-ui-card-swipe-deck/files/demo.css",
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
+      "original": false
+    },
+    {
+      "path": "tsconfig.paths.json",
+      "url": "/components/smooth-ui-card-swipe-deck/files/tsconfig.paths.json",
+      "sha256": "78e3329de4f72f8e56bc9cbf590515fd43377190d1163aed3a6a753ad037fac9",
+      "bytes": 168,
+      "original": false
+    },
+    {
+      "path": "Manrope-OFL.txt",
+      "url": "/components/smooth-ui-card-swipe-deck/files/Manrope-OFL.txt",
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
+      "bytes": 4386,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/smoothui/components/card-swipe-deck/index.jsx",
+      "url": "/components/smooth-ui-card-swipe-deck/files/runtime/packages/smoothui/components/card-swipe-deck/index.jsx",
+      "sha256": "7daf60eb6388f5bd3f26bed08682877648a6a388f95383ac0a05c83d781aeff6",
+      "bytes": 11495,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/smoothui/components/card-swipe-deck/index.d.ts",
+      "url": "/components/smooth-ui-card-swipe-deck/files/runtime/packages/smoothui/components/card-swipe-deck/index.d.ts",
+      "sha256": "ed6caf1d4ac409a1b226e29bf7b65286ee356d1a7c038a6487d35e521fdf07a8",
+      "bytes": 1331,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/shadcn-ui/lib/utils.js",
+      "url": "/components/smooth-ui-card-swipe-deck/files/runtime/packages/shadcn-ui/lib/utils.js",
+      "sha256": "3ed9a6b9bbfd7777c835f14ea89f45614483f1c40eeffcacaa49766125a3df10",
+      "bytes": 139,
+      "original": false
+    },
+    {
+      "path": "runtime/packages/shadcn-ui/lib/utils.d.ts",
+      "url": "/components/smooth-ui-card-swipe-deck/files/runtime/packages/shadcn-ui/lib/utils.d.ts",
+      "sha256": "512960c0e955a2324b34354dac25e3e4d431a1af4cd33077935eda5e95c8b7e1",
+      "bytes": 101,
+      "original": false
+    },
+    {
+      "path": "Example.tsx",
+      "url": "/components/smooth-ui-card-swipe-deck/files/Example.tsx",
+      "sha256": "01e9906f130e2b5bafaa03cb68fd27ecd6a7d2f036764ab0491ea97edb1e35db",
+      "bytes": 1250,
+      "original": false
+    },
+    {
+      "path": "NextExample.tsx",
+      "url": "/components/smooth-ui-card-swipe-deck/files/NextExample.tsx",
+      "sha256": "bbfb8548d59a4745c6d34e0a84e143fc65637a59b6964cb12b6365867264f76f",
+      "bytes": 223,
+      "original": false
+    },
+    {
+      "path": "vite.config.fragment.mjs",
+      "url": "/components/smooth-ui-card-swipe-deck/files/vite.config.fragment.mjs",
+      "sha256": "a2c5740f0cab0a5d61dd52af076722029ba329f69655066d22f97e85019d4ccf",
+      "bytes": 368,
+      "original": false
+    }
+  ]
+}

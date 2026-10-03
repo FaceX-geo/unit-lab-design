@@ -1,13 +1,15 @@
 {
   "id": "react-bits-scroll-reveal",
   "revision": "ca44b3f9ee180676a06d7de8ec6bea84cddff85b",
-  "bundleHash": "a4a60559c1ba1449f5f86f7d80c3cd713c21d35a3dc83fe86a412f86f9009c21",
+  "bundleHash": "1035ee06f180962f952bb8658f3001de8161525507eb7167365ed60f290955bc",
   "sourceUrl": "https://github.com/DavidHDev/react-bits/blob/ca44b3f9ee180676a06d7de8ec6bea84cddff85b/src/ts-default/TextAnimations/ScrollReveal/ScrollReveal.tsx",
   "license": "MIT + Commons Clause",
   "entry": "Example.tsx",
   "sourceEntry": "components/react-bits/ScrollReveal/ScrollReveal.tsx",
   "runtimeEntry": "runtime/components/react-bits/ScrollReveal/ScrollReveal.jsx",
   "author": "David Haz",
+  "typeDependencies": {},
+  "previewAliases": {},
   "dependencies": {
     "gsap": "3.15.0",
     "react": "19.3.0",
@@ -38,15 +40,15 @@
     {
       "path": "README.md",
       "url": "/components/react-bits-scroll-reveal/files/README.md",
-      "sha256": "51181fc255e52d2cfc7ff22d238c97bd05f21f01f68d9f2d537deb12ec4bb84a",
-      "bytes": 2103,
+      "sha256": "734409bf96f0c7f2f7508601528f6429b05380537f3978d5eb95beb1e4658a76",
+      "bytes": 2378,
       "original": false
     },
     {
       "path": "demo.css",
       "url": "/components/react-bits-scroll-reveal/files/demo.css",
-      "sha256": "38bd2dec27dc401c4c5c59031ea9e40ac5744efbde7b78ab7ad753625666ac12",
-      "bytes": 193376,
+      "sha256": "b443850046bc58ac7f3e2f198ec28d4ab989a1fb97c677e1992247185586e416",
+      "bytes": 265331,
       "original": false
     },
     {

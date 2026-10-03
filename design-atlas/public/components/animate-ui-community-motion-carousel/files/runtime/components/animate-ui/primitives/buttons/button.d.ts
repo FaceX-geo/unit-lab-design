@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { type HTMLMotionProps } from 'motion/react';
-import { type WithAsChild } from '@/registry/primitives/animate/slot';
+import { type WithAsChild } from '../animate/slot';
 type ButtonProps = WithAsChild<HTMLMotionProps<'button'> & {
     hoverScale?: number;
     tapScale?: number;

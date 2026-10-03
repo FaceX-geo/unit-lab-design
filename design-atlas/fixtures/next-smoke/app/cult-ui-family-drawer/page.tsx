@@ -1,0 +1,1 @@
+import Example from '../../../../public/components/cult-ui-family-drawer/files/NextExample';import '../../../../public/components/cult-ui-family-drawer/files/demo.css';export default function Page(){return <div style={{height:'100vh'}}><Example/></div>}
