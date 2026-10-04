@@ -65,4 +65,4 @@ export default function App(){
  </div>;
 }
 
-function ExportControl({format,content,className,label,onExport,children}:{format:'json'|'markdown';content:string;className?:string;label?:string;onExport:()=>void;children:React.ReactNode}){return <form className="export-control" action="/api/export" method="post" onSubmit={onExport}><input type="hidden" name="format" value={format}/><input type="hidden" name="content" value={content}/><button type="submit" className={className} aria-label={label} title={label}>{children}</button></form>}
+function ExportControl({format,content,className,label,onExport,children}:{format:'json'|'markdown';content:string;className?:string;label?:string;onExport:()=>void;children:React.ReactNode}){return <form className="export-control" onSubmit={event=>{event.preventDefault();download(format==='json'?'design-atlas-my-collection.json':'my-design-atlas.md',content,format==='json'?'application/json;charset=utf-8':'text/markdown;charset=utf-8');onExport()}}><button type="submit" className={className} aria-label={label} title={label}>{children}</button></form>}
